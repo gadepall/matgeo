@@ -170,6 +170,31 @@ The reflection of point $\vec{Q}$ w.r.t a line is given by
 	\label{eq:11/10/4/22}
 \vec{R} = \vec{Q} -\frac{2\brak{\vec{n}^{\top}\vec{Q}-c}}{\norm{\vec{n}}}\vec{n}
 \end{align}
+	\item The lines
+\begin{align}
+\begin{split}
+	L_1: \quad   \vec{x} &=\vec{A}+ \kappa_1\vec{m_1}
+	\\
+L_2: \quad        
+	\vec{x} &= \vec{B}  + \kappa_2\vec{m_2} 
+\end{split}
+	%    \label{eq:chapters/12/11/2/16/lsq/L1L2}
+\end{align}
+are coplanar if 
+\begin{align}
+ \myvec{\vec{m_1} & \vec{m_2}
+	 & \vec{B}-\vec{A}}\vec{n} = \vec{0}
+\end{align}
+where $\vec{n}$ is the normal vector of the plane. This is equivalent to
+\begin{align}
+	\text{nullity}\myvec{\vec{M}  
+	& \vec{B}-\vec{A}} =  1
+\end{align}
+where
+\begin{align}
+	\vec{M} = 
+	\myvec{\vec{m_1} & \vec{m_2}} 
+\end{align}
 \item Code for line in 2D using direction vector
 	\begin{lstlisting}
 	codes/book/linear.py
