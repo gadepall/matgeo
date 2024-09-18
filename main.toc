@@ -83,11 +83,11 @@
 \contentsline {subsection}{\numberline {A.2}Formulae}{223}{subsection.Appendix.A.2}%
 \contentsline {subsection}{\numberline {A.3}Median}{225}{subsection.Appendix.A.3}%
 \contentsline {subsection}{\numberline {A.4}Altitude}{228}{subsection.Appendix.A.4}%
-\contentsline {subsection}{\numberline {A.5}Perpendicular Bisector}{231}{subsection.Appendix.A.5}%
-\contentsline {subsection}{\numberline {A.6}Angle Bisector}{234}{subsection.Appendix.A.6}%
-\contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{236}{subsection.Appendix.A.7}%
+\contentsline {subsection}{\numberline {A.5}Perpendicular Bisector}{232}{subsection.Appendix.A.5}%
+\contentsline {subsection}{\numberline {A.6}Angle Bisector}{235}{subsection.Appendix.A.6}%
+\contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{237}{subsection.Appendix.A.7}%
 \contentsline {subsection}{\numberline {A.8}Formulae}{238}{subsection.Appendix.A.8}%
-\contentsline {subsection}{\numberline {A.9}Matrices}{238}{subsection.Appendix.A.9}%
+\contentsline {subsection}{\numberline {A.9}Matrices}{239}{subsection.Appendix.A.9}%
 \contentsline {section}{Appendix\nobreakspace B: Conic Section}{241}{section*.112}%
 \contentsline {subsection}{\numberline {B.1}Equation}{241}{subsection.Appendix.B.1}%
 \contentsline {subsection}{\numberline {B.2}Standard Conic}{245}{subsection.Appendix.B.2}%

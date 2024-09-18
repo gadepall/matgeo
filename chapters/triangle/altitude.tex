@@ -22,6 +22,64 @@
 			\brak{\vec{A}-\vec{H}}^{\top}\brak{\vec{B}-\vec{C}} = 0
 		\end{align}
   \input{solutions/1/3/5/Q_1.3.5.tex}
+  \item Find the length of the altitude $AD_1$.
+	  \\
+		\solution 
+		If the equation of $BC$ be $\vec{n}^\top\vec{x} =c$,
+from
+			\eqref{eq:geo-param},
+\begin{align}
+			\label{eq:app-geo-param-app}
+	\vec{D}_1 = \vec{A} + k\vec{n}
+	\\
+	\implies AD_1 = \norm{\vec{D}_1 - \vec{A}}=\abs{k} \norm{\vec{n}}
+			\label{eq:app-geo-param-app-PQ}
+\end{align}
+			From \eqref{eq:app-geo-param-app},
+\begin{align}
+	\vec{n}^{\top}  \vec{D}_1 = \vec{n}^{\top}  \vec{A} + k\norm{\vec{n}}^2
+	\\
+	\implies \abs{k} = 
+	\frac{\abs{\vec{n}^{\top}\brak{\vec{D}_1 - \vec{A}}}}{\norm{\vec{n}}^2}
+			\label{eq:app-geo-param-app-k}
+			\\
+	\implies AD_1 =\abs{k}  
+		\norm{\vec{n}}	=
+	\frac{\abs{\vec{n}^{\top}\vec{A} - c}}{\norm{\vec{n}}}
+			\label{eq:app-PQ-final}
+\end{align}
+upon substituting from 
+			\eqref{eq:app-geo-param-app-PQ}.
+  \item Find $\vec{D}_1$.
+	  \\
+		\solution $\because \vec{D}_1$ lies on $BC$, 
+\begin{align}
+			\label{eq:app-BC-alt}
+\vec{n}^\top\vec{D}_1 =c
+\end{align}
+and 
+	$\because AD_1 \perp BC$,
+\begin{align}
+	\vec{m}^{\top}\brak{\vec{A}-\vec{D}_1} = 0
+	\\
+	\implies 
+	\vec{m}^{\top}\vec{D}_1 = 
+	\vec{m}^{\top}\vec{A}
+			\label{eq:app-AD1-alt}
+\end{align}
+Clubbing
+			\eqref{eq:app-BC-alt}
+			and 
+			\eqref{eq:app-AD1-alt},
+\begin{align}
+			\label{eq:app-D1-alt}
+	\myvec{\vec{m} & \vec{n}}^\top\vec{D}_1 &= 
+	   \myvec{
+              \vec{m}^\top\vec{A}\\
+	      c
+	      }
+\end{align}
+\item 
 All codes for this section are available at
 \begin{lstlisting}
 	codes/triangle/altitude.py
