@@ -1,0 +1,295 @@
+\begin{enumerate}[label=\thesubsection.\arabic*.,ref=\thesubsection.\theenumi]
+%
+%
+\item 
+	In \figref{fig:tri_alt_h},	
+$AD \perp BC$ and $BE \perp AC$ are defined to be the altitudes of $\triangle ABC$.  Let $\vec{H}$ be the intersection of the altitudes $AD$ and $BE$ as shown in Fig. \ref{fig:tri_alt_h}.  $CH$ is extended to meet $AB$ at $\vec{F}$.  Show that $CF \perp AB$.
+%
+\begin{figure}[!ht]
+	\begin{center}
+		\resizebox{0.75\columnwidth}{!}{
+		\input{figs/triangle/tri_alt_h.tex}
+		}
+	\end{center}
+	\caption{Altitudes of a triangle meet at the orthocentre $H$}
+	\label{fig:tri_alt_h}	
+\end{figure}
+%
+\\
+\solution $\because AD \perp BC, BE \perp AC$,
+%
+\begin{align}
+\brak{\vec{B}-\vec{C}}^{\top}\brak{\vec{H}-\vec{A}} &= 0  
+\\
+\brak{\vec{C}-\vec{A}}^{\top}\brak{\vec{H}-\vec{B}} &= 0  
+\end{align}
+%
+Adding both the above and simplifying, 
+%
+\begin{align}
+\brak{\vec{B}-\vec{A}}^{\top}\brak{\vec{H}-\vec{C}} &= 0  
+\end{align}
+%
+$\implies CH \perp AB$, or $CF \perp AB$.  
+%
+\item 
+  In 
+	\figref{fig:tri_med_isect}	
+	If $\vec{G}$ divides $BE$ and $CF$ in the ratios $k_1$ and $k_2$ respectively, 
+	show that
+%	Using Fig. \ref{ch2_median_ratio_val}, 
+	\begin{align}
+\label{eq:tri_med_centroid_ratio}
+k_1 = k_2 = 2 
+	\end{align}
+\begin{figure}[!ht]
+	\begin{center}
+		\resizebox{0.75\columnwidth}{!}{\input{figs/triangle/tri_med_isect.tex}}
+%		\resizebox{\columnwidth}{!}{\input{./figs/coord/tri_med_meet.tex}}
+	\end{center}
+	\caption{$k_1=k_2$.}
+	\label{fig:tri_med_isect}	
+	%\label{fig:tri_med_meet}	
+\end{figure}
+%
+\solution 
+Using 
+	  \eqref{eq:section_formula-alg}
+\begin{align}
+\vec{E}=\brak{\frac{\vec{A}+\vec{C}}{2}},
+\vec{F}=\brak{\frac{\vec{A}+\vec{B}}{2}}
+\end{align}
+and
+  \begin{align}
+	  \label{eq:section_formula-G}
+\vec{G} = 
+	   \frac{k_1\vec{E}+ \vec{B}}{k_1+1}
+	  &= \frac{k_2\vec{F}+ \vec{C}}{k_2+1}
+	  \\
+	  \implies 
+	   \brak{k_2+1}\sbrak{k_1\brak{\frac{\vec{A}+\vec{C}}{2}}+ \vec{B}}
+	  &= \brak{k_1+1}\sbrak{k_2\brak{\frac{\vec{A}+\vec{B}}{2}}+ \vec{C}}
+	  \label{eq:section_formula-G-val}
+  \end{align}
+  yielding
+\begin{multline}
+\sbrak{k_2+1-\frac{k_2\brak{k_1+1}}{2}}\vec{B}-\sbrak{\frac{k_2\brak{k_1+1}}{2}-\frac{k_1\brak{k_2+1}}{2}}\vec{A}
+\\
+-\sbrak{k_1+1-\frac{k_1\brak{k_2+1}}{2}}\vec{C}
+	  =0 
+\end{multline}
+Comparing the above with 
+	  \eqref{eq:two-tri-indep},
+	  we obtain the equations
+\begin{align}
+k_2+1-\frac{k_2\brak{k_1+1}}{2}=0
+\\
+\frac{k_2\brak{k_1+1}}{2}-\frac{k_1\brak{k_2+1}}{2}=0
+\\
+k_1+1-\frac{k_1\brak{k_2+1}}{2}
+	  =0 
+\end{align}
+yielding
+\begin{align}
+k_1=k_2
+,\
+k_1^2-k_1-2=0
+\\
+\text{or, }\brak{k_1 - 2}\brak{k_1+1} = 0
+\end{align}
+  resulting in 
+\eqref{eq:tri_med_centroid_ratio}.
+ \item 
+In	\figref{fig:tri_med_meet},	
+$AG$ is extended to join $BC$ at $\vec{D}$.  Show that $AD$ is also a median.
+\begin{figure}[!ht]
+	\begin{center}
+%		\resizebox{\columnwidth}{!}{\input{./figs/coord/tri_med_isect.tex}}
+		\resizebox{0.75\columnwidth}{!}{\input{./figs/triangle/tri_med_meet.tex}}
+	\end{center}
+	\caption{$k_3 = 2, k_4 =1$}
+%	\label{fig:tri_med_isect}	
+	\label{fig:tri_med_meet}	
+\end{figure}
+	\\
+	\solution 
+Substituting $k_1=k_2 = 2$ in \eqref{eq:section_formula-G-val},
+\begin{align}
+	\vec{G} = \frac{\vec{A}+\vec{B}+\vec{C}}{3}
+	  \label{eq:centroid-G}
+\end{align}
+	Considering the ratios in 
+	\figref{fig:tri_med_meet},	
+  \begin{align}
+\vec{G} = 
+	  \frac{k_3\vec{D}+\vec{A} }{k_3+1} 
+	  ,\
+	\vec{D}  =\frac{k_4\vec{C}+\vec{B} }{k_4+1} 
+  \end{align}
+  Substituting from 
+	  \eqref{eq:centroid-G}
+	  in the above, 
+  \begin{align}
+	  \brak{k_3+1}\brak{\frac{\vec{A}+\vec{B} + \vec{C}}{3}}
+ = 
+	  {k_3\brak{\frac{k_4\vec{C}+\vec{B} }{k_4+1}} +\vec{A} } 
+  \end{align}
+  which can be expressed as
+\begin{align}
+\brak{k_3+1}\brak{k_4+1}\brak{{\vec{A}+\vec{B} + \vec{C}}}
+ = 
+	  {3} \cbrak{ {k_3\brak{{k_4\vec{C}+\vec{B} }} +\brak{k_4+1}\vec{A} }} 
+  \end{align}
+  yielding
+  \begin{multline}
+	  \brak{k_3k_4+k_3-2k_4-2}\vec{A}
+	-  \brak{-k_3k_4-k_4+2k_3-1}\vec{B}
+	  \\
+	  - \brak{-k_3-k_4 - 1 
++2k_3k_4} \vec{C} = \vec{0}
+  \end{multline}
+  Comparing the above with 
+	  \eqref{eq:two-tri-indep},
+  \begin{align}
+	  p = {-k_3k_4-k_4+2k_3-1},\ q = {-k_3-k_4 - 1 
++2k_3k_4}
+  \end{align}
+  yielding 
+  \begin{align}
+	  \label{eq:centroid-G-meet-1}
+	   {-k_3k_4-k_4+2k_3-1} = 0
+	   \\ {-k_3-k_4 - 1 
++2k_3k_4} = 0
+	  \label{eq:centroid-G-meet-2}
+  \end{align}
+  Subtracting 
+	  \eqref{eq:centroid-G-meet-1}
+	  from
+	  \eqref{eq:centroid-G-meet-2},
+  \begin{align}
+	  3k_3\brak{k_4-1} = 0
+	  \implies k_4=1
+  \end{align}
+  which upon substituting in 
+	  \eqref{eq:centroid-G-meet-1}
+	  yields
+  \begin{align}
+	  k_3 = 2
+  \end{align}
+\item 
+		In \figref{fig:circ_tang},  $OC$ is the radius and $PC$ touches the circle at $C$.  Show that	
+  \begin{align}
+	  OC \perp PC.
+		\label{eq:circ_tang-line-orth}	
+  \end{align}
+	\begin{figure}[!ht]
+		\begin{center}
+			
+			%\includegraphics[width=\columnwidth]{./figs/fig:circ_tang_icept}
+			%\vspace*{-10cm}
+			\resizebox{0.75\columnwidth}{!}{\input{figs/circle/circ_tang.tex}}
+		\end{center}
+		\caption{}
+		\label{fig:circ_tang}	
+	\end{figure}
+	\\
+		\solution
+		The equation of $PC$ can be expressed as
+  \begin{align}
+		\label{erq:circ_tang-line}	
+	  \vec{x} = 
+	  \vec{C} + \mu\vec{m}
+  \end{align}
+  and the equation of the circle is 
+  \begin{align}
+		\label{eq:circ_tang-eq}	
+	  \norm{\vec{x}-\vec{O}} = R
+  \end{align}
+  Substituting
+		\eqref{erq:circ_tang-line}	
+		in 
+		\eqref{eq:circ_tang-eq},
+  \begin{align}
+	  \norm{\vec{C} + \mu\vec{m}- \vec{O}}^2 &= R^2
+	  \\
+	  \implies	  \mu^2 \norm{ \vec{m}}^2 
+	  + 2\mu\vec{m}^{\top}\brak{\vec{C} -\vec{O}}
+	  + \norm{\vec{C}-\vec{O}}^2 - R^2 &= 0
+  \end{align}
+  The above equation has only one root.  Hence the discriminant of the above quadratic should be zero. So, 
+  \begin{align}
+	  \cbrak{\vec{m}^{\top}\brak{\vec{C} -\vec{O}}}^2-\norm{ \vec{m}}^2 
+	  \cbrak{ \norm{\vec{C}-\vec{O}}^2 - R^2} &= 0
+		\label{erq:circ_tang-line-quad}	
+  \end{align}
+  Since $\vec{C}$ is a point on the circle, 
+  \begin{align}
+	   \norm{\vec{C}-\vec{O}}^2 - R^2 = 0
+	   \\
+	   \implies 
+	  \vec{m}^{\top}\brak{\vec{C} -\vec{O}} = 0
+		\label{eq:circ_tang-line-orth-dir}	
+  \end{align}
+upon substituting in \eqref{erq:circ_tang-line-quad}. Using the definition of the direction vector from 	
+\eqref{eq:dir-vec}
+  \begin{align}
+	  \vec{m}=\vec{P}-\vec{C} 
+	\\
+	  \implies 
+	  \brak{\vec{P}-\vec{C}}^{\top}\brak{\vec{C} -\vec{O}} = 0
+		\label{eq:circ_tang-line-orth-pc}
+  \end{align}
+		which is equivalent to 
+		\eqref{eq:circ_tang-line-orth}.
+\item In $\triangle ABC, D, E$ and $F$ are respectively the mid-points of sides $AB, BC$ and $CA $. Show that $\triangle ABC$ is divided into four congruent triangles by joining $D, E$ and $F$.
+\item  The line-segment joining the mid-points of any two sides of a triangle is parallel to the third side and is half of it.
+\label{prob:tri_mid_similar}
+%\label{prob:quad_similar}
+%%
+%\\
+%\solution If $DE$ is the lie joining he mid points of $\triangle ABC$,  use cosine formula to find the lengths of $DE$ and $BC$. Then use cosine formula to show that all angles of $\triangle ADE$ are equal to the corresponding angles of $\triangle ABC$.
+%
+\item  A line through the mid-point of a side of a triangle parallel to another side 
+bisects the third side.
+\item ABC is a triangle right angled at $C$. A line through the mid-point $M$ of hypotenuse $AB$ and parallel to $BC$ intersects $AC$ at $D$. Show that (i) $D$ is the mid-point of $AC$
+(ii) $MD \perp AC$ (iii) $CM = MA = \frac{1}{2}AB$
+\item $AB$ is a line-segment. $P$ and $Q$ are points on opposite sides of $AB$ such that each of them is equidistant from the points $A$ and $B$. Show that the line $PQ $ is the perpendicular bisector of $AB$.
+%
+\item $AB$ is a line segment and line $l$ is its perpendicular bisector. If a point $P$ lies on $l$, show that $P$ is equidistant from $A$ and $B$.
+\item $ABCD$ is a trapezium with $AB  \parallel  DC$. $E$ and $F$ are points on non-parallel sides $AD$ and $BC$ respectively such that $EF$ is parallel to $AB$
+. Show that
+$\frac{AE}{ED}=\frac{ BF}{  FC}$ .
+\item $O$ is a point in the interior of $\triangle ABC$. $D$ is a point on $OA$.  If $DE  \parallel  OB$ and $DF  \parallel  OC$. Show that $EF  \parallel  BC$.
+\item $O$ is a point in the interior of $\triangle PQR$.  $A, B and C$ are points on $OP, OQ$ and $OR$ respectively such that $AB  \parallel  PQ$ and $AC  \parallel  PR$. Show that $BC  \parallel  QR$.
+\item The diagonals of a quadrilateral $ABCD$ intersect each other at the point $O$ such that $\frac{AO}{ BO}=\frac{CO}{  DO}$.   Show that $ABCD$ is a trapezium.
+\item In parallelogram $ABCD$, two points $P$ and $Q$ are taken on diagonal $BD$ such that $DP = BQ$. show that \begin{enumerate}
+ \item  $\triangle  APD  \cong   \triangle  CQB$ 
+\item $AP = CQ$ \item  $\triangle  AQB  \cong   \triangle  CPD$ 
+\item $AQ = CP$ 
+\item $APCQ$ is a parallelogram
+\end{enumerate}
+\item $ABCD$ is a parallelogram and $AP$ and $CQ$ are perpendiculars from vertices $A$ and $C$ on diagonal $BD$ . Show that 
+\begin{enumerate} 
+\item  $\triangle  APB  \cong   \triangle  CQD $ 
+\item $AP = CQ$
+\end{enumerate}
+\item $ABCD$ is a trapezium in which $AB  \parallel  DC, BD$ is a diagonal and $E$ is the mid-point of $AD$. A line is drawn through $E$ $\parallel$  $AB$ intersecting $BC$ at $F$. Show that $F$ is the mid-point of $BC$.
+\item In a parallelogram $ABCD$, $E$ and $F$ are the mid-points of sides $AB$ and $CD$ respectively . Show that the line segments $AF$ and $EC$ trisect the diagonal $BD$.
+\item Show that the line segments joining the mid-points of the opposite sides of a quadrilateral bisect each other.
+\item $ABCD$ is a parallelogram in which $P$ and $Q$ are mid-points of opposite sides $AB$ and $CD$. If $AQ$ intersects $DP$ at $S$ and $BQ$ intersects $CP$ at $R$, show that: 
+%
+\begin{enumerate}
+\item  $APCQ$ is a parallelogram. 
+\item $DPBQ$ is a parallelogram. 
+\item $PSQR$ is a parallelogram.
+\end{enumerate}
+%
+\item Two circles intersect at two points $A and B$. $AD$ and $AC$ are diameters to the two circles. Prove that $B$ lies on the line segment $DC$.
+\item  There is one and only one circle passing through three non-collinear points. 
+\item If a line intersects two concentric circles (circles with the same centre) with centre O at A, B, C and D, prove that AB = CD.
+\item If diagonals of a cyclic quadrilateral are diameters of the circle through the vertices of
+the quadrilateral, prove that it is a rectangle.
+\item If circles are drawn taking two sides of a triangle as diameters, prove that the point of
+intersection of these circles lie on the third side.
+\end{enumerate}
+

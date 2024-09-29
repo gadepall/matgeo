@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  27 SEP 2024 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  29 SEP 2024 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1823,7 +1823,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count397
-<figs/logo.jpg, id=412, 2537.48pt x 2047.65pt>
+<figs/logo.jpg, id=425, 2537.48pt x 2047.65pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 47.
@@ -1880,7 +1880,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ])
 (./chapters/vectors/direction.tex (./chapters/12/10/2/4/vector.tex)
 (./chapters/11/10/1/5/matrix.tex [7]
-<chapters/11/10/1/5/figs/fig.pdf, id=602, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/5/figs/fig.pdf, id=617, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/5/figs/fig.pdf  used on input line 18
@@ -1930,14 +1930,14 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 79.
 LaTeX Warning: Command \textendash invalid in math mode on input line 79.
 
 (./chapters/11/10/1/9/vector.tex
-<chapters/11/10/1/9/figs/fig.pdf, id=679, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/9/figs/fig.pdf, id=694, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/9/figs/fig.pdf  used on input line 11
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/12/10/5/3/vec.tex
-<chapters/12/10/5/3/figs/fig.pdf, id=681, 462.52798pt x 346.89601pt>
+<chapters/12/10/5/3/figs/fig.pdf, id=696, 462.52798pt x 346.89601pt>
 File: chapters/12/10/5/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/10/5/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/10/5/3/figs/fig.pdf  used on input line 22
@@ -1948,7 +1948,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11 <./chapters/12/10/5/3/figs/fig.pdf>]) (./chapters/vectors/section.tex
 (./chapters/10/7/2/1/section.tex
-<chapters/10/7/2/1/figs/fig.pdf, id=767, 462.52798pt x 346.89601pt>
+<chapters/10/7/2/1/figs/fig.pdf, id=782, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/1/figs/fig.pdf  used on input line 21.
@@ -1961,7 +1961,7 @@ Package pdftex.def Info: chapters/10/7/2/1/figs/fig.pdf  used on input line 21.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-<chapters/10/7/2/9/figs/fig.pdf, id=838, 462.52798pt x 346.89601pt>
+<chapters/10/7/2/9/figs/fig.pdf, id=853, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/9/figs/fig.pdf  used on input line 10.
@@ -1972,7 +1972,7 @@ Package pdftex.def Info: chapters/10/7/2/9/figs/fig.pdf  used on input line 10.
 LaTeX Warning: Command \textendash invalid in math mode on input line 42.
 
 [14 <./chapters/10/7/2/9/figs/fig.pdf>] (./chapters/10/7/4/7/section.tex
-<chapters/10/7/4/7/figs/fig.pdf, id=888, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/7/figs/fig.pdf, id=903, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/7/figs/fig.pdf  used on input line 19.
@@ -1984,7 +1984,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17])
 (./chapters/vectors/rank.tex (./chapters/11/10/2/20/line.tex
-<chapters/11/10/2/20/figs/fig.pdf, id=980, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/20/figs/fig.pdf, id=995, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/20/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/20/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/20/figs/fig.pdf  used on input line 1
@@ -2035,7 +2035,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 36.
 \gnumericColC=\skip87
 \gnumericColD=\skip88
 ) [22]
-<chapters/10/7/1/7/figs/fig.pdf, id=1140, 462.52798pt x 346.89601pt>
+<chapters/10/7/1/7/figs/fig.pdf, id=1155, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/1/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/1/7/figs/fig.pdf  used on input line 41.
@@ -2108,7 +2108,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
 (./chapters/12/10/3/17/inner.tex) (./chapters/12/10/3/3/inner.tex
-<chapters/12/10/3/3/figs/fig.pdf, id=1563, 462.52798pt x 346.89601pt>
+<chapters/12/10/3/3/figs/fig.pdf, id=1578, 462.52798pt x 346.89601pt>
 File: chapters/12/10/3/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/10/3/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/10/3/3/figs/fig.pdf  used on input line 15
@@ -2135,7 +2135,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 38.
 LaTeX Warning: Command \textendash invalid in math mode on input line 38.
 
 (./chapters/10/7/4/8/inner.tex
-<chapters/10/7/4/8/figs/fig.pdf, id=1602, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/8/figs/fig.pdf, id=1617, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/8/figs/fig.pdf  used on input line 30.
@@ -2149,19 +2149,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [42]
 (./chapters/10/7/1/6/inner.tex
-<chapters/10/7/1/6/figs/fig1.pdf, id=1669, 462.52798pt x 346.89601pt>
+<chapters/10/7/1/6/figs/fig1.pdf, id=1684, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/6/figs/fig1.pdf Graphic file (type pdf)
 <use chapters/10/7/1/6/figs/fig1.pdf>
 Package pdftex.def Info: chapters/10/7/1/6/figs/fig1.pdf  used on input line 14
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/1/6/figs/fig2.pdf, id=1670, 462.52798pt x 346.89601pt>
+<chapters/10/7/1/6/figs/fig2.pdf, id=1685, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/6/figs/fig2.pdf Graphic file (type pdf)
 <use chapters/10/7/1/6/figs/fig2.pdf>
 Package pdftex.def Info: chapters/10/7/1/6/figs/fig2.pdf  used on input line 22
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/1/6/figs/fig3.pdf, id=1671, 462.52798pt x 346.89601pt>
+<chapters/10/7/1/6/figs/fig3.pdf, id=1686, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/6/figs/fig3.pdf Graphic file (type pdf)
 <use chapters/10/7/1/6/figs/fig3.pdf>
 Package pdftex.def Info: chapters/10/7/1/6/figs/fig3.pdf  used on input line 30
@@ -2191,7 +2191,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 88.
 Underfull \vbox (badness 7649) has occurred while \output is active []
 
  [45]
-<chapters/11/10/1/6/figs/fig.pdf, id=1790, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/6/figs/fig.pdf, id=1805, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/6/figs/fig.pdf  used on input line 17
@@ -2271,7 +2271,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 34.
 LaTeX Warning: Command \textendash invalid in math mode on input line 45.
 
 (./chapters/10/7/3/3/cross.tex
-<chapters/10/7/3/3/figs/fig.pdf, id=1922, 462.52798pt x 346.89601pt>
+<chapters/10/7/3/3/figs/fig.pdf, id=1937, 462.52798pt x 346.89601pt>
 File: chapters/10/7/3/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/3/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/3/3/figs/fig.pdf  used on input line 44.
@@ -2294,7 +2294,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 50.
 LaTeX Warning: Command \textendash invalid in math mode on input line 50.
 
 (./chapters/10/7/3/4/cross.tex
-<chapters/10/7/3/4/figs/fig.pdf, id=1948, 462.52798pt x 346.89601pt>
+<chapters/10/7/3/4/figs/fig.pdf, id=1963, 462.52798pt x 346.89601pt>
 File: chapters/10/7/3/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/3/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/3/4/figs/fig.pdf  used on input line 5.
@@ -2317,14 +2317,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53]
 (./chapters/10/7/3/5/area.tex
-<chapters/10/7/3/5/figs/fig.pdf, id=2017, 462.52798pt x 346.89601pt>
+<chapters/10/7/3/5/figs/fig.pdf, id=2032, 462.52798pt x 346.89601pt>
 File: chapters/10/7/3/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/3/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/3/5/figs/fig.pdf  used on input line 27.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/10/7/4/6/section.tex
-<chapters/10/7/4/6/figs/fig.pdf, id=2019, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/6/figs/fig.pdf, id=2034, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/6/figs/fig.pdf  used on input line 5.
@@ -2336,7 +2336,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [55 <./chapters/10/7/4/6/figs/fig.pdf>] (./chapters/11/10/1/1/cross.tex
-<chapters/11/10/1/1/figs/fig.pdf, id=2091, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/1/figs/fig.pdf, id=2106, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/1/figs/fig.pdf  used on input line 11
@@ -2359,19 +2359,19 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 27.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
-<chapters/10/7/4/4/figs/fig.pdf, id=2209, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/4/figs/fig.pdf, id=2224, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/4/figs/fig.pdf  used on input line 51.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/4/4/figs/fig1.pdf, id=2210, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/4/figs/fig1.pdf, id=2225, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/4/figs/fig1.pdf Graphic file (type pdf)
 <use chapters/10/7/4/4/figs/fig1.pdf>
 Package pdftex.def Info: chapters/10/7/4/4/figs/fig1.pdf  used on input line 58
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/4/4/figs/fig2.pdf, id=2211, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/4/figs/fig2.pdf, id=2226, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/4/figs/fig2.pdf Graphic file (type pdf)
 <use chapters/10/7/4/4/figs/fig2.pdf>
 Package pdftex.def Info: chapters/10/7/4/4/figs/fig2.pdf  used on input line 65
@@ -2383,7 +2383,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [60 <./chapters/10/7/4/4/figs/fig.pdf>]) [61 <./chapters/10/7/4/4/figs/fig1.pd
 f> <./chapters/10/7/4/4/figs/fig2.pdf>] (./chapters/12/10/3/6/norm.tex)
 (./chapters/11/10/1/2/matrix.tex
-<chapters/11/10/1/2/figs/fig.pdf, id=2304, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/2/figs/fig.pdf, id=2319, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/2/figs/fig.pdf  used on input line 3.
@@ -2411,7 +2411,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [67])
 [68] (./chapters/formulae/const.tex) (./chapters/const/tri.tex
 (./chapters/9/11/2/1/line.tex
-<chapters/9/11/2/1/figs/vector.pdf, id=2466, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/1/figs/vector.pdf, id=2481, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/1/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/1/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/1/figs/vector.pdf  used on input line 
@@ -2422,14 +2422,14 @@ Underfull \vbox (badness 1661) has occurred while \output is active []
 
  [69])
 (./chapters/9/11/2/2/vector.tex
-<chapters/9/11/2/2/figs/vector.pdf, id=2490, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/2/figs/vector.pdf, id=2505, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/2/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/2/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/2/figs/vector.pdf  used on input line 
 4.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/9/11/2/3/line.tex
-<chapters/9/11/2/3/figs/vector.pdf, id=2492, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/3/figs/vector.pdf, id=2507, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/3/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/3/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/3/figs/vector.pdf  used on input line 
@@ -2438,14 +2438,14 @@ Package pdftex.def Info: chapters/9/11/2/3/figs/vector.pdf  used on input line
 ) [70 <./chapters/9/11/2/1/figs/vector.pdf> <./chapters/9/11/2/2/figs/vector.pd
 f>]
 (./chapters/9/11/2/5/line.tex
-<chapters/9/11/2/5/figs/vector.pdf, id=2553, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/5/figs/vector.pdf, id=2568, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/5/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/5/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/5/figs/vector.pdf  used on input line 
 5.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/9/11/2/4/line.tex
-<chapters/9/11/2/4/figs/vector.pdf, id=2557, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/4/figs/vector.pdf, id=2572, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/4/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/4/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/4/figs/vector.pdf  used on input line 
@@ -2468,7 +2468,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Command \textendash invalid in math mode on input line 3.
 
 (./chapters/11/10/2/2/line.tex
-<chapters/11/10/2/2/figs/fig.pdf, id=2790, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/2/figs/fig.pdf, id=2805, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/2/figs/fig.pdf  used on input line 11
@@ -2483,7 +2483,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [79 <./chapters/11/10/2/2/figs/fig.pdf>]) (./chapters/11/10/2/7/line.tex
-<chapters/11/10/2/7/figs/fig.pdf, id=2856, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/7/figs/fig.pdf, id=2871, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/7/figs/fig.pdf  used on input line 36
@@ -2497,7 +2497,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81 <./chapters/11/10/2/7/figs/fig.pdf>]
-<chapters/11/10/2/5/figs/fig.pdf, id=2903, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/5/figs/fig.pdf, id=2918, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/5/figs/fig.pdf  used on input line 15
@@ -2530,13 +2530,13 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 23.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 23.
 
-<chapters/12/11/3/6/figs/fig.pdf, id=2943, 578.16pt x 433.62pt>
+<chapters/12/11/3/6/figs/fig.pdf, id=2958, 578.16pt x 433.62pt>
 File: chapters/12/11/3/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/11/3/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/11/3/6/figs/fig.pdf  used on input line 50
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86006pt.
-<chapters/12/11/3/6/figs/fig1.pdf, id=2944, 578.16pt x 433.62pt>
+<chapters/12/11/3/6/figs/fig1.pdf, id=2959, 578.16pt x 433.62pt>
 File: chapters/12/11/3/6/figs/fig1.pdf Graphic file (type pdf)
 <use chapters/12/11/3/6/figs/fig1.pdf>
 Package pdftex.def Info: chapters/12/11/3/6/figs/fig1.pdf  used on input line 5
@@ -2548,7 +2548,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [83])
 (./chapters/11/10/2/12/line.tex [84 <./chapters/12/11/3/6/figs/fig.pdf> <./chap
 ters/12/11/3/6/figs/fig1.pdf>]
-<chapters/11/10/2/12/figs/fig.pdf, id=3004, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/12/figs/fig.pdf, id=3020, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/12/figs/fig.pdf  used on input line 3
@@ -2556,7 +2556,7 @@ Package pdftex.def Info: chapters/11/10/2/12/figs/fig.pdf  used on input line 3
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) [85 <./chapters/11/10/2/12/figs/fig.pdf>]
 (./chapters/11/10/2/13/line.tex
-<chapters/11/10/2/13/figs/fig.pdf, id=3045, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/13/figs/fig.pdf, id=3060, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/13/figs/fig.pdf  used on input line 5
@@ -2566,7 +2566,7 @@ Package pdftex.def Info: chapters/11/10/2/13/figs/fig.pdf  used on input line 5
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [86]
-<chapters/11/10/1/14/figs/fig.pdf, id=3066, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/14/figs/fig.pdf, id=3081, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/14/figs/fig.pdf  used on input line 1
@@ -2583,7 +2583,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [88]
 (./chapters/10/7/4/1/section.tex
-<chapters/10/7/4/1/figs/fig.pdf, id=3154, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/1/figs/fig.pdf, id=3169, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/1/figs/fig.pdf  used on input line 20.
@@ -2604,7 +2604,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 61.
 
 ) (./chapters/linear/parallel.tex (./chapters/12/11/4/19/line.tex)
 (./chapters/12/11/3/8/plane.tex [92]
-<chapters/12/11/3/8/figs/fig.pdf, id=3258, 578.16pt x 433.62pt>
+<chapters/12/11/3/8/figs/fig.pdf, id=3273, 578.16pt x 433.62pt>
 File: chapters/12/11/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/11/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/11/3/8/figs/fig.pdf  used on input line 18
@@ -2612,7 +2612,7 @@ Package pdftex.def Info: chapters/12/11/3/8/figs/fig.pdf  used on input line 18
 (pdftex.def)             Requested size: 273.14647pt x 204.86006pt.
 ) (./chapters/11/10/3/7/line.tex)
 (./chapters/11/10/2/14/line.tex [93 <./chapters/12/11/3/8/figs/fig.pdf>]
-<chapters/11/10/2/14/figs/fig.pdf, id=3296, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/14/figs/fig.pdf, id=3312, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/14/figs/fig.pdf  used on input line 2
@@ -2624,7 +2624,7 @@ Package pdftex.def Info: chapters/11/10/2/14/figs/fig.pdf  used on input line 2
 Underfull \vbox (badness 4254) has occurred while \output is active []
 
  [95]
-<chapters/11/10/3/10/figs/fig.pdf, id=3356, 462.52798pt x 346.89601pt>
+<chapters/11/10/3/10/figs/fig.pdf, id=3371, 462.52798pt x 346.89601pt>
 File: chapters/11/10/3/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/3/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/3/10/figs/fig.pdf  used on input line 1
@@ -2646,7 +2646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 (./chapters/11/10/3/6/dist.tex) (./chapters/11/10/3/5/line.tex [98]
-<chapters/11/10/3/5/figs/fig.pdf, id=3446, 462.52798pt x 346.89601pt>
+<chapters/11/10/3/5/figs/fig.pdf, id=3461, 462.52798pt x 346.89601pt>
 File: chapters/11/10/3/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/3/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/3/5/figs/fig.pdf  used on input line 24
@@ -2655,7 +2655,7 @@ Package pdftex.def Info: chapters/11/10/3/5/figs/fig.pdf  used on input line 24
 )
 (./chapters/11/10/4/4/line.tex) (./chapters/11/10/3/14/line.tex [99 <./chapters
 /11/10/3/5/figs/fig.pdf>]
-<chapters/11/10/3/14/figs/fig.pdf, id=3488, 462.52798pt x 346.89601pt>
+<chapters/11/10/3/14/figs/fig.pdf, id=3503, 462.52798pt x 346.89601pt>
 File: chapters/11/10/3/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/3/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/3/14/figs/fig.pdf  used on input line 5
@@ -2671,21 +2671,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [101]
 (./chapters/11/10/4/21/line.tex
-<chapters/11/10/4/21/figs/fig.pdf, id=3543, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/21/figs/fig.pdf, id=3558, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/21/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/21/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/21/figs/fig.pdf  used on input line 1
 9.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/11/10/2/10/line.tex
-<chapters/11/10/2/10/figs/fig.pdf, id=3545, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/10/figs/fig.pdf, id=3560, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/10/figs/fig.pdf  used on input line 5
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
  [102 <./chapters/11/10/4/21/figs/fig.pdf>]) (./chapters/11/10/2/15/line.tex
-<chapters/11/10/2/15/figs/fig.pdf, id=3581, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/15/figs/fig.pdf, id=3596, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/15/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/15/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/15/figs/fig.pdf  used on input line 1
@@ -2712,7 +2712,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Command \textendash invalid in math mode on input line 8.
 
 (./chapters/11/10/4/11/strline.tex
-<chapters/11/10/4/11/figs/fig.pdf, id=3746, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/11/figs/fig.pdf, id=3761, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/11/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/11/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/11/figs/fig.pdf  used on input line 2
@@ -2734,7 +2734,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 2.
 
 (./chapters/12/11/3/9/plane.tex [110 <./chapters/11/10/4/11/figs/fig.pdf>])
 (./chapters/11/10/4/24/line.tex
-<chapters/11/10/4/24/figs/fig.pdf, id=3813, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/24/figs/fig.pdf, id=3828, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/24/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/24/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/24/figs/fig.pdf  used on input line 2
@@ -2745,7 +2745,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [111])
 (./chapters/11/10/4/6/line.tex
-<chapters/11/10/4/6/figs/fig.pdf, id=3832, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/6/figs/fig.pdf, id=3847, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/6/figs/fig.pdf  used on input line 40
@@ -2756,7 +2756,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [112 <./chapters/11/10/4/24/figs/fig.pdf>] (./chapters/11/10/4/12/straightline
 .tex
-<chapters/11/10/4/12/figs/fig.pdf, id=3878, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/12/figs/fig.pdf, id=3893, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/12/figs/fig.pdf  used on input line 3
@@ -2764,7 +2764,7 @@ Package pdftex.def Info: chapters/11/10/4/12/figs/fig.pdf  used on input line 3
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
 [113 <./chapters/11/10/4/6/figs/fig.pdf>] (./chapters/11/10/4/9/vec1.tex
-<chapters/11/10/4/9/figs/fig.pdf, id=3916, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/9/figs/fig.pdf, id=3931, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/9/figs/fig.pdf  used on input line 36
@@ -2793,7 +2793,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 96.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [119]
-<chapters/11/10/4/22/figs/fig.pdf, id=4099, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/22/figs/fig.pdf, id=4114, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/22/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/22/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/22/figs/fig.pdf  used on input line 4
@@ -3001,7 +3001,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 3058) has occurred while \output is active []
 
  [155]
-<chapters/12/11/2/15/figs/Figure_1.png, id=4873, 462.528pt x 346.896pt>
+<chapters/12/11/2/15/figs/Figure_1.png, id=4888, 462.528pt x 346.896pt>
 File: chapters/12/11/2/15/figs/Figure_1.png Graphic file (type png)
 <use chapters/12/11/2/15/figs/Figure_1.png>
 Package pdftex.def Info: chapters/12/11/2/15/figs/Figure_1.png  used on input l
@@ -3015,7 +3015,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [157 <./chapters/12/11/2/15/figs/Figure_1.png>]
-<chapters/12/11/2/16/lsq/figs/skew.png, id=4903, 462.528pt x 346.896pt>
+<chapters/12/11/2/16/lsq/figs/skew.png, id=4919, 462.528pt x 346.896pt>
 File: chapters/12/11/2/16/lsq/figs/skew.png Graphic file (type png)
 <use chapters/12/11/2/16/lsq/figs/skew.png>
 Package pdftex.def Info: chapters/12/11/2/16/lsq/figs/skew.png  used on input l
@@ -3029,7 +3029,7 @@ in.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [159]
-<chapters/12/11/2/e11/lsq/figs/skew.png, id=4935, 462.528pt x 346.896pt>
+<chapters/12/11/2/e11/lsq/figs/skew.png, id=4950, 462.528pt x 346.896pt>
 File: chapters/12/11/2/e11/lsq/figs/skew.png Graphic file (type png)
 <use chapters/12/11/2/e11/lsq/figs/skew.png>
 Package pdftex.def Info: chapters/12/11/2/e11/lsq/figs/skew.png  used on input 
@@ -3056,7 +3056,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [165]
 [166]) [167] (./chapters/formulae/circle/equation.tex)
 (./chapters/circles/examples/equation.tex (./chapters/10/7/2/7/section.tex
-<chapters/10/7/2/7/figs/fig.pdf, id=5072, 462.52798pt x 346.89601pt>
+<chapters/10/7/2/7/figs/fig.pdf, id=5087, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/7/figs/fig.pdf  used on input line 14.
@@ -3067,7 +3067,7 @@ Package pdftex.def Info: chapters/10/7/2/7/figs/fig.pdf  used on input line 14.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [169 <./chapters/10/7/2/7/figs/fig.pdf>]
-<chapters/11/11/1/10/figs/fig.pdf, id=5132, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/10/figs/fig.pdf, id=5148, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/10/figs/fig.pdf  used on input line 5
@@ -3075,7 +3075,7 @@ Package pdftex.def Info: chapters/11/11/1/10/figs/fig.pdf  used on input line 5
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/11/11/1/11/circle.tex)
 (./chapters/11/11/1/12/circle.tex
-<chapters/11/11/1/12/figs/fig.pdf, id=5135, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/12/figs/fig.pdf, id=5151, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/12/figs/fig.pdf  used on input line 5
@@ -3084,7 +3084,7 @@ Package pdftex.def Info: chapters/11/11/1/12/figs/fig.pdf  used on input line 5
  [170 <./chapters/11/11/1/10/figs/fig.pdf>]
 [171 <./chapters/11/11/1/12/figs/fig.pdf>]) (./chapters/11/11/1/14/circle.tex)
 (./chapters/11/11/1/15/circle.tex (./chapters/11/11/1/15/tables/table_1.tex)
-<chapters/11/11/1/15/figs/fig.pdf, id=5245, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/15/figs/fig.pdf, id=5260, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/15/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/15/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/15/figs/fig.pdf  used on input line 2
@@ -3095,7 +3095,7 @@ Underfull \vbox (badness 6284) has occurred while \output is active []
 
  [172]
 (./chapters/10/7/4/3/circle.tex
-<chapters/10/7/4/3/figs/fig.pdf, id=5267, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/3/figs/fig.pdf, id=5282, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/3/figs/fig.pdf  used on input line 19.
@@ -3115,7 +3115,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [179])
 (./chapters/conics/examples/equation.tex (./chapters/11/11/2/1/parab.tex
-<chapters/11/11/2/1/figs/fig.pdf, id=5494, 462.52798pt x 346.89601pt>
+<chapters/11/11/2/1/figs/fig.pdf, id=5509, 462.52798pt x 346.89601pt>
 File: chapters/11/11/2/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/2/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/2/1/figs/fig.pdf  used on input line 11
@@ -3129,14 +3129,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Command \textendash invalid in math mode on input line 9.
 
 (./chapters/11/11/3/1/ellipse.tex
-<chapters/11/11/3/1/figs/fig.pdf, id=5518, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/1/figs/fig.pdf, id=5533, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/1/figs/fig.pdf  used on input line 7.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/11/11/4/1/hyper.tex
-<chapters/11/11/4/1/figs/fig.pdf, id=5521, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/1/figs/fig.pdf, id=5536, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/1/figs/fig.pdf  used on input line 7.
@@ -3146,7 +3146,7 @@ Package pdftex.def Info: chapters/11/11/4/1/figs/fig.pdf  used on input line 7.
 
 (./chapters/conics/tables/std.tex) (./chapters/11/11/3/2/ellipse.tex [182 <./ch
 apters/11/11/4/1/figs/fig.pdf>]
-<chapters/11/11/3/2/figs/fig.pdf, id=5682, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/2/figs/fig.pdf, id=5697, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/2/figs/fig.pdf  used on input line 12
@@ -3154,7 +3154,7 @@ Package pdftex.def Info: chapters/11/11/3/2/figs/fig.pdf  used on input line 12
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/conics/tables/rot.tex)
 (./chapters/11/11/4/5/hyper.tex
-<chapters/11/11/4/5/figs/fig.pdf, id=5686, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/5/figs/fig.pdf, id=5701, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/5/figs/fig.pdf  used on input line 9.
@@ -3162,7 +3162,7 @@ Package pdftex.def Info: chapters/11/11/4/5/figs/fig.pdf  used on input line 9.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
  [183 <./chapters/11/11/3/2/figs/fig.pdf>])
 (./chapters/11/11/2/4/parab.tex
-<chapters/11/11/2/4/figs/fig.pdf, id=5741, 462.52798pt x 346.89601pt>
+<chapters/11/11/2/4/figs/fig.pdf, id=5756, 462.52798pt x 346.89601pt>
 File: chapters/11/11/2/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/2/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/2/4/figs/fig.pdf  used on input line 6.
@@ -3173,7 +3173,7 @@ Package pdftex.def Info: chapters/11/11/2/4/figs/fig.pdf  used on input line 6.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [185]
-<chapters/11/11/4/13/figs/fig.pdf, id=5892, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/13/figs/fig.pdf, id=5907, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/13/figs/fig.pdf  used on input line 9
@@ -3184,7 +3184,7 @@ Package pdftex.def Info: chapters/11/11/4/13/figs/fig.pdf  used on input line 9
 Underfull \vbox (badness 7344) has occurred while \output is active []
 
  [186 <./chapters/11/11/4/13/figs/fig.pdf>] (./chapters/11/11/4/14/hyper.tex
-<chapters/11/11/4/14/figs/fig.pdf, id=5962, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/14/figs/fig.pdf, id=5977, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/14/figs/fig.pdf  used on input line 4
@@ -3195,7 +3195,7 @@ Package pdftex.def Info: chapters/11/11/4/14/figs/fig.pdf  used on input line 4
 Underfull \vbox (badness 4378) has occurred while \output is active []
 
  [188 <./chapters/11/11/4/14/figs/fig.pdf>]
-<chapters/11/11/3/19/figs/fig.pdf, id=6033, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/19/figs/fig.pdf, id=6048, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/19/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/19/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/19/figs/fig.pdf  used on input line 5
@@ -3203,7 +3203,7 @@ Package pdftex.def Info: chapters/11/11/3/19/figs/fig.pdf  used on input line 5
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) [189 <./chapters/11/11/3/19/figs/fig.pdf>]
 (./chapters/11/11/3/20/ellipse.tex
-<chapters/11/11/3/20/figs/fig.pdf, id=6085, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/20/figs/fig.pdf, id=6100, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/20/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/20/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/20/figs/fig.pdf  used on input line 4
@@ -3217,7 +3217,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 6995) has occurred while \output is active []
 
  [191 <./chapters/11/11/3/20/figs/fig.pdf>]
-<chapters/11/11/4/9/figs/fig.pdf, id=6151, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/9/figs/fig.pdf, id=6166, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/9/figs/fig.pdf  used on input line 52
@@ -3232,14 +3232,14 @@ $ [][][]
  []
 
 ) (./chapters/inter/examples/chord.tex [196] (./chapters/12/8/3/2/conic.tex
-<chapters/12/8/3/2/figs/fig.pdf, id=6329, 462.52798pt x 346.89601pt>
+<chapters/12/8/3/2/figs/fig.pdf, id=6344, 462.52798pt x 346.89601pt>
 File: chapters/12/8/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/3/2/figs/fig.pdf  used on input line 3.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
 (./chapters/12/8/1/1/conic.tex
-<chapters/12/8/1/1/figs/fig.pdf, id=6332, 462.52798pt x 346.89601pt>
+<chapters/12/8/1/1/figs/fig.pdf, id=6347, 462.52798pt x 346.89601pt>
 File: chapters/12/8/1/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/1/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/1/1/figs/fig.pdf  used on input line 3.
@@ -3248,7 +3248,7 @@ Package pdftex.def Info: chapters/12/8/1/1/figs/fig.pdf  used on input line 3.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [198 <./chapters/12/8/1/1/figs/fig.pdf>]) (./chapters/12/8/1/6/conic.tex
-<chapters/12/8/1/6/figs/fig.pdf, id=6431, 462.52798pt x 346.89601pt>
+<chapters/12/8/1/6/figs/fig.pdf, id=6446, 462.52798pt x 346.89601pt>
 File: chapters/12/8/1/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/1/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/1/6/figs/fig.pdf  used on input line 3.
@@ -3257,7 +3257,7 @@ Package pdftex.def Info: chapters/12/8/1/6/figs/fig.pdf  used on input line 3.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [199 <./chapters/12/8/1/6/figs/fig.pdf>]) (./chapters/12/8/3/8/conic.tex
-<chapters/12/8/3/8/figs/fig.pdf, id=6485, 462.52798pt x 346.89601pt>
+<chapters/12/8/3/8/figs/fig.pdf, id=6501, 462.52798pt x 346.89601pt>
 File: chapters/12/8/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/3/8/figs/fig.pdf  used on input line 3.
@@ -3271,7 +3271,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [202]
-<chapters/12/8/2/2/figs/fig.pdf, id=6589, 462.52798pt x 346.89601pt>
+<chapters/12/8/2/2/figs/fig.pdf, id=6604, 462.52798pt x 346.89601pt>
 File: chapters/12/8/2/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/2/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/2/2/figs/fig.pdf  used on input line 66.
@@ -3287,7 +3287,7 @@ Underfull \vbox (badness 2027) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [207]
-<chapters/12/6/3/19/figs/fig.pdf, id=6718, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/19/figs/fig.pdf, id=6733, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/19/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/19/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/19/figs/fig.pdf  used on input line 34
@@ -3296,14 +3296,14 @@ Package pdftex.def Info: chapters/12/6/3/19/figs/fig.pdf  used on input line 34
 ))
 (./chapters/tangent/examples/conic.tex (./chapters/12/6/3/2/tangent.tex
 [208 <./chapters/12/6/3/19/figs/fig.pdf>]
-<chapters/12/6/3/2/figs/fig.pdf, id=6771, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/2/figs/fig.pdf, id=6786, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/2/figs/fig.pdf  used on input line 32.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/12/6/3/8/tangent.tex
-<chapters/12/6/3/8/figs/fig.pdf, id=6772, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/8/figs/fig.pdf, id=6787, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/8/figs/fig.pdf  used on input line 3.
@@ -3316,7 +3316,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [211]
-<chapters/12/6/3/10/figs/fig.pdf, id=6900, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/10/figs/fig.pdf, id=6915, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/10/figs/fig.pdf  used on input line 40
@@ -3331,7 +3331,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 Underfull \vbox (badness 5008) has occurred while \output is active []
 
  [212 <./chapters/12/6/3/10/figs/fig.pdf>]
-<chapters/12/6/3/13/figs/fig.pdf, id=6957, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/13/figs/fig.pdf, id=6972, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/13/figs/fig.pdf  used on input line 35
@@ -3342,7 +3342,7 @@ Package pdftex.def Info: chapters/12/6/3/13/figs/fig.pdf  used on input line 35
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [214]
-<chapters/12/6/5/27/figs/fig.pdf, id=7041, 462.52798pt x 346.89601pt>
+<chapters/12/6/5/27/figs/fig.pdf, id=7056, 462.52798pt x 346.89601pt>
 File: chapters/12/6/5/27/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/5/27/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/5/27/figs/fig.pdf  used on input line 10
@@ -3350,7 +3350,7 @@ Package pdftex.def Info: chapters/12/6/5/27/figs/fig.pdf  used on input line 10
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
 (./chapters/12/6/6/4/tangent.tex [215 <./chapters/12/6/5/27/figs/fig.pdf>]
-<chapters/12/6/6/4/figs/fig.pdf, id=7097, 462.52798pt x 346.89601pt>
+<chapters/12/6/6/4/figs/fig.pdf, id=7112, 462.52798pt x 346.89601pt>
 File: chapters/12/6/6/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/6/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/6/4/figs/fig.pdf  used on input line 47.
@@ -3368,71 +3368,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 Underfull \vbox (badness 3386) has occurred while \output is active []
 
  [217])
-(./cbse/tangent/const.tex [218]) (./chapters/triangle/vector.tex [219]
+(./cbse/tangent/const.tex [218]) [219] (./chapters/formulae/vectors/alg.tex)
+(./chapters/vectors/examples.tex (./figs/triangle/tri_alt_h.tex)
+(./figs/triangle/tri_med_isect.tex) [220]
+Underfull \vbox (badness 5504) has occurred while \output is active []
+
+ [221]
+(./figs/triangle/tri_med_meet.tex) [222] (./figs/circle/circ_tang.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [220]
-<figs/triangle/vector.pdf, id=7237, 462.52798pt x 346.89601pt>
+ [223]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [224])
+[225] (./chapters/triangle/vector.tex [226]
+<figs/triangle/vector.pdf, id=7369, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 
-[221 <./figs/triangle/vector.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [222]
+ [227]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [223])
-(./chapters/formulae/line.tex [224]) (./chapters/triangle/median.tex
+ [228 <./figs/triangle/vector.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [225]
-(./solutions/1/2/1/main.tex) (./solutions/1/2/2/main.tex
+ [229]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [230])
+(./chapters/formulae/line.tex [231]) (./chapters/triangle/median.tex
+(./solutions/1/2/1/main.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [232])
+(./solutions/1/2/2/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--3
 
  []
 
-
+) (./solutions/1/2/3/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [226])
-(./solutions/1/2/3/main.tex) (./solutions/1/2/4_1/main.tex
+ [233])
+(./solutions/1/2/4_1/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [227])
+ [234])
 (./solutions/1/2/5/main.tex
-<figs/triangle/median.pdf, id=7457, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=7606, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./solutions/1/2/6/main.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [228]
 (./solutions/1/2/7/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 36--2
 
  []
 
-<figs/triangle/pgm.pdf, id=7483, 462.52798pt x 346.89601pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235]
+<figs/triangle/pgm.pdf, id=7629, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./chapters/triangle/altitude.tex (./solutions/1/3/1/main.tex [229 <./figs/t
-riangle/median.pdf>]) (./solutions/1/3/2/Q1.3.2.tex)
+))
+(./chapters/triangle/altitude.tex (./solutions/1/3/1/main.tex)
+(./solutions/1/3/2/Q1.3.2.tex [236 <./figs/triangle/median.pdf>])
 (./solutions/1/3/3/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 15--3
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6893) has occurred while \output is active []
 
- [230 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
+ [237 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--10
 
  []
@@ -3443,105 +3461,115 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--10
  ob-tained from the
  []
 
-<figs/triangle/altitude.pdf, id=7575, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=7724, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
+)
+Underfull \vbox (badness 1127) has occurred while \output is active []
 
+ [238 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex))
+(./chapters/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [239])
+(./solutions/1/4/2/main.tex) (./solutions/1/4/3/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [231])
-(./solutions/1/3/5/Q_1.3.5.tex)
-Underfull \vbox (badness 7168) has occurred while \output is active []
-
- [232 <./figs/triangle/altitude.pdf>]) (./chapters/triangle/perp-bisect.tex
-(./solutions/1/4/1/q1.4.1.tex) (./solutions/1/4/2/main.tex [233])
-(./solutions/1/4/3/main.tex) (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=7682, 462.52798pt x 346.89601pt>
+ [240])
+(./solutions/1/4/5/assignment2.tex
+<figs/triangle/perp-bisect.pdf, id=7830, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)
-(./solutions/1/4/6/Q_1.4.6.tex
+) (./solutions/1/4/6/Q_1.4.6.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [234])
-Underfull \vbox (badness 1448) has occurred while \output is active []
-
- [235 <./figs/triangle/perp-bisect.pdf>]
+ [241 <./figs/triangle/perp-bisect.pdf>])
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 4
 7.
 
 (/data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/tex/latex/txfont
 s/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-)) (./chapters/triangle/angle-bisect.tex
-(./solutions/1/5/11/main.tex [236]) (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=7786, 462.52798pt x 346.89601pt>
+) [242]) (./chapters/triangle/angle-bisect.tex
+(./solutions/1/5/11/main.tex
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [243])
+(./solutions/1/5/4/main.tex
+<figs/triangle/ang-bisect.pdf, id=7931, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [237 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex [238])
+) [244 <./figs/triangle/ang-bisect.pdf>])
+(./chapters/triangle/eigen.tex
+Underfull \vbox (badness 1796) has occurred while \output is active []
 
-(./chapters/formulae/circle/tangent.tex [239]) (./chapters/triangle/matrix.tex
-[240]) [241] (./chapters/formulae/conics/app.tex
+ [245])
+(./chapters/formulae/circle/tangent.tex
+Underfull \vbox (badness 4582) has occurred while \output is active []
+
+ [246])
+(./chapters/triangle/matrix.tex
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+ [247])
+[248] (./chapters/formulae/conics/app.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [242]
+ [249]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [243]
+ [250]
 (./tables/det.tex)
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
- [244]
+ [251]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [245]
-[246]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [247]
-[248]
-Underfull \vbox (badness 2269) has occurred while \output is active []
-
- [249]
-Underfull \vbox (badness 2073) has occurred while \output is active []
-
- [250]
-[251]
-Underfull \vbox (badness 1960) has occurred while \output is active []
 
  [252]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [253]
+[253]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [254]
+[255]
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+ [256]
+Underfull \vbox (badness 2073) has occurred while \output is active []
+
+ [257]
+[258]
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [259]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [255]
+ [260]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [261]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [262]
 Underfull \hbox (badness 1845) in paragraph at lines 1372--1378
 []\OT1/txr/m/n/10 From [] we ob-tain []. Con-se-quently, from [],
  []
 
-[256]) [257] (./main.aux)
+[263]) [264] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 70B84F88378F025F20657A73856B6E8F;10160.
+(rerunfilecheck)             Checksum: BAA433919EA2C1D668F7CC94061456ED;10478.
  ) 
 Here is how much of TeX's memory you used:
- 61999 strings out of 474104
- 1465501 string characters out of 5729886
+ 62272 strings out of 474104
+ 1470111 string characters out of 5729886
  1990493 words of memory out of 5000000
- 78710 multiletter control sequences out of 15000+600000
+ 78874 multiletter control sequences out of 15000+600000
  642505 words of font info for 213 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1492s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3564,10 +3592,10 @@ m.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (257 pages, 3526156 bytes).
+Output written on main.pdf (264 pages, 3545920 bytes).
 PDF statistics:
- 9321 PDF objects out of 10688 (max. 8388607)
- 7117 compressed objects within 72 object streams
- 3977 named destinations out of 4296 (max. 500000)
- 1314 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 9481 PDF objects out of 10688 (max. 8388607)
+ 7269 compressed objects within 73 object streams
+ 4065 named destinations out of 4296 (max. 500000)
+ 1338 words of extra memory for PDF output out of 10000 (max. 10000000)
 

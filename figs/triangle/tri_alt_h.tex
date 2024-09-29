@@ -1,0 +1,32 @@
+%Code by GVV Sharma
+%December 15, 2019
+%released under GNU GPL
+%Orthocentre of a triangle
+
+\begin{tikzpicture}
+[scale=2,>=stealth,point/.style={draw,circle,fill = black,inner sep=0.5pt},]
+
+%Labeling Vertices
+\node (A) at (2.25,3.30718914)[point,label=above:$A$] {};
+\node (B) at (0, 0)[point,label=below left:$B$] {};
+\node (C) at (6, 0)[point,label=below right:$C$] {};
+
+%Foot of perpendicular
+
+\node (D) at (2.25, 0)[point,label=below:$D$] {};
+\node (E) at (2.625, 2.97647022)[point,label=below:$E$] {};
+\node (F) at (1.8984375, 2.79044084)[point,label=below:$F$] {};
+\node (H) at (2.25,2.55126019)[point,label=right:$H$] {};
+
+%Drawing triangle ABC
+\draw (A) -- node[left] {$\textrm{c}$} (B) -- node[below] {$\textrm{a}$} (C) -- node[above,xshift=2mm] {$\textrm{b}$} (A);
+
+%Drawing altitudes
+\draw (A) -- (D);
+\draw (B) -- (E);
+\draw [dashed] (C) -- (F);
+
+\tkzMarkRightAngle[fill=blue!20,size=.2](A,D,B)
+\tkzMarkRightAngle[fill=blue!20,size=.2](B,E,A)
+
+\end{tikzpicture}

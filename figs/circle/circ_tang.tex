@@ -1,0 +1,42 @@
+\begin{tikzpicture}
+[scale =2,>=stealth,point/.style = {draw, circle, fill = black, inner sep = 1pt},]
+
+\def\rad{2}
+\coordinate [point, label={above: $O$ }] (O) at (0, 2);
+\draw (O) circle (\rad);
+\node (P) at (-4,0)[point,label=below :$P$] {};
+\node (C) at (0,0)[point,label=below :$C$] {};
+\iffalse
+\node (A) at (-1.92,1.45)[point,label=above left :$A$] {};
+\node (B) at (1.2,3.6)[point,label=above right :$B$] {};
+\fi
+\draw (O)--(C);
+\draw (P)--(C);
+\tkzMarkRightAngle[fill=blue!30,size=.2](O,C,P)
+\iffalse
+\draw (P)--(B);
+\draw (A)--(C);
+\draw (B)--(C);
+
+\draw [thick,dashed](A)--(O);
+\tkzMarkRightAngle[size=.2](P,C,O);
+\tkzMarkAngle[size=.3](A,B,C);
+\tkzMarkAngle[size=.4](O,C,A);
+%\tkzMarkAngle[size=.5](B,C,O);
+%\tkzMarkAngle[size=.3](P,A,C);
+\tkzMarkAngle[size=.2](C,A,O);
+\tkzMarkAngle[size=.2](A,O,C);
+
+\node [above] at (0.65,1.5){$r$};
+\node [above] at (-0.9,1.7){$r$};
+\node [above] at (0.1,1){$r$};
+%\draw (-1.9,1) node{$\theta$};
+
+\draw (0.95,3.3) node{$\alpha$};
+\draw (-0.2,1.7) node{$2\alpha$};
+\draw (-0.2,0.5) node{$90-\alpha$};
+\draw (-1.4,1.4) node{$90-\alpha$};
+%\draw (.1,.6) node{$\phi$};
+\fi
+
+\end{tikzpicture}
