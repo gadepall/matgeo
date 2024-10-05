@@ -234,7 +234,8 @@ else {
 	exit(0);
 }
  
-return c;
+return transposeMat(c,m,m);//revised based on abhimany koushik's suggestion.  
+//return c;
 }
 // End  function for inverse of 2x2 matrix
 

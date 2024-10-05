@@ -80,7 +80,7 @@ where
        \vec{e}_1 &=\myvec{1 \\ 0}
       \end{align}
   \solution  See \appref{app:parab}.
-	  
+	 \iffalse 
     \item\leavevmode
 		\begin{enumerate}
 			\item The directrices for the  standard conic are given by 
@@ -136,9 +136,19 @@ where
 
 	\item
  The point where the parabola intersects its axis of symmetry is called the vertex. For the standard parabola, the vertex is the origin.
-	
+\fi	
 	\item
-	 The {\em focal length} of the standard parabola, , defined to be the distance between the vertex and the focus, measured along the axis of symmetry, is $\abs{\frac{\eta}{4 \lambda_2}}$
+		The center/vertex of a conic section are given by
+  \begin{align}
+    \label{eq:formulae-conic_nonparab_c}
+	    \vec{c} &= - \vec{V}^{-1}\vec{u}  & \mydet{\vec{V}} \ne 0
+    \\
+	    \myvec{ \vec{u}^{\top}+\frac{\eta}{2}\vec{p}_1^{\top} \\ \vec{V}}\vec{c} &= \myvec{-f \\ \frac{\eta}{2}\vec{p}_1-\vec{u}}  
+& \mydet{\vec{V}} = 0
+    \label{eq:formulae-conic_parab_c}
+    \end{align}	
+	\item
+	 The {\em focal length} of the standard parabola, defined to be the distance between the vertex and the focus, measured along the axis of symmetry, is $\abs{\frac{\eta}{4 \lambda_2}}$
     \item For the standard hyperbola/ellipse, the length of the major axis is 
   \begin{align}
 \label{eq:chord-len-major}

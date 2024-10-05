@@ -1,0 +1,175 @@
+\iffalse
+\title{Matrices and Determinants}
+\author{AI24BTECH11015 - Harshvardhan Patidar}
+\section{mcq-multiple}
+\fi
+
+%\begin{enumerate}
+    \item
+        The determinant $
+                \mydet{
+                    a & b & a \alpha + b\\
+                    b & c & b \alpha + c\\
+                    a \alpha + b & b \alpha + c & 0
+                }
+        $ is equal to zero, if
+            \begin{enumerate}
+                        \item $a,b,c$ are in A.P.
+                        \item $a,b,c$ are in G.P.
+                        \item $a,b,c$ are in H.P.
+                        \item $\alpha$ is a root of the equation $ax^2 + bx +c=0$
+                        \item $\brak{x-\alpha}$ is a factor of $ax^2 + bx +c$
+            \end{enumerate}
+            \hfill (1986-2 Marks)
+    \item 
+        If $
+        \mydet{
+            6i & -3i & 1\\
+            4 & 3i & -1\\
+            20 & 3 & i
+        } = x +iy$, then 
+        \begin{enumerate}
+            \item $x=3,y=1$
+            \item $x=1,y=3$
+            \item $x=0,y=3$
+            \item $x=0,y=0$
+        \end{enumerate}
+        \hfill (1998-2 Marks)
+    \item 
+        Let $M$ and $N$ be two $3 \times 3$ non-singulr skew-symmetric matrices such that $MN=NM$. If $P^T$ denotes the transpose of $P$, then $M^2N^2\brak{M^TN^{-1}}^{-1} \brak{MN^{-1}}^T$ is equal to 
+        \begin{enumerate}
+            \item $M^2$
+            \item $-N^2$
+            \item $-M^2$
+            \item $MN$
+        \end{enumerate}
+        \hfill (2011)
+    \item 
+        If the adjoint of a $3 \times 3$ matrix $P$ is 
+                $\myvec{	
+                    1&4&4\\
+                    2&1&7\\
+                    1&1&3
+                }$
+        , then the possible value(s) of the determinant of $P$ is (are)
+            \begin{enumerate}
+                \item $-2$
+                \item $-1$
+                \item $1$
+                \item $2$
+            \end{enumerate}
+            \hfill (2012)
+    \item 
+        For $3 \times 3$ matrices $M$ and $N$, which of the following statement(s) is (are) NOT correct?
+            \begin{enumerate}
+                \item $N^TMN$ is symmetric or skew symmetric, according as $M$ is symmetric or skew symmetric
+                \item $MN-NM$ is skew symmetric for all matrices $M$ and $N$.
+                \item $MN$ is symmetric for all symmetric matrices $M$ and $N$.
+                \item (adj$M$)(adj$N$) = adj($MN$) for all invertible matrices $M$ and $N$.
+            \end{enumerate}
+            \hfill (JEE Adv. 2013)
+    \item 
+        Let $\omega$ be a complex cube root of unity with $\omega \neq 1 $ and $P={p_{ij}}$ be a $n \times n$ matrix with $p_{ij} = \omega^{i+j}$. Then $p^2 \neq 0$, when $n=$
+        \begin{enumerate}
+            \item $57$
+            \item $55$
+            \item $58$
+            \item $56$
+        \end{enumerate}
+        \hfill (JEE Adv. 2013)
+    \item 
+        Let $M$ be a $2 \times 2$ symmetric matrix with integer entries. Then $M$ is invertible if
+            \begin{enumerate}
+                \item The first column of $M$ is the transpose of the second row of $M$
+                \item The second row of $M$ is the transpose of the first column of $M$
+                \item $M$ is a diagonal matrix with non-zero entries in the main diagonal
+                \item The product of entries in the main diagonal of $M$ is not the square of an integer
+            \end{enumerate}
+            \hfill (JEE Adv. 2014)
+    \item
+        Let $M$ and $N$ be two $3 \times 3$ matrices such that $MN=NM$. Further, if $M \neq N^2$ and $M^2 = N^4$, then
+            \begin{enumerate}
+                \item determinant of $(M^2 + N^2)$ is $0$
+                \item there is $3 \times 3$ non-zero matrix $U$ such that $(M^2+MN^2)U$ is the zero matrix
+                \item determinant of $(M^2 + MN^2) \geq 1$
+                \item determinant of $(M^2 + MN^2)U$ equals the zero matrix then $U$ is the zero matrix
+            \end{enumerate}
+            \hfill (JEE Adv. 2014)
+    \item
+        Which of the following values of $\alpha$ satisfy the equation
+            $\mydet{
+                (1 + \alpha)^2 & (1 + 2\alpha)^2 & (1+3\alpha)^2\\
+                (2 + \alpha)^2 & (2 + 2\alpha)^2 & (2+3\alpha)^2\\
+                (3 + \alpha)^2 & (3 + 2\alpha)^2 & (3+3\alpha)^2
+            } = -648 \alpha $ ?
+                \begin{enumerate}
+                    \item $-4$
+                    \item $9$
+                    \item $-9$
+                    \item $4$
+                \end{enumerate}
+                \hfill (JEE Adv. 2015)
+    \item
+        Let $X$ and $Y$ be two arbitrary, $3 \times 3$, non-zero, skew-symmetric matrices and $Z$ be an arbitrary $3 \times 3$, non-zero, symmetric matrix. Then which of the following matrices is (are) skew symmetric?
+        \begin{enumerate}
+            \item $Y^3Z^4 -Z^4Y^3$
+            \item $X^{44} + Y^{44}$
+            \item $X^4Z^3 -Z^3X^4$
+            \item $X^{23} + Y^{23}$
+        \end{enumerate}
+        \hfill (JEE Adv. 2015)
+    \item 
+        Let $P = 
+            \myvec{		
+                3 & -1 & -2\\
+                2 & 0 & \alpha\\
+                3 & -5 & 0
+            }$,
+        where $\alpha \in \mathbb{R}$. Suppose $Q= \mathrm{\sbrak{q_{ij}}}$ is a matrix such that $PQ=kI$, where $k \in \mathbb{R}, k \neq 0$ and $I$ is the identity matrix of order $3$. If $q_{23} = -\frac{k}{8}$ and det\brak{Q}$= \frac{k^2}{2}$, then
+        \begin{enumerate}
+            \item $a=0, k=8$
+            \item $4a-k+8=0$
+            \item det $\brak{P adj \brak{Q}} = 2^9$
+            \item det $\brak{Q adj \brak{P}} = 2^{13}$
+        \end{enumerate}
+        \hfill (JEE Adv. 2016)
+    \item
+        Let $a, \lambda, \mu, \in \mathbb{R}$. Consider the system of linear equations $$ax+2y=\lambda$$ $$3x-2y=\mu$$ Which of the following statement(s) is (are) correct?
+        \begin{enumerate}
+            \item If $a=-3$, then the system has infinitely many solutions for all value of $\lambda$ and $\mu$.
+            \item If $a \neq -3$, then the system has unique solution for all values of $\lambda$ and $\mu$.
+            \item If $\lambda + \mu = 0$, then the system has infinitely many solutions for $a = -3$.
+            \item If $\lambda + \mu \neq 0$, then the system has no solution for $a = -3$
+        \end{enumerate}
+        \hfill (JEE Adv. 2016)
+    \item 
+        Which of the following is (are) not the square of a $3 \times 3$ matrix with real entries?
+            \begin{enumerate}
+                \itemsep0.4em
+                \item 
+                    $\myvec{
+                        1&0&0\\
+                        0&1&0\\
+                        0&0&1
+                    }$\\
+                \item 
+                    $\myvec{
+                        1&0&0\\
+                        0&1&0\\
+                        0&0&-1
+                    }$\\
+                \item 
+                    $\myvec{
+                        1&0&0\\
+                        0&-1&0\\
+                        0&0&-1
+                    }$\\
+                \item 
+                    $\myvec{
+                        -1&0&0\\
+                        0&-1&0\\
+                        0&0&-1
+                    }$\\
+            \end{enumerate}
+            \hfill (JEE Adv. 2017)	
+%\end{enumerate}

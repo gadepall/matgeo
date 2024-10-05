@@ -1,0 +1,142 @@
+\iffalse
+\let\negmedspace\undefined
+\let\negthickspace\undefined
+\documentclass[journal]{IEEEtran}
+\usepackage[a5paper, margin=10mm, onecolumn]{geometry}
+%\usepackage{lmodern} % Ensure lmodern is loaded for pdflatex
+\usepackage{tfrupee} % Include tfrupee package
+
+\setlength{\headheight}{1cm} % Set the height of the header box
+\setlength{\headsep}{0mm}     % Set the distance between the header box and the top of the text
+
+\usepackage{gvv-book}
+\usepackage{gvv}
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts,amsthm}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{txfonts}
+\usepackage{listings}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{gensymb}
+\usepackage{comment}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage{tkz-euclide} 
+\usepackage{listings}
+% \usepackage{gvv}                                        
+\def\inputGnumericTable{}                                 
+\usepackage[latin1]{inputenc}                                
+\usepackage{color}                                            
+\usepackage{array}                                            
+\usepackage{longtable}                                       
+\usepackage{calc}                                             
+\usepackage{multirow}                                         
+\usepackage{hhline}                                           
+\usepackage{ifthen}                                           
+\usepackage{lscape}
+\bibliographystyle{IEEEtran}
+\vspace{3cm}
+
+\title{CHAPTER - 20\\Vector Algebra and\\Three Dimensional Geometry}
+\author{EE24BTECH11061 - Rohith Sai}
+\maketitle
+
+\renewcommand{\thefigure}{\theenumi}
+\renewcommand{\thetable}{\theenumi}
+
+\section{mcq-single}
+\fi
+%\begin{enumerate}
+\item The scalar $\vec{A}.\brak{\brak{\vec{B}+\vec{C})\times(\vec{A}+\vec{B}+\vec{C}}}$ equals:
+\begin{enumerate}
+\item  $0$
+\item $\sbrak{\vec{A}\ \vec{B}\ \vec{C}} + \sbrak{\vec{B}\ \vec{C}\ \vec{A}}$
+\item $\sbrak{\vec{A}\ \vec{B}\ \vec{C}}$
+\item None of these
+\end{enumerate}
+\hfill (1981 - 2 Marks)
+
+\item For non-zero vectors $\vec{a}, \vec{b}, \vec{c}$, $\abs{\brak{\vec{a}\times\vec{b}}.\vec{c}} = \abs{\vec{a}}\abs{\vec{b}}\abs{\vec{c}}$ holds if and only if
+\begin{enumerate}
+\item $\vec{a}.\vec{b}=0$, $\vec{b}.\vec{c}=0$
+\item $\vec{b}.\vec{c}=0$, $\vec{c}.\vec{a}=0$
+\item $\vec{c}.\vec{a}=0$, $\vec{a}.\vec{b}=0$
+\item $\vec{a}.\vec{b}= \vec{b}.\vec{c}= \vec{c}.\vec{a}=0$
+\end{enumerate}
+\hfill (1982 - 2 Marks)
+
+\item The volume of the parallelopiped whose sides are given by $OA =\vec{2i}-\vec{2j}$, $OB = \vec{i}+\vec{j}-\vec{k}$, $OC = \vec{3i}-\vec{k}$, is 
+\begin{enumerate}
+\item $\frac{4}{13}$
+\item $4$
+\item $\frac{2}{7}$
+\item None of these
+\end{enumerate}
+\hfill (1983 - 1 Mark)
+
+\item The points with position vectors $\vec{60i} + \vec{3j}$, $\vec{40i}-\vec{8j}$, $\vec{ai}-\vec{52j}$ are collinear if
+\begin{enumerate}
+\item $a=-40$
+\item $a=40$
+\item $a=20$
+\item None of these
+\end{enumerate}
+\hfill (1983 - 1 Mark)
+
+\item Let $\vec{a}, \vec{b}, \vec{c}$ be three non coplanar vectors and $\vec{p}, \vec{q},\vec{r}$ are vectors defined by the relations $\vec{p}=\frac{\vec{b}\times\vec{c}}{\sbrak{\vec{a}\ \vec{b}\ \vec{c}}}, \vec{q}=\frac{\vec{c}\times\vec{a}}{\sbrak{\vec{a}\ \vec{b}\ \vec{c}}},\vec{r}=\frac{\vec{a}\times\vec{b}}{\sbrak{\vec{a}\ \vec{b}\ \vec{c}}}$ then the value of the expression $\brak{\vec{a}+\vec{b}}.\vec{p}+\brak{\vec{b}+\vec{c}}.\vec{q}+\brak{\vec{c}+\vec{a}}.\vec{r}$ is equal to
+\begin{enumerate}
+\item $0$
+\item $1$
+\item $2$
+\item $3$
+\end{enumerate}
+\hfill (1988 - 2 Marks)
+
+\item Let $\vec{a}$, $\vec{b}$, $\vec{c}$ be distinct non-negative numbers. If the vectors $\vec{ai} + \vec{aj} + \vec{ck}$, $\vec{i}+\vec{k}$ and $\vec{ci}+\vec{cj}+\vec{bk}$ lie in a plane, then $\vec{c}$ is
+\begin{enumerate}
+\item the Arithmetic Mean of $\vec{a}$ and $\vec{b}$
+\item the Geometric Mean of $\vec{a}$ and $\vec{b}$
+\item the Harmonic Mean of $\vec{a}$ and $\vec{b}$
+\item equal to zero
+\end{enumerate}
+\hfill (1993 - 1 Mark)
+
+\item Let $\vec{p}$ and $\vec{q}$ be the position vectors of $\vec{P}$ and $\vec{Q}$ respectively, with respect to $\vec{O}$ and $\abs{\vec{p}} = p$, $\abs{\vec{q}} = q$. The points $\vec{R}$ and $\vec{S}$ divide $PQ$ internally and externally in the ratio $2\colon3$ respectively. If $OR$ and $OS$ are perpendicular then
+\begin{enumerate}
+\item $9p^2 =4q^2$
+\item $4p^2 = 9q^2$
+\item $9p = 4q$
+\item $4p = 9q$
+\end{enumerate}
+\hfill (1994)
+
+\item Let $\alpha$, $\beta$, $\gamma$ be distinct real numbers. The points with position vectors $\vec{\alpha i}+ \vec{\beta j} + \vec{\gamma k}$, $\vec{\beta i}+ \vec{\gamma j}+ \vec{\alpha k}$, $\vec{\gamma i} + \vec{\alpha j} + \vec{\beta k}$
+\begin{enumerate}
+\item are collinear
+\item form an equilateral triangle
+\item form a scalene triangle
+\item form a right angles triangle
+\end{enumerate}
+\hfill (1994)
+
+\item Let $\vec{a=i-j}$, $\vec{b=j-k}$, $\vec{c=k-i}$. If $\vec{d}$ is a unit vector such that $\vec{a}.\vec{d} = 0 = \sbrak{\vec{b}\ \vec{c}\ \vec{d}}$, then $\vec{d}$ equals
+\begin{enumerate}
+\item $\pm \vec{\frac{{i+j-2k}}{\sqrt{6}}}$
+\item $\pm \vec{\frac{{i+k-k}}{\sqrt{3}}}$
+\item $\pm \vec{\frac{{i+j+k}}{\sqrt{3}}}$
+\item $\pm \vec{k}$
+\end{enumerate}
+\hfill (1995S)
+
+\item If $\vec{a},\vec{b},\vec{c}$ are non coplanar unit vectors such that $\vec{a}\times\brak{\vec{b}\times\vec{c}} = \frac{\brak{\vec{b}+\vec{c}}}{\sqrt{2}}$, then the angle between $\vec{a}$ and $\vec{b}$ is
+\begin{enumerate}
+\item $\frac{3\pi}{4}$
+\item $\frac{\pi}{4}$
+\item $\frac{\pi}{2}$
+\item $\pi$
+\end{enumerate}
+\hfill (1995S)
+%\end{enumerate}

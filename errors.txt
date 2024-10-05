@@ -1,1 +1,5 @@
-4.3.46
+include vertex general formula in the formulae section for conic
+
+In equation B.1.6.2, v should have been capital
+
+remove standard conic formulae

@@ -1,0 +1,261 @@
+\iffalse
+\title{Matrices and Determinants}
+\author{EE24BTECH11002 - AGAMJOT SINGH} 
+\section{mains}
+\fi
+
+\newcommand{\adj}[1]{$adj\brak{#1}$}
+
+    %Question20
+    \item Let $a,b,c$ be such that $b\brak{a+c}\neq0$ if
+	\begin{align*}
+		\mydet{
+			a & a+1 & a-1\\
+			b & b+1 & b-1\\
+			c & c-1 & c+1\\
+		}
+		+
+		\mydet{
+			a+1 & b+1 & c-1\\
+			a-1 & b-1 & c+1\\
+			\brak{-1}^{n+2}a & \brak{-1}^{n+1}b & \brak{-1}^{n}c\\
+		}	
+		= 0
+	\end{align*},
+		then the value of $n$ is:
+	\hfill{\brak{2009}}
+	\begin{enumerate}
+                \item any even integer
+		\item any odd integer 
+		\item any integer 
+		\item zero 
+	\end{enumerate}
+
+    %Question21
+    \item The number of $3\times3$ non-singular matrices with four entries as $1$ and all other entries as $0$, is 
+	\hfill{\brak{2010}}{\parfillskip0pt\par}
+
+
+	\begin{enumerate}
+                \item $5$ 
+		\item $6$
+		\item atleast $7$
+		\item less than $4$ 
+	\end{enumerate}
+
+    %Question22
+    \item Let $\vec{A}$ be a $2\times2$ matrix with non-zero entries and let $\vec{A}^2 = \vec{I}$, where $\vec{I}$ is $2\times2$ identity matrix. Define 
+	\newline
+	$Tr\brak{\vec{A}}$- sum of diagonal elements of $\vec{A}$ and
+	\newline
+	$\abs{\vec{A}}$ - determinant of matrix $\vec{A}$.
+	\newline
+	\textbf{Statement - 1:} $Tr\brak{\vec{A}} = 0$.
+	\newline
+	\textbf{Statement - 2:} $\abs{\vec{A}} = 1$
+
+	\hfill{\brak{2010}}
+	\begin{enumerate}
+		\item Statement - 1 is true, Statement - 2 is true; Statement - 2 is \textbf{not} a correct explanation for Statement-1. 
+	    	\item Statement - 1 is true, Statement - 2 is false. 
+	    	\item Statement - 1 is false, Statement - 2 is true.
+	    	\item Statement - 1 is true, Statement - 2 is true; Statement - 2 is a correct explanation for Statement-1. 
+	\end{enumerate}
+
+    %Question23
+    \item Consider the system of linear equations;
+	\begin{align*}
+		x_1 + 2x_2 + x_3 &= 3\\
+		2x_1 + 3x_2 + x_3 &= 3\\
+		3x_1 + 5x_2 + 2x_3 &= 1
+	\end{align*}
+	\hfill{\brak{2010}}{\parfillskip0pt\par}
+	\begin{enumerate}
+		\item exactly $3$ solutions
+	    	\item a unique solution
+	    	\item no solution
+	    	\item infinite number of solutions
+	\end{enumerate}
+
+    %Question24
+    \item The number of values of k for which the linear equations $4x + ky + 2z = 0$, $kx + 4y + z = 0$ and $2x + 2y + z=0$ possess a non zero solution is 
+	\hfill {\brak{2011}}{\parfillskip0pt\par}
+        \begin{enumerate}
+                \item $2$
+                \item $1$
+                \item zero
+                \item $3$
+        \end{enumerate}
+
+    %Question25
+    \item Let $\vec{A}$ and $\vec{B}$ be two symmetrix matrices of order $3$.
+	\newline
+	\textbf{Statement - 1:} $\vec{A}\brak{\vec{BA}}$ and $\brak{\vec{AB}}\vec{A}$ are symmetric matrices. 
+	\newline
+	\textbf{Statement - 2:} $\vec{AB}$ is symmetric matrix if matrix multiplication of $\vec{A}$ with $\vec{B}$ is commutative.
+
+	\begin{enumerate}
+		\item Statement - 1 is true, Statement - 2 is true; Statement - 2 is \textbf{not} a correct explanation for Statement-1. 
+	    	\item Statement - 1 is true, Statement - 2 is false. 
+	    	\item Statement - 1 is false, Statement - 2 is true.
+	    	\item Statement - 1 is true, Statement - 2 is true; Statement - 2 is a correct explanation for Statement-1. 
+	\end{enumerate}
+
+    %Question26
+	\item Let \begin{align*}
+	\vec{A} = \myvec{ 
+		1&0&0\\
+		2&1&0\\
+		3&2&1
+	}
+	\end{align*} If $\vec{u_1}$ and $\vec{u_2}$ are column matrices such that
+	\begin{align*}
+		\vec{Au_1} = \myvec{1\\0\\0}
+	\end{align*} and 
+	\begin{align*}
+		\vec{Au_2} = \myvec{1\\0\\0}
+	\end{align*}, then $\vec{u_1} + \vec{u_2}$ is equal to:
+	\hfill{\brak{2012}}
+        \begin{enumerate}
+	    	\item \begin{align*} \myvec{-1\\1\\0} \end{align*} 
+		\item \begin{align*} \myvec{-1\\1\\-1} \end{align*} 
+		\item \begin{align*} \myvec{-1\\-1\\0} \end{align*}
+		\item \begin{align*} \myvec{1\\-1\\-1} \end{align*} 
+        \end{enumerate}
+
+    %Question27
+	\item Let $\vec{P}$ and $\vec{Q}$ be $3\times3$ matrices $\vec{P}\neq \vec{Q}$. If $\vec{P}^3=\vec{Q}^3$ and $\vec{P}^2\vec{Q}=\vec{Q}^2\vec{P}$ then determinant of $\brak{\vec{P}^2+\vec{Q}^2}$ is equal to
+	\hfill{\brak{2012}}
+        \begin{enumerate}
+                \item $-2$
+                \item $1$
+                \item $0$
+                \item $-1$
+        \end{enumerate}
+
+    %Question28
+	\item If \begin{align*}
+		\vec{P} = \myvec{1&\alpha&3\\
+		1&3&3\\
+		2&4&4}
+	\end{align*} is the adjoint of a $3\times3$ matrix $\vec{A}$ and $\abs{\vec{A}} = 4$, then $\alpha$ is equal to:
+	\hfill{\brak{JEE M 2014}}
+        \begin{enumerate}
+                \item $4$
+                \item $11$
+                \item $5$
+                \item $0$
+        \end{enumerate}
+
+    %Question29
+	\item If $\alpha,\beta\neq 0$ and $f\brak{n} = \alpha^n + \beta^n$ and
+		\newline
+		\begin{align*}
+			\mydet{
+				3 & 1+f\brak{1} & 1+f\brak{2}\\
+				1+f\brak{1} & 1+f\brak{2} & 1+f\brak{3}\\
+				1+f\brak{2} & 1+f\brak{3} & 1+f\brak{4}
+			}
+		\end{align*}
+
+		$=K\brak{1-\alpha}^2\brak{1-\beta}^2\brak{\alpha-\beta}^2$,
+		then $K$ is equal to
+
+	\hfill{\brak{JEE M 2014}}
+        \begin{enumerate}
+                \item $1$
+                \item $-1$
+                \item $\alpha\beta$
+		\item $\frac{1}{\alpha\beta}$
+        \end{enumerate}
+
+
+    %Question30
+	\item If $\vec{A}$ is a $3\times3$ non-singular matrix such that $\vec{A}\vec{A}^{\prime}=\vec{A}^{\prime}\vec{A}$ and $\vec{B}=\vec{A}^{-1}\vec{A}^{\prime}$, then $\vec{B}\vec{B}^{\prime}$ equals:
+	\hfill {\brak{JEE M 2014}}{\parfillskip0pt\par}
+	\begin{enumerate}
+	    	\item $\vec{B}^{-1}$
+		\item $\brak{\vec{B}^{-1}}^{\prime}$
+		\item $\vec{I}+\vec{B}$ 
+		\item $\vec{I}$
+        \end{enumerate}
+
+
+    %Question31
+    \item The set of all values of $\lambda$ for which the system of linear equations:
+	\begin{align*}
+		2x_1-2x_2+x_3 &= \lambda x_1\\
+		2x_1-3x_2+2x_3 &= \lambda x_2\\
+		-x_1+2x_2 &= \lambda x_3
+	\end{align*}
+	has a non-trivial solution
+
+	\hfill{\brak{JEE M 2015}}
+	\begin{enumerate}
+		\item contains two elements
+		\item contains more than two elements
+		\item is an empty set
+		\item is a singleton
+	\end{enumerate}
+
+
+    %Question32
+	\item If \begin{align*} \vec{A} = \myvec{1&2&2\\2&1&-2\\a&2&b} \end{align*} is a matrix satisfying the equation $\vec{A}\vec{A}^T = 9\vec{I}$, where $\vec{I}$ is $3\times3$ identity matrix, then the ordered part $\brak{a,b}$ is equal to:
+	\hfill {\brak{JEE M 2015}}{\parfillskip0pt\par}
+	\begin{enumerate}
+	    	\item $\brak{2,1}$ 
+	    	\item $\brak{-2,-1}$ 
+	    	\item $\brak{2,-1}$ 
+	   	\item $\brak{-2,1}$ 
+	\end{enumerate}
+
+
+    %Question33
+	\item The system of linear equations 
+	\begin{align*}
+		x+\lambda y-z &= 0\\
+		\lambda x-y-z &= 0\\
+		x+y-\lambda z &= 0
+	\end{align*}
+	has a non-trivial solution for:
+
+	\hfill{\brak{JEE M 2016}}
+	\begin{enumerate}
+		\item exactly two values of $\lambda$ 
+		\item exactly three values of $\lambda$ 
+		\item inifinitely many values of $\lambda$
+		\item exactly one value of $\lambda$ 
+	\end{enumerate}
+
+
+    %Question34
+\item If \begin{align*} \vec{A} = \myvec{5a&-b\\3&2}\end{align*} and $\vec{A} \adj{\vec{A}} = \vec{A}\vec{A}^{T}$, then $5a + b$ is equal to: 
+	\hfill{\brak{JEE M 2016}}
+	\begin{enumerate}
+	    	\item $4$ 
+	    	\item $13$
+	    	\item $-1$
+	   	\item $5$ 
+	\end{enumerate}
+
+    %Question35
+	\item Let k be an integer such that triangle with vertices $\brak{k, -3k}$, $\brak{5,k}$, $\brak{-k,2}$ has area $28$ sq. units. Then the orthocentre of this triangle is at the point:
+	\hfill{\brak{JEE M 2017}}
+	\begin{enumerate}
+	    	\item $\brak{2,\frac{1}{2}}$ 
+	    	\item $\brak{2,\frac{-1}{2}}$ 
+	     	\item $\brak{1,\frac{3}{4}}$ 
+	    	\item $\brak{1,\frac{-3}{4}}$ 
+	\end{enumerate}
+
+
+    %Question36
+    \item Let $\omega$ be a complex number such that $2\omega + 1 = z$ where $z = \sqrt{-3}$. If
+	\begin{align*} \mydet{1&1&1\\1&-\omega^2-1&\omega^2\\1&\omega^2&\omega^7} = 3k \end{align*}, then $k$ is equal to:
+	\hfill{\brak{JEE M 2017}}
+	\begin{enumerate}[label={(\alph*)}]
+	    	\item $1$ 
+	    	\item $-z$
+	     	\item $z$
+	    	\item $-1$
+	\end{enumerate}
