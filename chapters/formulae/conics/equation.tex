@@ -1,5 +1,23 @@
 \begin{enumerate}[label=\thesubsection.\arabic*.,ref=\thesubsection.\theenumi]
 \item
+  Let $\vec{q}$ be a point such that the ratio of its distance from a fixed point $\vec{F}$ and the distance ($d$) from a fixed line 
+	\begin{align}
+L: \vec{n}^{\top}\vec{x}=c 
+	\end{align}
+		is constant, given by 
+\label{ch:conics/30/def}
+\begin{align}
+\label{eq:conics/30/def}
+\frac{\norm{\vec{q}-\vec{F}}}{d} = e    
+\end{align}
+The locus of $\vec{q}$ is known as a conic section. The line $L$ is known as the directrix and the point $\vec{F}$ is the focus. $e$ is defined to be 
+the eccentricity of the conic.  
+\begin{enumerate}
+    \item For $e = 1$, the conic is a parabola
+    \item For $e < 1$, the conic is an ellipse
+    \item For $e > 1$, the conic is a hyperbola
+\end{enumerate}
+\item
 The equation of  a conic with directrix $\vec{n}^{\top}\vec{x} = c$, eccentricity $e$ and focus $\vec{F}$ is given by 
 \begin{align}
     \label{eq:conic_quad_form}
@@ -80,6 +98,11 @@ where
        \vec{e}_1 &=\myvec{1 \\ 0}
       \end{align}
   \solution  See \appref{app:parab}.
+    \item The equation of the minor and major  axes for the ellipse/hyperbola are respectively given by 
+  \begin{align}
+\vec{p}_i^{\top}\brak{\vec{x}-\vec{c}} = 0, i = 1,2
+	  \label{eq:major-minor-axis-quad}
+  \end{align}
 	 \iffalse 
     \item\leavevmode
 		\begin{enumerate}
@@ -110,11 +133,6 @@ where
 	%	where, without loss of generality, $f_0 < 0$ for the hyperbola.
     
 %
-    \item The equation of the minor and major  axes for the ellipse/hyperbola are respectively given by 
-  \begin{align}
-\vec{p}_i^{\top}\brak{\vec{x}-\vec{c}} = 0, i = 1,2
-	  \label{eq:major-minor-axis-quad}
-  \end{align}
   The axis of symmetry for the parabola is also given by 
 	  \eqref{eq:major-minor-axis-quad}.
 
