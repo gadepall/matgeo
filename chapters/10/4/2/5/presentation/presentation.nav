@@ -1,0 +1,62 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{Problem}{3}{Problem}{0}}
+\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Question}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Question}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Variables Used}}
+\headcommand {\slideentry {1}{2}{1}{4/4}{Variables Used}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@sectionpages {3}{4}}
+\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\sectionentry {2}{Solution}{5}{Solution}{0}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{5}{Conic Form}}
+\headcommand {\slideentry {2}{1}{1}{5/5}{Conic Form}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{6}{Intersection with x-axis}}
+\headcommand {\slideentry {2}{2}{1}{6/6}{Intersection with x-axis}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{2}{2}{7/7}{Intersection with x-axis}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@sectionpages {5}{7}}
+\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\sectionentry {3}{Plotting}{8}{Plotting}{0}}
+\headcommand {\beamer@subsectionpages {8}{7}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{8}{Figure I}}
+\headcommand {\slideentry {3}{1}{1}{8/8}{Figure I}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{9}{Python Code I}}
+\headcommand {\slideentry {3}{2}{1}{9/9}{Python Code I}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {3}{2}{1}{9/10}{Python Code I}{0}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\slideentry {3}{2}{1}{9/11}{Python Code I}{0}}
+\headcommand {\beamer@framepages {9}{11}}
+\headcommand {\slideentry {3}{2}{1}{9/12}{Python Code I}{0}}
+\headcommand {\beamer@framepages {9}{12}}
+\headcommand {\beamer@subsectionpages {9}{12}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{13}{Figure II}}
+\headcommand {\slideentry {3}{3}{1}{13/13}{Figure II}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{14}{Python Code II}}
+\headcommand {\slideentry {3}{4}{1}{14/14}{Python Code II}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {3}{4}{1}{14/15}{Python Code II}{0}}
+\headcommand {\beamer@framepages {14}{15}}
+\headcommand {\slideentry {3}{4}{1}{14/16}{Python Code II}{0}}
+\headcommand {\beamer@framepages {14}{16}}
+\headcommand {\beamer@partpages {1}{16}}
+\headcommand {\beamer@subsectionpages {14}{16}}
+\headcommand {\beamer@sectionpages {8}{16}}
+\headcommand {\beamer@documentpages {16}}
+\headcommand {\gdef \inserttotalframenumber {16}}
