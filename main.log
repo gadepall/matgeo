@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  7 DEC 2024 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  8 DEC 2024 10:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2991,31 +2991,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [138])
-(./JEE/linear.tex [139] [140] [141] [142]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [143]
-LaTeX Font Info:    Trying to load font information for OML+txr on input line 3
-62.
-
-(/data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/tex/latex/txfont
-s/omltxr.fd
-File: omltxr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `OML/txr/m/n' in size <10> not available
-(Font)              Font shape `OML/txmi/m/it' tried instead on input line 362.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [144]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [145]
+(./JEE/linear.tex [139] [140] [141] [142] [143] [144] [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [146]
-Underfull \hbox (badness 10000) in paragraph at lines 532--537
+Underfull \hbox (badness 10000) in paragraph at lines 542--547
 
  []
 
@@ -3027,42 +3007,45 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [148]
 [149]
-Underfull \hbox (badness 10000) in paragraph at lines 699--701
-
- []
-
-[150]
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
+Underfull \hbox (badness 10000) in paragraph at lines 709--711
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 707--709
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
+Underfull \hbox (badness 10000) in paragraph at lines 717--719
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 715--717
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 720--721
+Underfull \hbox (badness 10000) in paragraph at lines 725--727
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--726
+Underfull \hbox (badness 10000) in paragraph at lines 730--731
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 729--730
+Underfull \hbox (badness 10000) in paragraph at lines 734--736
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150]
+Underfull \hbox (badness 10000) in paragraph at lines 739--740
 
  []
 
@@ -3710,6 +3693,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [265]
 
 LaTeX Warning: Command \textless invalid in math mode on input line 587.
+
+LaTeX Font Info:    Trying to load font information for OML+txr on input line 5
+87.
+
+(/data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/tex/latex/txfont
+s/omltxr.fd
+File: omltxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OML/txr/m/n' in size <10> not available
+(Font)              Font shape `OML/txmi/m/it' tried instead on input line 587.
+
 
 
 LaTeX Warning: Command \textless invalid in math mode on input line 587.
@@ -4384,7 +4378,7 @@ m.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (350 pages, 3905022 bytes).
+Output written on main.pdf (350 pages, 3904326 bytes).
 PDF statistics:
  12440 PDF objects out of 12825 (max. 8388607)
  10074 compressed objects within 101 object streams
