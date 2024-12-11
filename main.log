@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  11 DEC 2024 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  11 DEC 2024 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3078,32 +3078,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [183]
-Underfull \hbox (badness 10000) in paragraph at lines 239--243
+Underfull \hbox (badness 10000) in paragraph at lines 242--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--249
+Underfull \hbox (badness 10000) in paragraph at lines 248--252
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
 [184]
-Underfull \hbox (badness 10000) in paragraph at lines 298--302
+Underfull \hbox (badness 10000) in paragraph at lines 301--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--309
+Underfull \hbox (badness 10000) in paragraph at lines 308--312
 
  []
 
@@ -3114,22 +3114,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [187]
-Underfull \hbox (badness 10000) in paragraph at lines 550--556
+Underfull \hbox (badness 10000) in paragraph at lines 553--559
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--562
+Underfull \hbox (badness 10000) in paragraph at lines 559--565
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--568
+Underfull \hbox (badness 10000) in paragraph at lines 565--571
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 568--573
+Underfull \hbox (badness 10000) in paragraph at lines 571--576
 
  []
 
@@ -3137,12 +3137,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 568--573
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [188]
-Underfull \hbox (badness 10000) in paragraph at lines 581--582
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--607
+Underfull \hbox (badness 10000) in paragraph at lines 601--610
 
  []
 
@@ -3150,12 +3150,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 598--607
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [189]
-Underfull \hbox (badness 10000) in paragraph at lines 646--647
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--659
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
 
  []
 
@@ -3163,12 +3163,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 658--659
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [194]
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
+Underfull \hbox (badness 10000) in paragraph at lines 1060--1061
 
  []
 
@@ -3176,7 +3176,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [195]
-Underfull \hbox (badness 10000) in paragraph at lines 1058--1059
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
 
  []
 
@@ -4325,7 +4325,7 @@ m.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (349 pages, 3902697 bytes).
+Output written on main.pdf (349 pages, 3902728 bytes).
 PDF statistics:
  12432 PDF objects out of 12825 (max. 8388607)
  10067 compressed objects within 101 object streams
