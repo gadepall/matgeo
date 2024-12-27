@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  20 DEC 2024 09:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  27 DEC 2024 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4276,6 +4276,10 @@ Underfull \hbox (badness 1845) in paragraph at lines 1372--1378
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 83361B5E0744D751E82B3C38BED1BC8C;11004.
  ) 
@@ -4306,7 +4310,7 @@ m.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (348 pages, 3901438 bytes).
+Output written on main.pdf (348 pages, 3901361 bytes).
 PDF statistics:
  12420 PDF objects out of 12825 (max. 8388607)
  10056 compressed objects within 101 object streams
