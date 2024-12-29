@@ -321,7 +321,7 @@ has a non-zero solution $\brak{x,y,z}$, then $\frac{xz}{y^2}$ is equal to
 }$
 \end{multicols}
 \end{enumerate} 
-\item If \begin{align}\myvec{
+\item If \begin{align*}\myvec{
     1 & 1 \\
     0 & 1
 }.\myvec{
@@ -336,7 +336,7 @@ has a non-zero solution $\brak{x,y,z}$, then $\frac{xz}{y^2}$ is equal to
 }=\myvec{
     1 & 78 \\
     0 & 1
-}.\end{align}\\
+}.\end{align*}
 then the inverse of $\myvec{
     1 & n \\
     0 & 1
@@ -368,13 +368,15 @@ then the inverse of $\myvec{
 	\item Let $\vec{A}=\myvec{
 			0 & 0 & -1 \\
 			0 & -1 & 0 \\
-			-1 & 0 & 0}$. The only correct statement about the matrix $\vec{A}$ is \hfill{[2004]}
+			-1 & 0 & 0}$. The only correct statement about the matrix $\vec{A}$ is \hfill{(2004)}
+\begin{multicols}{2}
 		\begin{enumerate}
 			\item $\vec{A}^2=\vec{I}$
 			\item $\vec{A} = \brak{-1}\vec{I}$, where $\vec{I}$ is a unit matrix
 			\item $\vec{A}^{-1}$ does not exist
 			\item $\vec{A}$ is a zero matrix
 		\end{enumerate}
+\end{multicols}
 %6
 	\item Let $\vec{A}=\myvec{
 			1 & -1 & 1 \\
@@ -382,53 +384,63 @@ then the inverse of $\myvec{
 			1 & 1 & 1}$, and $10\vec{B}=\myvec{
 			4 & 2 & 2 \\
 			-5 & 0 & \alpha \\
-			1 & -2 & 3}$. If B is the inversion of matrix $\vec{A}$, then $\alpha$ is \hfill{[2004]}
+			1 & -2 & 3}$. If $\vec{B}$ is the inversion of matrix $\vec{A}$, then $\alpha$ is \hfill{(2004)}
+\begin{multicols}{4}
 		\begin{enumerate}
 			\item 5
 			\item -1
 			\item 2
 			\item -2
 		\end{enumerate}
+\end{multicols}
 %7
-	\item If $\vec{A}^2-\vec{A}+\vec{I}=0$, then the inverse of $\vec{A}$ is \hfill{[2005]}
+	\item If $\vec{A}^2-\vec{A}+\vec{I}=0$, then the inverse of $\vec{A}$ is \hfill{(2005)}
+\begin{multicols}{4}
 		\begin{enumerate}
 			\item $\vec{A}+\vec{I}$
 			\item $\vec{A}$
 			\item $\vec{A}-\vec{I}$
 			\item $\vec{I}-\vec{A}$
 		\end{enumerate}
+\end{multicols}
 %9
-	\item The system of equations \\
-		$\alpha x+y+z = \alpha -1$ \\
-		$x+ \alpha y+z = \alpha -1$ \\
-		$x+y+ \alpha z = \alpha -1$ \\
-		has infinite solutions, if $\alpha$ is \hfill{[2005]}
+	\item The system of equations 
+\begin{align*}
+	\alpha x+y+z  &= \alpha -1  \\
+		x+ \alpha y+z &= \alpha -1 \\
+		x+y+ \alpha z &= \alpha -1 
+\end{align*}
+		has infinite solutions, if $\alpha$ is \hfill{(2005)}
+\begin{multicols}{4}
 		\begin{enumerate}
 			\item -2
 			\item either -2 or 1
 			\item not -2
 			\item 1
 		\end{enumerate}
-	\item If $\vec{A}$ and B are square matrices of size n x n such that $\vec{A}^2-B^2=\brak{\vec{A}-B}\brak{\vec{A}+B}$, then which of the following will be always true? \hfill{[2006]}
+\end{multicols}
+	\item If $\vec{A}$ and $\vec{B}$ are square matrices of size $n \times n$ such that $\vec{A}^2-\vec{B}^2=\brak{\vec{A}-\vec{B}}\brak{\vec{A}+\vec{B}}$, then which of the following will be always true? \hfill{(2006)}
+\begin{multicols}{2}
 		\begin{enumerate}
-			\item $\vec{A}=B$
-			\item $\vec{A}B=B\vec{A}$
-			\item either of $\vec{A}$ or B is zero matrix
-			\item either of $\vec{A}$ or B is identity matrix
+			\item $\vec{A}=\vec{B}$
+			\item $\vec{A}\vec{B}=\vec{B}\vec{A}$
+			\item either of $\vec{A}$ or $\vec{B}$ is zero matrix
+			\item either of $\vec{A}$ or $\vec{B}$ is identity matrix
 		\end{enumerate}
+\end{multicols}
 %13
 	\item Let $\vec{A}=\myvec{
 			1 & 2 \\
 			3 & 4}$ and $\vec{B}=\myvec{
 			a & 0 \\
-			0 & b}$, a,b $\in$ N. Then \hfill{[2006]}
+			0 & b}$, a,b $\in$ N. Then \hfill{(2006)}
 		\begin{enumerate}
-			\item there cannot exist any B such that $\vec{A}B=B\vec{A}$
-			\item there exist more than one but finite number of B's such that $\vec{A}B=B\vec{A}$
-			\item there exists exactly one B such that $\vec{A}B=B\vec{A}$
-			\item there exist infinitely many B's such that $\vec{A}B=B\vec{A}$
+			\item there cannot exist any $\vec{B}$ such that $\vec{A}\vec{B}=\vec{B}\vec{A}$
+			\item there exist more than one but finite number of $\vec{B}$'s such that $\vec{A}\vec{B}=\vec{B}\vec{A}$
+			\item there exists exactly one $\vec{B}$ such that $\vec{A}\vec{B}=\vec{B}\vec{A}$
+			\item there exist infinitely many $\vec{B}$'s such that $\vec{A}\vec{B}=\vec{B}\vec{A}$
 		\end{enumerate}
-	\item Let $\vec{A}$ be a 2x2 matrix with real entries. Let $\vec{I}$ be the 2x2 identity matrix. Denote by tr\brak{\vec{A}},the sum of diagonal entries of $\vec{A}$. Assume that $\vec{A}^2 = \vec{I}$. \hfill{[2008]} \\
+	\item Let $\vec{A}$ be a $2 \times 2$ matrix with real entries. Let $\vec{I}$ be the $2 \times 2$ identity matrix. Denote by tr\brak{\vec{A}},the sum of diagonal entries of $\vec{A}$. Assume that $\vec{A}^2 = \vec{I}$. \hfill{(2008)} \\
 		Statement-1 : If $\vec{A} \neq \vec{I}$ and $\vec{A} \neq -\vec{I}$,then det\brak{\vec{A}}=-1 \\
 		Statement-2 : If $\vec{A} \neq \vec{I}$ and $\vec{A} \neq -\vec{I}$,then $tr\brak{\vec{A}} \neq 0$.
 		\begin{enumerate}
@@ -438,109 +450,122 @@ then the inverse of $\myvec{
 			\item Statement-1 is true, Statement-2 is false
 		\end{enumerate}
 %17
-	\item Let a,b,c be any real numbers. Suppose that there are real numbers x,y,z not all zero such that $x=cy+bz$, $y=az+cx$, and $z=bx+ay$. Then $a^2+b^2+c^2+2abc$ is equal to \hfill{[2008]}
+	\item Let a,b,c be any real numbers. Suppose that there are real numbers x,y,z not all zero such that $x=cy+bz$, $y=az+cx$, and $z=bx+ay$. Then $a^2+b^2+c^2+2abc$ is equal to \hfill{(2008)}
+\begin{multicols}{4}
 		\begin{enumerate}
 			\item 2
 			\item -1
 			\item 0
 			\item 1
 		\end{enumerate}
+\end{multicols}
 %18
-	\item Let $\vec{A}$ be a square matrix all of whose entries are integers. Then which of the following is true? \hfill{[2008]}
+	\item Let $\vec{A}$ be a square matrix all of whose entries are integers. Then which of the following is true? \hfill{(2008)}
 		\begin{enumerate}
 			\item If $det\brak{\vec{A}}\neq\pm1$, then $\vec{A}^{-1}$ exists but all its entries are not necessarily integers
 			\item If $det\brak{\vec{A}}\neq\pm1$, then $\vec{A}^{-1}$ exists and all its entries are non integers
 			\item If $det\brak{\vec{A}}=\pm1$, then $\vec{A}^{-1}$ exists but all its entries are integers
-			\item If $det\brak{\vec{A}}=\pm1$, then $\vec{A}^{-1}$ need not exists
+			\item If $det\brak{\vec{A}}=\pm1$, then $\vec{A}^{-1}$ need not exist
 		\end{enumerate}
 %19
 		\item 
-			Let $\vec{A}$ and B be $3\times3$ matrices of real numbers, where $\vec{A}$ is symmetric, $\vec{B}$ is skew-symmetric and $(\vec{A}+\vec{B})(\vec{A}-\vec{B})=(\vec{A-B})(\vec{A+B})$. If $\vec{(AB)}^\top=(-1)^k\vec{AB}$, where $\vec{(AB)}^\top$ is the transpose of the matrix $\vec{AB}$, then the possible values of $k$ are 
+			Let $\vec{A}$ and $\vec{B}$ be $3\times3$ matrices of real numbers, where $\vec{A}$ is symmetric, $\vec{B}$ is skew-symmetric and $(\vec{A}+\vec{B})(\vec{A}-\vec{B})=(\vec{A-B})(\vec{A+B})$. If $\vec{(AB)}^\top=(-1)^k\vec{AB}$, where $\vec{(AB)}^\top$ is the transpose of the matrix $\vec{AB}$, then the possible values of $k$ are 
+			\rule{1cm}{0.01pt}.
 		\hfill(2008)
     \item 
-        Let $M$ and $N$ be two $3 \times 3$ non-singulr skew-symmetric matrices such that $MN=NM$. If $P^{\top}$ denotes the transpose of $P$, then $M^2N^2\brak{M^{\top}N^{-1}}^{-1} \brak{MN^{-1}}^{\top}$ is equal to 
+        Let $\vec{M}$ and $\vec{N}$ be two $3 \times 3$ non-singulr skew-symmetric matrices such that $\vec{M}\vec{N}=\vec{N}\vec{M}$. If $\vec{P}^{\top}$ denotes the transpose of $\vec{P}$, then $\vec{M}^2\vec{N}^2\brak{\vec{M}^{\top}\vec{N}^{-1}}^{-1} \brak{\vec{M}\vec{N}^{-1}}^{\top}$ is equal to 
+\begin{multicols}{4}
         \begin{enumerate}
-            \item $M^2$
-            \item $-N^2$
-            \item $-M^2$
-            \item $MN$
+            \item $\vec{M}^2$
+            \item $-\vec{N}^2$
+            \item $-\vec{M}^2$
+            \item $\vec{M}\vec{N}$
         \end{enumerate}
+\end{multicols}
         \hfill (2011)
     \item 
-        If the adjoint of a $3 \times 3$ matrix $P$ is 
+        If the adjoint of a $3 \times 3$ matrix $\vec{P}$ is 
                 $\myvec{	
                     1&4&4\\
                     2&1&7\\
                     1&1&3
                 }$
-        , then the possible value(s) of the determinant of $P$ is (are)
+        , then the possible value(s) of the determinant of $\vec{P}$ is (are)
+            \hfill (2012)
+\begin{multicols}{4}
             \begin{enumerate}
                 \item $-2$
                 \item $-1$
                 \item $1$
                 \item $2$
             \end{enumerate}
-            \hfill (2012)
+\end{multicols}
     \item 
-        For $3 \times 3$ matrices $M$ and $N$, which of the following statement(s) is (are) NOT correct?
+        For $3 \times 3$ matrices $\vec{M}$ and $\vec{N}$, which of the following statement(s) is (are) NOT correct?
             \begin{enumerate}
-                \item $N^{\top}MN$ is symmetric or skew symmetric, according as $M$ is symmetric or skew symmetric
-                \item $MN-NM$ is skew symmetric for all matrices $M$ and $N$.
-                \item $MN$ is symmetric for all symmetric matrices $M$ and $N$.
-                \item (adj$M$)(adj$N$) = adj($MN$) for all invertible matrices $M$ and $N$.
+                \item $\vec{N}^{\top}\vec{M}\vec{N}$ is symmetric or skew symmetric, according as $\vec{M}$ is symmetric or skew symmetric
+                \item $\vec{M}\vec{N}-\vec{N}\vec{M}$ is skew symmetric for all matrices $\vec{M}$ and $\vec{N}$.
+                \item $\vec{M}\vec{N}$ is symmetric for all symmetric matrices $\vec{M}$ and $\vec{N}$.
+                \item (adj$\vec{M}$)(adj$\vec{N}$) = adj($\vec{M}\vec{N}$) for all invertible matrices $\vec{M}$ and $\vec{N}$.
             \end{enumerate}
-            \hfill (JEE Adv. 2013)
+            \hfill (2013)
     \item 
-        Let $\omega$ be a complex cube root of unity with $\omega \neq 1 $ and $P={p_{ij}}$ be a $n \times n$ matrix with $p_{ij} = \omega^{i+j}$. Then $p^2 \neq 0$, when $n=$
+        Let $\omega$ be a complex cube root of unity with $\omega \neq 1 $ and $\vec{P}={p_{ij}}$ be a $n \times n$ matrix with $p_{ij} = \omega^{i+j}$. Then $p^2 \neq 0$, when $n=$
+        \hfill (2013)
+\begin{multicols}{4}
         \begin{enumerate}
             \item $57$
             \item $55$
             \item $58$
             \item $56$
         \end{enumerate}
-        \hfill (JEE Adv. 2013)
+\end{multicols}
     \item 
-        Let $M$ be a $2 \times 2$ symmetric matrix with integer entries. Then $M$ is invertible if
+        Let $\vec{M}$ be a $2 \times 2$ symmetric matrix with integer entries. Then $\vec{M}$ is invertible if
             \begin{enumerate}
-                \item The first column of $M$ is the transpose of the second row of $M$
-                \item The second row of $M$ is the transpose of the first column of $M$
-                \item $M$ is a diagonal matrix with non-zero entries in the main diagonal
-                \item The product of entries in the main diagonal of $M$ is not the square of an integer
+                \item The first column of $\vec{M}$ is the transpose of the second row of $\vec{M}$
+                \item The second row of $\vec{M}$ is the transpose of the first column of $\vec{M}$
+                \item $\vec{M}$ is a diagonal matrix with non-zero entries in the main diagonal
+                \item The product of entries in the main diagonal of $\vec{M}$ is not the square of an integer
             \end{enumerate}
-            \hfill (JEE Adv. 2014)
+            \hfill (2014)
     \item
-        Let $M$ and $N$ be two $3 \times 3$ matrices such that $MN=NM$. Further, if $M \neq N^2$ and $M^2 = N^4$, then
+        Let $\vec{M}$ and $\vec{N}$ be two $3 \times 3$ matrices such that $\vec{M}\vec{N}=\vec{N}\vec{M}$. Further, if $\vec{M} \neq \vec{N}^2$ and $\vec{M}^2 = \vec{N}^4$, then
+            \hfill (2014)
             \begin{enumerate}
-                \item determinant of $(M^2 + N^2)$ is $0$
-                \item there is $3 \times 3$ non-zero matrix $U$ such that $(M^2+MN^2)U$ is the zero matrix
-                \item determinant of $(M^2 + MN^2) \geq 1$
-                \item determinant of $(M^2 + MN^2)U$ equals the zero matrix then $U$ is the zero matrix
+                \item determinant of $(\vec{M}^2 + \vec{N}^2)$ is $0$
+                \item there is $3 \times 3$ non-zero matrix $\vec{U}$ such that $(\vec{M}^2+\vec{M}\vec{N}^2)\vec{U}$ is the zero matrix
+                \item determinant of $(\vec{M}^2 + \vec{M}\vec{N}^2) \geq 1$
+                \item determinant of $(\vec{M}^2 + \vec{M}\vec{N}^2)\vec{U}$ equals the zero matrix then $\vec{U}$ is the zero matrix
             \end{enumerate}
-            \hfill (JEE Adv. 2014)
     \item
-        Let $X$ and $Y$ be two arbitrary, $3 \times 3$, non-zero, skew-symmetric matrices and $Z$ be an arbitrary $3 \times 3$, non-zero, symmetric matrix. Then which of the following matrices is (are) skew symmetric?
+        Let $\vec{X}$ and $\vec{Y}$ be two arbitrary, $3 \times 3$, non-zero, skew-symmetric matrices and $Z$ be an arbitrary $3 \times 3$, non-zero, symmetric matrix. Then which of the following matrices is (are) skew symmetric?
+        \hfill (2015)
+\begin{multicols}{4}
         \begin{enumerate}
-            \item $Y^3Z^4 -Z^4Y^3$
-            \item $X^{44} + Y^{44}$
-            \item $X^4Z^3 -Z^3X^4$
-            \item $X^{23} + Y^{23}$
+            \item $\vec{Y}^3Z^4 -Z^4\vec{Y}^3$
+            \item $\vec{X}^{44} + \vec{Y}^{44}$
+            \item $\vec{X}^4Z^3 -Z^3\vec{X}^4$
+            \item $\vec{X}^{23} + \vec{Y}^{23}$
         \end{enumerate}
-        \hfill (JEE Adv. 2015)
+\end{multicols}
     \item 
-        Let $P = 
+        Let $\vec{P} = 
             \myvec{		
                 3 & -1 & -2\\
                 2 & 0 & \alpha\\
                 3 & -5 & 0
             }$,
-        where $\alpha \in \mathbb{R}$. Suppose $Q= \mathrm{\sbrak{q_{ij}}}$ is a matrix such that $PQ=k\vec{I}$, where $k \in \mathbb{R}, k \neq 0$ and $\vec{I}$ is the identity matrix of order $3$. If $q_{23} = -\frac{k}{8}$ and det\brak{Q}$= \frac{k^2}{2}$, then
+        where $\alpha \in \mathbb{R}$. Suppose $\vec{Q}= \mathrm{\sbrak{q_{ij}}}$ is a matrix such that $\vec{P}\vec{Q}=k\vec{I}$, where $k \in \mathbb{R}, k \neq 0$ and $\vec{I}$ is the identity matrix of order $3$. If $q_{23} = -\frac{k}{8}$ and det\brak{\vec{Q}}$= \frac{k^2}{2}$, then
+        \hfill (2016)
+\begin{multicols}{2}
         \begin{enumerate}
             \item $a=0, k=8$
             \item $4a-k+8=0$
-            \item det $\brak{P adj \brak{Q}} = 2^9$
-            \item det $\brak{Q adj \brak{P}} = 2^{13}$
+            \item det $\brak{\vec{P} \adj{\vec{Q}}} = 2^9$
+            \item det $\brak{\vec{Q} \adj{\vec{P}}} = 2^{13}$
         \end{enumerate}
-        \hfill (JEE Adv. 2016)
+\end{multicols}
     \item
         Let $a, \lambda, \mu, \in \mathbb{R}$. Consider the system of linear equations $$ax+2y=\lambda$$ $$3x-2y=\mu$$ Which of the following statement(s) is (are) correct?
         \begin{enumerate}
@@ -549,9 +574,10 @@ then the inverse of $\myvec{
             \item If $\lambda + \mu = 0$, then the system has infinitely many solutions for $a = -3$.
             \item If $\lambda + \mu \neq 0$, then the system has no solution for $a = -3$
         \end{enumerate}
-        \hfill (JEE Adv. 2016)
+        \hfill (2016)
     \item 
         Which of the following is (are) not the square of a $3 \times 3$ matrix with real entries?
+\begin{multicols}{2}
             \begin{enumerate}
                 \itemsep0.4em
                 \item 
@@ -579,31 +605,32 @@ then the inverse of $\myvec{
                         0&0&-1
                     }$\\
             \end{enumerate}
-            \hfill (JEE Adv. 2017)	
-\item Let S be set of all column matrix $\myvec{b_1\\b_2\\b_3}$ such that $b_1, b_2, b_3 \in \mathbb{R}$ and the system of equations (in real variables)\begin{align*}-x+2y+5z=b_1\\2x-4y+3z=b_2\\x-2y+2z=b_3\end{align*} has at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution for each $\myvec{b_1\\b_2\\b_3}\in S$ \hfill(JEE Adv. 2018)
-
+\end{multicols}
+            \hfill (2017)	
+\item Let S be set of all column matrix $\myvec{b_1\\b_2\\b_3}$ such that $b_1, b_2, b_3 \in \mathbb{R}$ and the system of equations (in real variables)\begin{align*}-x+2y+5z=b_1\\2x-4y+3z=b_2\\x-2y+2z=b_3\end{align*} has at least one solution. Then, which of the following system(s) (in real variables) has (have) at least one solution for each $\myvec{b_1\\b_2\\b_3}\in S$ \hfill(2018)
+%
 \begin{enumerate}
     \item $x+2y+3z=b_1, 4y+5z=b_2 \text{ and }x+2y+6z=b_3$
     \item $x+y+3z=b_1, 5x+2y+6z=b_2\text{ and }-2x-y-3z=b_3$
     \item $-x+2y-5z=b_1,2x-4y+10z=b_2\text{ and }x-2y+5z=b_3$
     \item $sx+2y+5z=b_1,2x+3z=b_2,x+4y-5z=b_3$\\[2pt]
 \end{enumerate}
-
-\item Let $M=\myvec{
+%
+\item Let $\vec{M}=\myvec{
     0 & 1 & a\\
     1 & 2 & 3\\
     3 & b & 1
-}$ and $(\mathop{adj}M)=\myvec{
+}$ and $\adj{\vec{M}}=\myvec{
     -1 & 1 & -1\\
     8 & -6 & 2\\
     -5 & 3 & 1
-}$ where $a$ and $b$ are real numbers. Which of the following options is/are correct? \hfill (JEE Adv. 2019)
-
+}$ where $a$ and $b$ are real numbers. Which of the following options is/are correct? \hfill (2019)
+\begin{multicols}{2}
 \begin{enumerate}
     \item $a+b=3$
-    \item $\mathop{det}(\mathop{adj}M^2)=81$
-    \item $(adjM)^{-1}+adjM^{-1}=-M$
-    \item If $M\myvec{
+    \item $\mathop{det}(\mathop{adj}\vec{M}^2)=81$
+    \item $(adj\vec{M})^{-1}+adj\vec{M}^{-1}=-\vec{M}$
+    \item If $\vec{M}\myvec{
         \alpha\\
         \beta\\
         \gamma
@@ -613,63 +640,64 @@ then the inverse of $\myvec{
         3
 }$ then $\alpha-\beta+\gamma=3$\\[2pt]
 \end{enumerate}
-
-\item Let\\
-$
-P_1=\vec{I}=\myvec{
+\end{multicols}
+\item Let
+$$
+\vec{P}_1=\vec{I}=\myvec{
     1 & 0 & 0\\
     0 & 1 & 0\\
     0 & 0 & 1
-},  P_2 = \myvec{
+},  \vec{P}_2 = \myvec{
     1 & 0 & 0\\
     0 & 0 & 1\\
     0 & 1 & 1
-},\\ P_3 = \myvec{
+},\vec{P}_3 = \myvec{
     0 & 1 & 0\\
     1 & 0 & 0\\
     0 & 0 & 1
-}, P_4 = \myvec{
+}, \vec{P}_4 = \myvec{
     0 & 1 & 0\\
     0 & 0 & 1\\
     1 & 0 & 0
-},\\ P_5 = \myvec{
+},$$
+$$\vec{P}_5 = \myvec{
     0 & 0 & 1\\
     1 & 0 & 0\\
     0 & 1 & 0
-}, P_6 = \myvec{
+}, \vec{P}_6 = \myvec{
     0 & 0 & 1\\
     0 & 1 & 0\\
     1 & 0 & 1
-}\\
-\text{ and } \displaystyle X = \sum_{k=1}^{6}P_k\myvec{
+}
+\text{ and } \displaystyle \vec{X} = \sum_{k=1}^{6}\vec{P}_k\myvec{
     2 & 1 & 3\\
     1 & 0 & 2\\
     3 & 2 & 1
-}{P_k}^{\top}$\\Where ${P_k}^{\top}$ denotes the transpose of matrix $P_k$. Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
+}{\vec{P}_k}^{\top}$$
+Where ${\vec{P}_k}^{\top}$ denotes the transpose of matrix $\vec{P}_k$. Then which of the following options is/are correct? \hfill (2019)
 
 \begin{enumerate}
-	\item X is a symmetric matrix
-	\item The sum of diagonal elements of X is 18
-	\item X-30$\vec{I}$ is an invertible matrix
-	\item If $X\myvec{1\\1\\1}=\alpha\myvec{1\\1\\1},$ then a is 30\\[2pt]
+	\item $\vec{X}$ is a symmetric matrix
+	\item The sum of diagonal elements of $\vec{X}$ is 18
+	\item $\vec{X}-30\vec{I}$ is an invertible matrix
+	\item If $\vec{X}\myvec{1\\1\\1}=\alpha\myvec{1\\1\\1},$ then $\alpha$ is 30
 \end{enumerate}
-
+%
 \item Let $x\in R$ and let
-$$P = \myvec{1&1&1\\0&2&2\\0&0&3},Q = \myvec{2&x&x\\0&4&0\\x&x&5} \text{ and }R=PQP^{-1}$$
-Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
-
-
+$$\vec{P} = \myvec{1&1&1\\0&2&2\\0&0&3},\vec{Q} = \myvec{2&x&x\\0&4&0\\x&x&5} \text{ and }\vec{R}=\vec{P}\vec{Q}\vec{P}^{-1}$$
+Then which of the following options is/are correct? \hfill (2019)
+%
 \begin{enumerate}
-\item $\det R = \det\myvec{2&x&x\\0&4&0\\x&x&5}+8,$ for all $x\in R$
-\item For $x=1$, there exists a unit vector $\alpha\hat{i}+\beta\hat{j}+\gamma\hat{k}$ for which $R\myvec{\alpha\\\beta\\\gamma}=\myvec{0\\0\\0}$
-		\item There exists a real number $x$ such that $PQ = QP$
-		\item For $x=0$, if $R=\myvec{1\\a\\b}=6\myvec{1\\a\\b},$ then a+b=5\\[2pt]
+\item $\det \vec{R} = \det\myvec{2&x&x\\0&4&0\\x&x&5}+8,$ for all $x\in R$
+\item For $x=1$, there exists a unit vector $\alpha\hat{i}+\beta\hat{j}+\gamma\hat{k}$ for which $\vec{R}\myvec{\alpha\\\beta\\\gamma}=\myvec{0\\0\\0}$
+		\item There exists a real number $x$ such that $\vec{P}\vec{Q} = \vec{Q}\vec{P}$
+		\item For $x=0$, if $\vec{R}=\myvec{1\\a\\b}=6\myvec{1\\a\\b},$ then a+b=5\\[2pt]
 \end{enumerate}
-	\item Consider the set $\vec{A}$ of all determinants of order 3 with entries
-		0 or 1 only. Let $B$ be the subset of $\vec{A}$ consisting of all
-		determinants with value 1. Let $C$ be the subset of $\vec{A}$ consisting
+	\item Consider the set ${A}$ of all determinants of order 3 with entries
+		0 or 1 only. Let ${B}$ be the subset of ${A}$ consisting of all
+		determinants with value 1. Let $C$ be the subset of ${A}$ consisting
 		of all determinants with value -1. Then
-		\hfill (1981 - 2 Marks)
+		\hfill (1981)
 		\begin{multicols}{2}
 			\begin{enumerate}
 				\item $C$ is empty
@@ -680,13 +708,12 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
 		\end{multicols}
 	\item Let $a, b, c$ be the real numbers. Then following system of
 		equations in $x, y$ and $z$ 
-
 		$$
 		\frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{z^2}{c^2} = 1	,
 		\frac{x^2}{a^2} - \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1	,
 		-\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1
 		$$ has	
-		\hfill (1995S)
+		\hfill (1995)
 
 		\begin{multicols}{2}
 			\begin{enumerate}
@@ -697,25 +724,25 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
 				\item finitely many solutions
 			\end{enumerate}
 		\end{multicols}
-
-	\item If $\vec{A}$ and $B$ are square matrices of equal degree, then which
+%
+	\item If $\vec{A}$ and $\vec{B}$ are square matrices of equal degree, then which
 		one is correct among the followings?
-		\hfill (1995S)
-
+		\hfill (1995)
+%
 		\begin{multicols}{2}
 			\begin{enumerate}
-				\item $\vec{A} + B = B + \vec{A}$
-				\item $\vec{A} + B = \vec{A} - B$
+				\item $\vec{A} + \vec{B} = \vec{B} + \vec{A}$
+				\item $\vec{A} + \vec{B} = \vec{A} - \vec{B}$
 				\columnbreak
-				\item $\vec{A} - B = B - \vec{A}$
-				\item $\vec{A}B = B\vec{A}$
+				\item $\vec{A} - \vec{B} = \vec{B} - \vec{A}$
+				\item $\vec{A}\vec{B} = \vec{B}\vec{A}$
 			\end{enumerate}
 		\end{multicols}
 \item If the system of equations
     \begin{align*}
-        x-ky-z=0 ,\\ kx-y-z=0,x+y-z=0
-    \end{align*} has a non-zero  solution,  then the possible values of k are 
-    \hfill{\brak{2000S}}
+	    x-ky-z&=0 ,\\ kx-y-z&=0, \\ x+y-z&=0
+    \end{align*} has a non-zero  solution,  then the possible values of $k$ are 
+    \hfill{\brak{2000}}
     \begin{multicols}{4}
         \begin{enumerate}
             \item -1,2 \columnbreak
@@ -726,8 +753,8 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
     \end{multicols}
 \item The number of values of $k$ for which the system of equations 
     \begin{align*}
-    \brak{k+1}x + 8y=4k; \\ kx +\brak{k+3}y=3k-1 \end{align*} has infinitely many solutions is 
-    \hfill{\brak{2002S}}
+    \brak{k+1}x + 8y&=4k; \\ kx +\brak{k+3}y&=3k-1 \end{align*} has infinitely many solutions is 
+    \hfill{\brak{2002}}
     \begin{enumerate}
             \begin{multicols}{4}
             \item 0 \columnbreak
@@ -736,16 +763,16 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
             \item infinte
             \end{multicols}
     \end{enumerate}
-
+%
 \item If $\vec{A}=$
     \myvec{
         \alpha & 0 \\
         1 & 1
-    } and $B=$ \myvec{
+    } and $\vec{B}=$ \myvec{
         1 & 0 \\
         5 & 1
-    }, then value of $\alpha$ for which $\vec{A}^2 = B$,is
-    \hfill{\brak{2003S}}
+    }, then value of $\alpha$ for which $\vec{A}^2 = \vec{B}$, is
+    \hfill{\brak{2003}}
     \begin{enumerate}
             \begin{multicols}{2}
             \item 1 \columnbreak
@@ -757,10 +784,9 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
             \item infinite
             \end{multicols}
     \end{enumerate}
-
-
+%
 \item If the system of equations $x + ay = 0, az + y =0$ and $ax + z =0$ has infinite solutions, then the value of $a$ is 
-    \hfill{\brak{2003S}}
+    \hfill{\brak{2003}}
     \begin{enumerate}
             \begin{multicols}{2}
             \item -1 \columnbreak
@@ -772,11 +798,10 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
             \item no real values
             \end{multicols}
     \end{enumerate}
-
-
+%
 \item  Given \begin{align*} 2x-y+2z=2,\\x-2y+z=-4,\\x+y+\lambda z=4 \end{align*} then the value of $\lambda$ such that the given system of equation has NO solution, is
-
-        \hfill{\brak{2004S}}
+%
+        \hfill{\brak{2004}}
         \begin{enumerate}
                 \begin{multicols}{4}
                 \item 3 \columnbreak
@@ -785,11 +810,11 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                 \item -3
                 \end{multicols}
         \end{enumerate}
-    \item Is $\vec{A}=$ \myvec{
+    \item If $\vec{A}=$ \myvec{
             \alpha & 2\\
             2 & \alpha
         } and $\mydet{\vec{A}^3}=125$ then the value $\alpha$ is
-        \hfill{\brak{2004S}}
+        \hfill{\brak{2004}}
         \begin{enumerate}
                 \begin{multicols}{4}
                 \item $\pm 1$ \columnbreak
@@ -798,10 +823,9 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                 \item $\pm 5$
                 \end{multicols}
         \end{enumerate}
-
-
-    \item $\vec{A}=$ \myvec{1 & 0 & 0 \\ 0 & 1&1 \\ 0 &-2 &4} and $\vec{I}=$ \myvec{1 & 0 &0\\ 0 & 1 & 0\\0 & 0 & 1} \hfill{2005S}
-        and $\vec{A}^{-1} = $ \myvec{\frac{1}{6}\brak{\vec{A}^2 + c\vec{A} +d\vec{I}}}, then the value of $c$ and $d$ are \hfill{\brak{2005S}}
+%
+    \item $\vec{A}=$ \myvec{1 & 0 & 0 \\ 0 & 1&1 \\ 0 &-2 &4} and $\vec{I}=$ \myvec{1 & 0 &0\\ 0 & 1 & 0\\0 & 0 & 1} 
+        and $\vec{A}^{-1} = $ \myvec{\frac{1}{6}\brak{\vec{A}^2 + c\vec{A} +d\vec{I}}}, then the value of $c$ and $d$ are \hfill{\brak{2005}}
         \begin{enumerate}
                 \begin{multicols}{2}
                 \item\brak{-6,-11} \columnbreak
@@ -812,23 +836,21 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                 \item\brak{6,-11}
                 \end{multicols}
         \end{enumerate}
-
-
-    \item If $P=$ 
+%
+    \item If $\vec{P}=$ 
         \myvec{
             \frac{\sqrt{3}}{2} & \frac{1}{2}\\
             -\frac{1}{2} & \frac{\sqrt{3}}{2}
-        }and $\vec{A} = \begin{vmatrix} 1& 1 \\ 0 & 1\end{vmatrix}$ and $Q = P\vec{A}P^{\top}$ and $x=P^{\top}Q^{2005}P$ then $x$ is equal to 
-
-
+	} and $\vec{A} = \myvec{ 1& 1 \\ 0 & 1}$ and $\vec{Q} = \vec{P}\vec{A}\vec{P}^{\top}$ and $x=\vec{P}^{\top}\vec{Q}^{2005}\vec{P}$ then $x$ is equal to 
+%
             \begin{enumerate}
-                \item \mydet{ 1 & 2005\\0 & 1 }
-                \item $\mydet{ 4 + 2005\sqrt{3} & 6015 \\ 2005 & 4 - 2005\sqrt{3}}$
-                \item $\frac{1}{4}\mydet{2 + \sqrt{3} & 1 \\ -1 & 2 -\sqrt{3}}$
-                \item $\frac{1}{4}\mydet{2005 & 2 - \sqrt{3} \\ 2 + \sqrt{3} & 2005}$
+                \item \myvec{ 1 & 2005\\0 & 1 }
+                \item $\myvec{ 4 + 2005\sqrt{3} & 6015 \\ 2005 & 4 - 2005\sqrt{3}}$
+                \item $\frac{1}{4}\myvec{2 + \sqrt{3} & 1 \\ -1 & 2 -\sqrt{3}}$
+                \item $\frac{1}{4}\myvec{2005 & 2 - \sqrt{3} \\ 2 + \sqrt{3} & 2005}$
             \end{enumerate}		
-            \item The number of 3x3 matrices $\vec{A}$ whose entries are either $0$ or $1$ and for which the system $\vec{A}\myvec{x\\y\\z}=\myvec{1\\0\\0}$ has exactly two distinct solutions is \hfill{\brak{2008}}
-
+            \item The number of $3 \times 3$ matrices $\vec{A}$ whose entries are either $0$ or $1$ and for which the system $\vec{A}\myvec{x\\y\\z}=\myvec{1\\0\\0}$ has exactly two distinct solutions is \hfill{\brak{2008}}
+%
                 \begin{enumerate}
                         \begin{multicols}{4}
                         \item 0 \columnbreak
@@ -839,7 +861,7 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                 \end{enumerate}
             \item Let $\omega \neq 1$ be a cube root of unity and $S$ be the set of all non-singular matrices of the form 
                 \begin{align*}
-                    \mydet{
+                    \myvec{
                         1 & a & b \\
                         \omega & 1 & c\\
                         \omega^2 & \omega & 1
@@ -857,7 +879,7 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                         \end{multicols}
                 \end{enumerate}
 
-            \item Let $P = \myvec{a_{ij}}$ be 3x3 matrix and let $Q =  \myvec{b_{ij}}$, where $b_{ij} = 2^{i+j}a_{ij}$ for $1 \le i,j \le 3$. If the determinant of $P$ is 2, then the determinant of the matrix $Q$ is 
+            \item Let $\vec{P} = \myvec{a_{ij}}$ be a $3 \times 3$ matrix and let $\vec{Q} =  \myvec{b_{ij}}$, where $b_{ij} = 2^{i+j}a_{ij}$ for $1 \le i,j \le 3$. If the determinant of $\vec{P}$ is 2, then the determinant of the matrix $\vec{Q}$ is 
                 \hfill{\brak{2012}}
                 \begin{enumerate}
 
@@ -869,21 +891,21 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                         \end{multicols}
                 \end{enumerate}
 
-            \item If $P$ is a 3x3 matrix such that $P^{\top} = 2P +\vec{I}$, where $P^{\top}$ is the transpose of $P$ and $\vec{I}$ is the 3x3 identity matrix, then there exists a column matrix $X=\myvec{x\\y\\z} \neq \myvec{0\\0\\0}$
+            \item If $\vec{P}$ is a $3 \times 3$ matrix such that $\vec{P}^{\top} = 2\vec{P} +\vec{I}$, where $\vec{P}^{\top}$ is the transpose of $\vec{P}$ and $\vec{I}$ is the $3 \times 3$ identity matrix, then there exists a column matrix $\vec{X}=\myvec{x\\y\\z} \neq \myvec{0\\0\\0}$
                 \hfill{\brak{2012}}
                 \begin{enumerate}
 
                         \begin{multicols}{2}
-                        \item $PX=\myvec{0\\0\\0}$ \columnbreak
-                        \item $PX=X$
+                        \item $\vec{P}\vec{X}=\myvec{0\\0\\0}$ \columnbreak
+                        \item $\vec{P}\vec{X}=\vec{X}$
                         \end{multicols}
                         \begin{multicols}{2}
-                        \item $PX=2X$ \columnbreak
-                        \item $PX = -X$
+                        \item $\vec{P}\vec{X}=2\vec{X}$ \columnbreak
+                        \item $\vec{P}\vec{X} = -\vec{X}$
                         \end{multicols}
                 \end{enumerate}
 
-            \item Let $P=\myvec{1&0&0\\4&1&0\\16&4&1}$ and $\vec{I}$ be the identity matrix of order 3. If $Q = \myvec{q_{ij}}$ is a matrix such that $P^{50} -Q =\vec{I}$, then $\frac{q_{31}+q_{32}}{q_{21}}$ equals
+            \item Let $\vec{P}=\myvec{1&0&0\\4&1&0\\16&4&1}$ and $\vec{I}$ be the identity matrix of order 3. If $\vec{Q} = \myvec{q_{ij}}$ is a matrix such that $\vec{P}^{50} -\vec{Q} =\vec{I}$, then $\frac{q_{31}+q_{32}}{q_{21}}$ equals
                 \hfill{\brak{JEE Adv. 2016}}
                 \begin{enumerate}
 
@@ -896,21 +918,25 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                 \end{enumerate}
 
     \item
-        How many $3 \times 3$ matrices $M$ with entries from $\brak{0,1,2}$ are there, for which the sum of the diagonal entries of $M^{\top}M$ is $5$?
+        How many $3 \times 3$ matrices $\vec{M}$ with entries from $\brak{0,1,2}$ are there, for which the sum of the diagonal entries of $\vec{M}^{\top}\vec{M}$ is $5$?
+            \hfill (2017)
+\begin{multicols}{4}
             \begin{enumerate}
                 \item $126$
                 \item $198$
                 \item $162$
                 \item $135$
             \end{enumerate}
-            \hfill ( 2017)
+\end{multicols}
         \item
-        Let $M= \mydet{
+        Let $\vec{M}= \myvec{
             \sin^4 \brak{\theta} & -1 -\sin^2 \brak{\theta}\\
             1+\cos^2 \brak{\theta} & \cos^4 \brak{\theta}
             } = 
-            \alpha \vec{I} + \beta M^{-1}$\\
+            \alpha \vec{I} + \beta \vec{M}^{-1}$\\
         Where $\alpha = \alpha \brak{\theta}$ and $\beta = \beta \brak{\theta}$ are real numbers, and $\vec{I}$ is the $2 \times 2$ identity matrix. If $\mathrm{a^*}$ is the minimum of the set $\brak{\alpha \brak{\theta} : \theta \in [0, 2 \pi)}$ and $\mathrm{b^*}$ is the minimum of the set $\brak{\beta \brak{\theta} : \theta \in [0, 2 \pi)}$. Then the value of $\mathrm{a^*} + \mathrm{b^*}$ is
+            \hfill (2019)
+\begin{multicols}{4}
             \begin{enumerate}
                 \itemsep0.4em
                 \item $-\frac{31}{16}$
@@ -918,11 +944,11 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
                 \item $-\frac{37}{16}$
                 \item $-\frac{29}{16}$
             \end{enumerate}
-            \hfill (JEE Adv. 2019)
+\end{multicols}
 	\item Let $\vec{A} = \myvec{
 		1 & 0 & 0 \\
 		2 & 1 & 0 \\
-	3 & 2 & 1 }$ and $\vec{U_1}$, $\vec{U_2}$ and $\vec{U_3}$ are columns of a $3\times3$ matrix $\vec{U}$. If column matrices $\vec{U_1}$, $\vec{U_2}$ and $\vec{U_3}$ satisfying 
+	3 & 2 & 1 }$ and $\vec{U_1}$, $\vec{U_2}$ and $\vec{U_3}$ are columns of a $3\times3$ matrix $\vec{U}$. If column matrices $\vec{U_1}$, $\vec{U_2}$ and $\vec{U_3}$ satisfy
 	$\vec{AU_1} = \myvec{
 		1 \\
 		0 \\
@@ -935,43 +961,40 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
 		2 \\
 		3 \\
 		1 }$ evaluate as directed in the following questions.
-
+			\hfill(2006)
+%
 	\begin{enumerate}
 		\item The value $\abs{\vec{U}}$ is
-
-			\hfill(2006 - 5M, $-2$)
-
+\begin{multicols}{4}
 			\begin{enumerate}
 				\item $3$
 				\item $-3$
 			\item $\frac{3}{2}$
 				\item $2$
 			\end{enumerate}
-
+\end{multicols}
 		\item The sum of the elements of the matrix $\vec{U^{-1}}$ is
-
-			\hfill(2006 - 5M, $-2$)
-
+\begin{multicols}{4}
 			\begin{enumerate}
 				\item $-1$
 				\item $0$
 				\item $1$
 				\item $3$
 			\end{enumerate}
-
+\end{multicols}
+%
 		\item The value of $\myvec{ 3 & 2 & 0 }
 				\vec{U}
 				\myvec{ 3 \\ 2 \\ 0 }$ is
-
-			\hfill(2006 - 5M, $-2$)
+\begin{multicols}{4}
 			\begin{enumerate}
 				\item $5$
 				\item $\frac{5}{2}$
 				\item $4$
 				\item $\frac{3}{2}$
 			\end{enumerate}
+\end{multicols}
 	\end{enumerate}
-
 	%\bigskip
 
 	%{\centering PASSAGE - 2 \par}
@@ -1060,10 +1083,10 @@ Then which of the following options is/are correct? \hfill (JEE Adv. 2019)
 			\end{enumerate}
 
 	\end{enumerate}
-\item For what value of $k$ do the following system of equations possess a non trivial (i.e., not all zero) solution over the set of rationals $Q$?\begin{align*}
+\item For what value of $k$ do the following system of equations possess a non trivial (i.e., not all zero) solution over the set of rationals $\vec{Q}$?\begin{align*}
 x+ky+3z=0\\3x+ky-2z=0\\2x+3y-4z=0\end{align*} For what value of k, find all the solutions of the system. \hfill (1979)\\[2pt]
-\item Consider the system of linear equations the system of linear equations in x, y, z:\begin{align*}(\sin 3\theta) x-y+z=0\\(\cos 2\theta)x+4y+3z=0\\2x+7y+7z=0\end{align*} Find the values of $\theta$ for which this system has non trivial solutions. \hfill (1986 - 5 Marks)\\[2pt]
-\item Let $\lambda\text{ and }\alpha$ be real. Find the set of all values of $\lambda$ for which the system of linear equations \begin{align*}\lambda x+(\sin\alpha)y+(\cos\alpha)=0\\ x+(\cos\alpha)y+(\sin\alpha)z=0\\-x+(\sin\alpha)y-(\cos\alpha)z=0\end{align*} has a non trivial solution. For $\lambda = 1$, find all values of $\alpha$. \hfill (1993 - 4 Marks)\\[2pt]
+\item Consider the system of linear equations the system of linear equations in x, y, z:\begin{align*}(\sin 3\theta) x-y+z=0\\(\cos 2\theta)x+4y+3z=0\\2x+7y+7z=0\end{align*} Find the values of $\theta$ for which this system has non trivial solutions. \hfill (1986 - 5 )\\[2pt]
+\item Let $\lambda\text{ and }\alpha$ be real. Find the set of all values of $\lambda$ for which the system of linear equations \begin{align*}\lambda x+(\sin\alpha)y+(\cos\alpha)=0\\ x+(\cos\alpha)y+(\sin\alpha)z=0\\-x+(\sin\alpha)y-(\cos\alpha)z=0\end{align*} has a non trivial solution. For $\lambda = 1$, find all values of $\alpha$. \hfill (1993 - 4 )\\[2pt]
 	\item If matrix 
 		$\vec{A} = \mydet{
 			a & b & c \\
@@ -1071,12 +1094,12 @@ x+ky+3z=0\\3x+ky-2z=0\\2x+3y-4z=0\end{align*} For what value of k, find all the 
 			c & a & b } $
 		where $a,b,c$ are real positive numbers, $abc=1$ and $\vec{A}^\top\vec{A}=\vec{I}$, then find the value of $a^3+b^3+c^3$.
 
-		\hfill(2003 - 2 Marks)
+		\hfill(2003 - 2 )
 
 	%4
 	\item If $\vec{M}$ is a $3\times3$ matrix, where det $\vec{M}=1$ and $\vec{M}\vec{M}^\top=\vec{I}$, where '$\vec{I}$' is an identity matrix, prove that det$(\vec{M}-\vec{I})=0$.
 		
-		\hfill(2004 - 2 Marks)
+		\hfill(2004 - 2 )
 
 	%5
 	\item If $\vec{A} = \myvec{
@@ -1101,7 +1124,7 @@ x+ky+3z=0\\3x+ky-2z=0\\2x+3y-4z=0\end{align*} For what value of k, find all the 
 			z }$
 		and $\vec{AX}=\vec{U}$ has infinitely many solutions, prove that $\vec{BX}=\vec{V}$ has no unique solution. Also show that if $afd$ $\neq0$, then $\vec{BX}=\vec{V}$ has no solution.
 
-		\hfill(2004 - 4 Marks)
+		\hfill(2004 - 4 )
 
 
 
