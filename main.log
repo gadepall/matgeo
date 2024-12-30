@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  29 DEC 2024 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  30 DEC 2024 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3261,45 +3261,21 @@ ters/10/7/4/3/figs/fig.pdf>]) (./chapters/11/11/1/4/circle.tex)
 (./chapters/11/11/1/6/circle.tex) (./chapters/11/11/1/7/circle.tex [216])
 (./chapters/11/11/1/8/circle.tex) (./chapters/11/11/1/9/circle.tex))
 (./chapters/circles/examples/misc.tex (./chapters/11/11/1/5/circle.tex [217]))
-(./JEE/circle.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--19
-
- []
-
-[218]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [219]
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
+(./JEE/circle.tex [218]
 LaTeX Font Info:    Trying to load font information for OMS+txr on input line 7
-1.
+3.
 
 (/data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/tex/latex/txfont
 s/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 73.
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+ [219]
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
@@ -3308,22 +3284,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [220]
 [221] [222]
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
 [223] [224] [225] [226] [227] [228]
-Underfull \hbox (badness 10000) in paragraph at lines 629--631
+Underfull \hbox (badness 10000) in paragraph at lines 631--633
 
  []
 
 [229]
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
 
  []
 
@@ -3331,74 +3307,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 659--660
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [230]
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 711--712
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 724--725
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [231]
-Underfull \hbox (badness 10000) in paragraph at lines 740--741
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 745--747
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 751--753
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 757--758
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 762--763
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 769--770
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--779
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 783--785
-
- []
-
-) [232] (./chapters/formulae/conics/equation.tex [233] [234])
+ [231])
+[232] (./chapters/formulae/conics/equation.tex [233] [234])
 (./chapters/conics/examples/equation.tex (./chapters/11/11/5/ellipse.tex
 (./chapters/11/11/5/tables/table1.tex) [235]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -4262,6 +4174,10 @@ Underfull \hbox (badness 1845) in paragraph at lines 1372--1378
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 83361B5E0744D751E82B3C38BED1BC8C;11004.
  ) 
@@ -4292,7 +4208,7 @@ m.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (347 pages, 3900919 bytes).
+Output written on main.pdf (347 pages, 3900907 bytes).
 PDF statistics:
  12415 PDF objects out of 12825 (max. 8388607)
  10052 compressed objects within 101 object streams
