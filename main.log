@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  18 JAN 2025 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2024.4.5)  19 JAN 2025 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3640,43 +3640,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--188
 
  []
 
-[285] [286] [287]
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
+[285] [286] [287] [288] [289]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [290]
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
-
+Overfull \hbox (21.32266pt too wide) in paragraph at lines 558--559
+[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
-
- []
-
-[288] [289] [290]
 Underfull \hbox (badness 10000) in paragraph at lines 559--560
 []
  []
 
 
-Overfull \hbox (21.32266pt too wide) in paragraph at lines 559--560
+Overfull \hbox (45.1507pt too wide) in paragraph at lines 559--560
 []$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--561
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
 []
  []
 
 
-Overfull \hbox (45.1507pt too wide) in paragraph at lines 560--561
+Overfull \hbox (6.90987pt too wide) in paragraph at lines 585--586
 []$ 
  []
 
@@ -3686,7 +3679,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 586--587
  []
 
 
-Overfull \hbox (6.90987pt too wide) in paragraph at lines 586--587
+Overfull \hbox (0.56221pt too wide) in paragraph at lines 586--587
 []$ 
  []
 
@@ -3696,7 +3689,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 587--588
  []
 
 
-Overfull \hbox (0.56221pt too wide) in paragraph at lines 587--588
+Overfull \hbox (13.26985pt too wide) in paragraph at lines 587--588
 []$ 
  []
 
@@ -3706,74 +3699,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 588--589
  []
 
 
-Overfull \hbox (13.26985pt too wide) in paragraph at lines 588--589
+Overfull \hbox (6.9222pt too wide) in paragraph at lines 588--589
 []$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 589--590
-[]
- []
-
-
-Overfull \hbox (6.9222pt too wide) in paragraph at lines 589--590
-[]$ 
- []
-
-[291]
-Underfull \hbox (badness 10000) in paragraph at lines 599--600
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
 []\OT1/txr/m/n/10 The point
  []
 
 
-Overfull \hbox (1.6621pt too wide) in paragraph at lines 614--615
+Overfull \vbox (5.3876pt too high) has occurred while \output is active []
+
+
+[291]
+Overfull \hbox (1.6621pt too wide) in paragraph at lines 613--614
 []$[]$\OT1/txr/m/n/10 /2 
  []
 
 [292]
-Underfull \hbox (badness 10000) in paragraph at lines 683--684
+Underfull \hbox (badness 10000) in paragraph at lines 682--683
 []$\OT1/txr/m/n/10 (\OML/txmi/m/it/10 h[] \OMS/txsy/m/n/10 ^^@ \OML/txmi/m/it/1
 0 r[]\OT1/txr/m/n/10 )\OML/txmi/m/it/10 x \OMS/txsy/m/n/10 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
 []$\OT1/txr/m/n/10 (\OML/txmi/m/it/10 h[] \OMS/txsy/m/n/10 ^^@ \OML/txmi/m/it/1
 0 r[]\OT1/txr/m/n/10 )\OML/txmi/m/it/10 x \OT1/txr/m/n/10 +
  []
 
 [293]
-Underfull \hbox (badness 10000) in paragraph at lines 729--730
+Underfull \hbox (badness 10000) in paragraph at lines 728--729
 []$\OT1/txr/m/n/10 20 [] \OMS/txsy/m/n/10 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 730--731
+Underfull \hbox (badness 10000) in paragraph at lines 729--730
 []$\OT1/txr/m/n/10 20 [] +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 731--732
+Underfull \hbox (badness 10000) in paragraph at lines 730--731
 []$\OT1/txr/m/n/10 36 [] \OMS/txsy/m/n/10 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
 []$\OT1/txr/m/n/10 36 [] +
  []
 
 [294]
-Underfull \hbox (badness 10000) in paragraph at lines 818--820
+Underfull \hbox (badness 10000) in paragraph at lines 817--819
 
  []
 
 [295]
-Underfull \hbox (badness 10000) in paragraph at lines 882--883
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
 \OT1/txr/m/n/10 cum-cir-cle of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 883--884
+Underfull \hbox (badness 10000) in paragraph at lines 882--883
 []\OT1/txr/m/n/10 Centroid of
  []
 
@@ -3790,7 +3777,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [301])
 [302] (./chapters/triangle/vector.tex [303]
-<figs/triangle/vector.pdf, id=9828, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=9829, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -3827,7 +3814,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [311])
 (./solutions/1/2/5/main.tex
-<figs/triangle/median.pdf, id=10065, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=10066, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -3842,7 +3829,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--2
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [312]
-<figs/triangle/pgm.pdf, id=10087, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=10088, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -3869,7 +3856,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--10
  ob-tained from the
  []
 
-<figs/triangle/altitude.pdf, id=10182, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=10183, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -3884,7 +3871,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [317])
 (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=10289, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=10290, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -3905,7 +3892,7 @@ Underfull \vbox (badness 1648) has occurred while \output is active []
 
  [320])
 (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=10390, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=10391, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -3974,8 +3961,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D444BB478CEB7B3C43E65BE4DB9618A1;11154.
  ) 
 Here is how much of TeX's memory you used:
- 64515 strings out of 474104
- 1493589 string characters out of 5729886
+ 64516 strings out of 474104
+ 1493598 string characters out of 5729886
  2002493 words of memory out of 5000000
  79006 multiletter control sequences out of 15000+600000
  642505 words of font info for 213 fonts, out of 8000000 for 9000
@@ -4000,10 +3987,10 @@ m.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2024/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2024/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (341 pages, 3897399 bytes).
+Output written on main.pdf (341 pages, 3896941 bytes).
 PDF statistics:
- 12361 PDF objects out of 12825 (max. 8388607)
- 10004 compressed objects within 101 object streams
- 6135 named destinations out of 6186 (max. 500000)
+ 12362 PDF objects out of 12825 (max. 8388607)
+ 10005 compressed objects within 101 object streams
+ 6136 named destinations out of 6186 (max. 500000)
  1430 words of extra memory for PDF output out of 10000 (max. 10000000)
 
