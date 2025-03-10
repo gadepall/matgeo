@@ -18,7 +18,8 @@ def norm_vec(A,B):
   #return np.matmul(omat, dir_vec(A,B))
 
 def ang_vec(m1,m2):
-    return mp.acos(float((m1.T@m2)/(np.linalg.norm(m1)*np.linalg.norm(m2))))
+    return np.arccos(float((m1.T@m2)/(np.linalg.norm(m1)*np.linalg.norm(m2))))
+    #return mp.acos(float((m1.T@m2)/(np.linalg.norm(m1)*np.linalg.norm(m2))))
 
 #Generate line points
 def line_gen(A,B):
