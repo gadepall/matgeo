@@ -55,54 +55,54 @@
 \contentsline {subsection}{\numberline {5.12}CBSE}{185}{subsection.5.12}%
 \contentsline {subsection}{\numberline {5.13}JEE}{186}{subsection.5.13}%
 \contentsline {subsection}{\numberline {5.14}GATE}{202}{subsection.5.14}%
-\contentsline {section}{\numberline {6}Skew Lines}{210}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Formulae}{210}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Least Squares}{211}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Singular Value Decomposition}{217}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}CBSE}{222}{subsection.6.4}%
-\contentsline {section}{\numberline {7}Circle}{224}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Formulae}{224}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Equation}{224}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Miscellaneous}{232}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}JEE}{233}{subsection.7.4}%
-\contentsline {section}{\numberline {8}Conics}{239}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Formulae}{239}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Equation}{241}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Miscellaneous}{258}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}JEE}{259}{subsection.8.4}%
-\contentsline {section}{\numberline {9}Intersection of Conics}{267}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Formulae}{267}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Chords}{267}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}CBSE}{273}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Quadratic Equations}{274}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}CBSE}{278}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Curves}{279}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}CBSE}{280}{subsection.9.7}%
-\contentsline {subsection}{\numberline {9.8}JEE}{281}{subsection.9.8}%
-\contentsline {section}{\numberline {10}Tangent And Normal}{286}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Formulae}{286}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Circle}{287}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Conic}{288}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}CBSE}{297}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Construction}{298}{subsection.10.5}%
-\contentsline {subsection}{\numberline {10.6}CBSE}{298}{subsection.10.6}%
-\contentsline {subsection}{\numberline {10.7}JEE}{299}{subsection.10.7}%
-\contentsline {section}{\numberline {11}Vector Algebra}{314}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Formulae}{314}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Examples}{314}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}JEE}{319}{subsection.11.3}%
-\contentsline {section}{Appendix\nobreakspace A: Triangle}{321}{section*.120}%
-\contentsline {subsection}{\numberline {A.1}Sides}{321}{subsection.Appendix.A.1}%
-\contentsline {subsection}{\numberline {A.2}Formulae}{326}{subsection.Appendix.A.2}%
-\contentsline {subsection}{\numberline {A.3}Median}{327}{subsection.Appendix.A.3}%
-\contentsline {subsection}{\numberline {A.4}Altitude}{331}{subsection.Appendix.A.4}%
-\contentsline {subsection}{\numberline {A.5}Perpendicular Bisector}{334}{subsection.Appendix.A.5}%
-\contentsline {subsection}{\numberline {A.6}Angle Bisector}{338}{subsection.Appendix.A.6}%
-\contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{340}{subsection.Appendix.A.7}%
-\contentsline {subsection}{\numberline {A.8}Formulae}{341}{subsection.Appendix.A.8}%
-\contentsline {subsection}{\numberline {A.9}Matrices}{342}{subsection.Appendix.A.9}%
-\contentsline {section}{Appendix\nobreakspace B: Conic Section}{344}{section*.127}%
-\contentsline {subsection}{\numberline {B.1}Equation}{344}{subsection.Appendix.B.1}%
-\contentsline {subsection}{\numberline {B.2}Standard Conic}{348}{subsection.Appendix.B.2}%
-\contentsline {subsection}{\numberline {B.3}Conic Lines}{350}{subsection.Appendix.B.3}%
-\contentsline {subsection}{\numberline {B.4}Tangent and Normal}{353}{subsection.Appendix.B.4}%
+\contentsline {section}{\numberline {6}Skew Lines}{211}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Formulae}{211}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Least Squares}{212}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Singular Value Decomposition}{218}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}CBSE}{223}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Circle}{225}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Formulae}{225}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Equation}{225}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Miscellaneous}{233}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}JEE}{234}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Conics}{240}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Formulae}{240}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Equation}{242}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Miscellaneous}{259}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}JEE}{260}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Intersection of Conics}{268}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Formulae}{268}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Chords}{268}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}CBSE}{274}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Quadratic Equations}{275}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}CBSE}{279}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Curves}{280}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}CBSE}{281}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}JEE}{282}{subsection.9.8}%
+\contentsline {section}{\numberline {10}Tangent And Normal}{287}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Formulae}{287}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Circle}{288}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Conic}{289}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}CBSE}{298}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Construction}{299}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}CBSE}{299}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}JEE}{300}{subsection.10.7}%
+\contentsline {section}{\numberline {11}Vector Algebra}{315}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Formulae}{315}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Examples}{315}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}JEE}{320}{subsection.11.3}%
+\contentsline {section}{Appendix\nobreakspace A: Triangle}{322}{section*.120}%
+\contentsline {subsection}{\numberline {A.1}Sides}{322}{subsection.Appendix.A.1}%
+\contentsline {subsection}{\numberline {A.2}Formulae}{327}{subsection.Appendix.A.2}%
+\contentsline {subsection}{\numberline {A.3}Median}{328}{subsection.Appendix.A.3}%
+\contentsline {subsection}{\numberline {A.4}Altitude}{332}{subsection.Appendix.A.4}%
+\contentsline {subsection}{\numberline {A.5}Perpendicular Bisector}{335}{subsection.Appendix.A.5}%
+\contentsline {subsection}{\numberline {A.6}Angle Bisector}{339}{subsection.Appendix.A.6}%
+\contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{341}{subsection.Appendix.A.7}%
+\contentsline {subsection}{\numberline {A.8}Formulae}{342}{subsection.Appendix.A.8}%
+\contentsline {subsection}{\numberline {A.9}Matrices}{343}{subsection.Appendix.A.9}%
+\contentsline {section}{Appendix\nobreakspace B: Conic Section}{345}{section*.127}%
+\contentsline {subsection}{\numberline {B.1}Equation}{345}{subsection.Appendix.B.1}%
+\contentsline {subsection}{\numberline {B.2}Standard Conic}{349}{subsection.Appendix.B.2}%
+\contentsline {subsection}{\numberline {B.3}Conic Lines}{351}{subsection.Appendix.B.3}%
+\contentsline {subsection}{\numberline {B.4}Tangent and Normal}{354}{subsection.Appendix.B.4}%
