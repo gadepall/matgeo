@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  12 AUG 2025 19:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  12 AUG 2025 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8507,9 +8507,27 @@ Package pdftex.def Info: GATE/2022/IN/figs/q54.png  used on input line 28.
 [320 <./GATE/2022/IN/figs/q54.png>]) (./GATE/2008/CE/main.tex)
 (./GATE/2009/MT/main.tex) (./GATE/2009/XE/main.tex
 
-[321]))
+[321]) (./GATE/2021/ES/main.tex
+pdfTeX warning (ext4): destination with the same identifier (name{equation.50.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 \end{align}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{equation.50.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 \end{align}
+                ))
 
-[322] (./chapters/triangle/vector.tex
+[322]
+pdfTeX warning (ext4): destination with the same identifier (name{equation.50.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.294 		\end{align}
+                    (./chapters/triangle/vector.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -8626,7 +8644,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.141 \end{align}
                  
-<figs/triangle/vector.pdf, id=9654, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=9663, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -9202,7 +9220,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
                    \relax 
 l.43 \end{align}
                 
-<figs/triangle/median.pdf, id=9799, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=9808, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -9272,7 +9290,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [332]
-<figs/triangle/pgm.pdf, id=9814, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=9823, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -9397,7 +9415,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
                    \relax 
 l.31 \end{align}
                 
-<figs/triangle/altitude.pdf, id=9896, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=9906, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -9583,7 +9601,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.25 		\end{align}
                    (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=9972, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=9981, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -9758,7 +9776,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 		\end{align}
                    (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=10045, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=10054, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -11115,10 +11133,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E3CA4A2C4CE9B793A2297C72C08AB876;11221.
  ) 
 Here is how much of TeX's memory you used:
- 65373 strings out of 473197
- 1520508 string characters out of 5701897
+ 65388 strings out of 473197
+ 1520730 string characters out of 5701897
  1994560 words of memory out of 5000000
- 81302 multiletter control sequences out of 15000+600000
+ 81305 multiletter control sequences out of 15000+600000
  643273 words of font info for 213 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1491s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -11141,10 +11159,10 @@ m.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (361 pages, 8252869 bytes).
+Output written on main.pdf (361 pages, 8254458 bytes).
 PDF statistics:
- 11695 PDF objects out of 12825 (max. 8388607)
- 9319 compressed objects within 94 object streams
- 5521 named destinations out of 6186 (max. 500000)
+ 11705 PDF objects out of 12825 (max. 8388607)
+ 9329 compressed objects within 94 object streams
+ 5530 named destinations out of 6186 (max. 500000)
  1458 words of extra memory for PDF output out of 10000 (max. 10000000)
 
