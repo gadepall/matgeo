@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  12 AUG 2025 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  12 AUG 2025 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5816,7 +5816,7 @@ Underfull \vbox (badness 1975) has occurred while \output is active []
 
 
 
-[206]))
+[206]) (./GATE/2018/PE/main.tex))
 
 [207 <./GATE/2018/IN/figs/q32.png>] (./chapters/formulae/lsq.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
@@ -6042,7 +6042,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.11
                    \relax 
 l.39 \end{align}
                 
-<chapters/12/11/2/15/figs/Figure_1.png, id=6096, 462.528pt x 346.896pt>
+<chapters/12/11/2/15/figs/Figure_1.png, id=6107, 462.528pt x 346.896pt>
 File: chapters/12/11/2/15/figs/Figure_1.png Graphic file (type png)
 <use chapters/12/11/2/15/figs/Figure_1.png>
 Package pdftex.def Info: chapters/12/11/2/15/figs/Figure_1.png  used on input l
@@ -6095,7 +6095,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.6}
                    \relax 
 l.36     \end{align}
                     
-<chapters/12/11/2/16/lsq/figs/skew.png, id=6114, 462.528pt x 346.896pt>
+<chapters/12/11/2/16/lsq/figs/skew.png, id=6124, 462.528pt x 346.896pt>
 File: chapters/12/11/2/16/lsq/figs/skew.png Graphic file (type png)
 <use chapters/12/11/2/16/lsq/figs/skew.png>
 Package pdftex.def Info: chapters/12/11/2/16/lsq/figs/skew.png  used on input l
@@ -6173,7 +6173,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [213]
-<chapters/12/11/2/e11/lsq/figs/skew.png, id=6132, 462.528pt x 346.896pt>
+<chapters/12/11/2/e11/lsq/figs/skew.png, id=6142, 462.528pt x 346.896pt>
 File: chapters/12/11/2/e11/lsq/figs/skew.png Graphic file (type png)
 <use chapters/12/11/2/e11/lsq/figs/skew.png>
 Package pdftex.def Info: chapters/12/11/2/e11/lsq/figs/skew.png  used on input 
@@ -6482,7 +6482,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2}
                    \relax 
 l.9 \end{align}
                
-<chapters/10/7/2/7/figs/fig.pdf, id=6233, 462.52798pt x 346.89601pt>
+<chapters/10/7/2/7/figs/fig.pdf, id=6243, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/7/figs/fig.pdf  used on input line 14.
@@ -6520,7 +6520,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [223 <./chapters/10/7/2/7/figs/fig.pdf>]
-<chapters/11/11/1/10/figs/fig.pdf, id=6281, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/10/figs/fig.pdf, id=6291, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/10/figs/fig.pdf  used on input line 5
@@ -6539,7 +6539,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2}
                    \relax 
 l.11 \end{align}
                 ) (./chapters/11/11/1/12/circle.tex
-<chapters/11/11/1/12/figs/fig.pdf, id=6284, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/12/figs/fig.pdf, id=6294, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/12/figs/fig.pdf  used on input line 5
@@ -6647,7 +6647,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.10.3
                    \relax 
 l.22 \end{align}
                 
-<chapters/11/11/1/15/figs/fig.pdf, id=6383, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/15/figs/fig.pdf, id=6394, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/15/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/15/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/15/figs/fig.pdf  used on input line 2
@@ -6677,7 +6677,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.17.3
                    \relax 
 l.15 \end{align}
                 
-<chapters/10/7/4/3/figs/fig.pdf, id=6397, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/3/figs/fig.pdf, id=6407, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/3/figs/fig.pdf  used on input line 19.
@@ -7138,7 +7138,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [240]
-<chapters/11/11/5/Figures/fig1.png, id=6780, 462.528pt x 346.896pt>
+<chapters/11/11/5/Figures/fig1.png, id=6790, 462.528pt x 346.896pt>
 File: chapters/11/11/5/Figures/fig1.png Graphic file (type png)
 <use chapters/11/11/5/Figures/fig1.png>
 Package pdftex.def Info: chapters/11/11/5/Figures/fig1.png  used on input line 
@@ -7147,7 +7147,7 @@ Package pdftex.def Info: chapters/11/11/5/Figures/fig1.png  used on input line
 )
 
 [241 <./chapters/11/11/5/Figures/fig1.png>] (./chapters/11/11/2/1/parab.tex
-<chapters/11/11/2/1/figs/fig.pdf, id=6797, 462.52798pt x 346.89601pt>
+<chapters/11/11/2/1/figs/fig.pdf, id=6807, 462.52798pt x 346.89601pt>
 File: chapters/11/11/2/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/2/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/2/1/figs/fig.pdf  used on input line 11
@@ -7158,7 +7158,7 @@ Package pdftex.def Info: chapters/11/11/2/1/figs/fig.pdf  used on input line 11
 LaTeX Warning: Command \textendash invalid in math mode on input line 14.
 
 (./chapters/11/11/3/1/ellipse.tex
-<chapters/11/11/3/1/figs/fig.pdf, id=6800, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/1/figs/fig.pdf, id=6810, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/1/figs/fig.pdf  used on input line 7.
@@ -7170,7 +7170,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [242 <./chapters/11/11/2/1/figs/fig.pdf>] (./chapters/11/11/4/1/hyper.tex
-<chapters/11/11/4/1/figs/fig.pdf, id=6855, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/1/figs/fig.pdf, id=6865, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/1/figs/fig.pdf  used on input line 7.
@@ -7190,7 +7190,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.10.1
                    \relax 
 l.4 \end{align}
                
-<chapters/11/11/3/2/figs/fig.pdf, id=6959, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/2/figs/fig.pdf, id=6970, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/2/figs/fig.pdf  used on input line 12
@@ -7202,7 +7202,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [244] (./chapters/11/11/4/5/hyper.tex
-<chapters/11/11/4/5/figs/fig.pdf, id=6974, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/5/figs/fig.pdf, id=6984, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/5/figs/fig.pdf  used on input line 9.
@@ -7214,7 +7214,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [245 <./chapters/11/11/3/2/figs/fig.pdf>]) (./chapters/11/11/2/4/parab.tex
-<chapters/11/11/2/4/figs/fig.pdf, id=7027, 462.52798pt x 346.89601pt>
+<chapters/11/11/2/4/figs/fig.pdf, id=7037, 462.52798pt x 346.89601pt>
 File: chapters/11/11/2/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/2/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/2/4/figs/fig.pdf  used on input line 6.
@@ -7253,7 +7253,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [247]
-<chapters/11/11/4/13/figs/fig.pdf, id=7173, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/13/figs/fig.pdf, id=7183, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/13/figs/fig.pdf  used on input line 9
@@ -7300,7 +7300,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [249]
-<chapters/11/11/3/16/figs/fig.png, id=7258, 462.528pt x 346.896pt>
+<chapters/11/11/3/16/figs/fig.png, id=7268, 462.528pt x 346.896pt>
 File: chapters/11/11/3/16/figs/fig.png Graphic file (type png)
 <use chapters/11/11/3/16/figs/fig.png>
 Package pdftex.def Info: chapters/11/11/3/16/figs/fig.png  used on input line 6
@@ -7321,7 +7321,7 @@ l.6     \end{align}
                    
 
 [250 <./chapters/11/11/3/16/figs/fig.png>]
-<chapters/11/11/4/14/figs/fig.pdf, id=7281, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/14/figs/fig.pdf, id=7291, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/14/figs/fig.pdf  used on input line 4
@@ -7330,7 +7330,7 @@ Package pdftex.def Info: chapters/11/11/4/14/figs/fig.pdf  used on input line 4
 ) (./chapters/11/11/3/19/ellipse.tex
 
 [251 <./chapters/11/11/4/14/figs/fig.pdf>]
-<chapters/11/11/3/19/figs/fig.pdf, id=7329, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/19/figs/fig.pdf, id=7339, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/19/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/19/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/19/figs/fig.pdf  used on input line 5
@@ -7347,7 +7347,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [253 <./chapters/11/11/3/19/figs/fig.pdf>]
-<chapters/11/11/3/20/figs/fig.pdf, id=7400, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/20/figs/fig.pdf, id=7410, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/20/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/20/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/20/figs/fig.pdf  used on input line 4
@@ -7364,7 +7364,7 @@ Underfull \vbox (badness 6995) has occurred while \output is active []
 
 
 [255 <./chapters/11/11/3/20/figs/fig.pdf>]
-<chapters/11/11/4/9/figs/fig.pdf, id=7460, 462.52798pt x 346.89601pt>
+<chapters/11/11/4/9/figs/fig.pdf, id=7470, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/9/figs/fig.pdf  used on input line 52
@@ -7481,7 +7481,7 @@ l.77 \end{align}
                 ) (./chapters/inter/examples/chord.tex
 
 [265] (./chapters/12/8/3/2/conic.tex
-<chapters/12/8/3/2/figs/fig.pdf, id=7810, 462.52798pt x 346.89601pt>
+<chapters/12/8/3/2/figs/fig.pdf, id=7820, 462.52798pt x 346.89601pt>
 File: chapters/12/8/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/3/2/figs/fig.pdf  used on input line 3.
@@ -7511,7 +7511,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.9.4}
                    \relax 
 l.26 \end{align}
                 ) (./chapters/12/8/1/1/conic.tex
-<chapters/12/8/1/1/figs/fig.pdf, id=7813, 462.52798pt x 346.89601pt>
+<chapters/12/8/1/1/figs/fig.pdf, id=7823, 462.52798pt x 346.89601pt>
 File: chapters/12/8/1/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/1/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/1/1/figs/fig.pdf  used on input line 3.
@@ -7548,7 +7548,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [267 <./chapters/12/8/1/1/figs/fig.pdf>]) (./chapters/12/8/1/6/conic.tex
-<chapters/12/8/1/6/figs/fig.pdf, id=7905, 462.52798pt x 346.89601pt>
+<chapters/12/8/1/6/figs/fig.pdf, id=7915, 462.52798pt x 346.89601pt>
 File: chapters/12/8/1/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/1/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/1/6/figs/fig.pdf  used on input line 3.
@@ -7589,7 +7589,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.18.5
                    \relax 
 l.35 \end{align}
                 ) (./chapters/12/8/3/8/conic.tex
-<chapters/12/8/3/8/figs/fig.pdf, id=7958, 462.52798pt x 346.89601pt>
+<chapters/12/8/3/8/figs/fig.pdf, id=7968, 462.52798pt x 346.89601pt>
 File: chapters/12/8/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/3/8/figs/fig.pdf  used on input line 3.
@@ -7656,13 +7656,13 @@ l.28 \end{align}
                 
 
 [273]
-<chapters/10/4/2/5/figs/parabola.pdf, id=8112, 462.52798pt x 346.89601pt>
+<chapters/10/4/2/5/figs/parabola.pdf, id=8122, 462.52798pt x 346.89601pt>
 File: chapters/10/4/2/5/figs/parabola.pdf Graphic file (type pdf)
 <use chapters/10/4/2/5/figs/parabola.pdf>
 Package pdftex.def Info: chapters/10/4/2/5/figs/parabola.pdf  used on input lin
 e 54.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/4/2/5/figs/triangle.pdf, id=8113, 462.52798pt x 346.89601pt>
+<chapters/10/4/2/5/figs/triangle.pdf, id=8123, 462.52798pt x 346.89601pt>
 File: chapters/10/4/2/5/figs/triangle.pdf Graphic file (type pdf)
 <use chapters/10/4/2/5/figs/triangle.pdf>
 Package pdftex.def Info: chapters/10/4/2/5/figs/triangle.pdf  used on input lin
@@ -7738,7 +7738,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [277]
-<chapters/12/8/2/2/figs/fig.pdf, id=8236, 462.52798pt x 346.89601pt>
+<chapters/12/8/2/2/figs/fig.pdf, id=8246, 462.52798pt x 346.89601pt>
 File: chapters/12/8/2/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/2/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/2/2/figs/fig.pdf  used on input line 66.
@@ -7866,7 +7866,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [285]
-<chapters/12/6/3/19/figs/fig.pdf, id=8501, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/19/figs/fig.pdf, id=8511, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/19/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/19/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/19/figs/fig.pdf  used on input line 34
@@ -7923,7 +7923,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.8}
                    \relax 
 l.27 \end{align}
                 
-<chapters/12/6/3/2/figs/fig.pdf, id=8546, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/2/figs/fig.pdf, id=8556, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/2/figs/fig.pdf  used on input line 32.
@@ -7937,7 +7937,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.9.1}
 l.17 ...he curve \begin{align}y=(x-2)^2\end{align}
                                                    at which a tangent is par...
 (./chapters/12/6/3/8/tangent.tex
-<chapters/12/6/3/8/figs/fig.pdf, id=8547, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/8/figs/fig.pdf, id=8557, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/8/figs/fig.pdf  used on input line 3.
@@ -8021,7 +8021,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.16.5
                    \relax 
 l.35 \end{align}
                 
-<chapters/12/6/3/10/figs/fig.pdf, id=8663, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/10/figs/fig.pdf, id=8673, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/10/figs/fig.pdf  used on input line 40
@@ -8092,7 +8092,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.18.5
                    \relax 
 l.30 \end{align}
                 
-<chapters/12/6/3/13/figs/fig.pdf, id=8716, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/13/figs/fig.pdf, id=8726, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/13/figs/fig.pdf  used on input line 35
@@ -8148,7 +8148,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [292]
-<chapters/12/6/5/27/figs/fig.pdf, id=8789, 462.52798pt x 346.89601pt>
+<chapters/12/6/5/27/figs/fig.pdf, id=8799, 462.52798pt x 346.89601pt>
 File: chapters/12/6/5/27/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/5/27/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/5/27/figs/fig.pdf  used on input line 10
@@ -8175,7 +8175,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.23.3
                    \relax 
 l.19 \end{align}
                 
-<chapters/12/6/6/4/figs/fig.pdf, id=8841, 462.52798pt x 346.89601pt>
+<chapters/12/6/6/4/figs/fig.pdf, id=8851, 462.52798pt x 346.89601pt>
 File: chapters/12/6/6/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/6/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/6/4/figs/fig.pdf  used on input line 47.
@@ -8623,7 +8623,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.141 \end{align}
                  
-<figs/triangle/vector.pdf, id=9552, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=9562, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -9199,7 +9199,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
                    \relax 
 l.43 \end{align}
                 
-<figs/triangle/median.pdf, id=9696, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=9706, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -9269,7 +9269,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [328]
-<figs/triangle/pgm.pdf, id=9711, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=9721, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -9394,7 +9394,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
                    \relax 
 l.31 \end{align}
                 
-<figs/triangle/altitude.pdf, id=9794, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=9804, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -9580,7 +9580,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.25 		\end{align}
                    (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=9869, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=9879, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -9755,7 +9755,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 		\end{align}
                    (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=9942, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=9952, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -11112,10 +11112,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 88A1E78A9CBC72DF65A9D60AD8B20CCE;11235.
  ) 
 Here is how much of TeX's memory you used:
- 65229 strings out of 473197
- 1518323 string characters out of 5701897
- 1993479 words of memory out of 5000000
- 81268 multiletter control sequences out of 15000+600000
+ 65245 strings out of 473197
+ 1518558 string characters out of 5701897
+ 1993477 words of memory out of 5000000
+ 81271 multiletter control sequences out of 15000+600000
  643273 words of font info for 213 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1491s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -11138,10 +11138,10 @@ m.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (357 pages, 8218448 bytes).
+Output written on main.pdf (357 pages, 8218700 bytes).
 PDF statistics:
- 11573 PDF objects out of 12825 (max. 8388607)
- 9204 compressed objects within 93 object streams
- 5434 named destinations out of 6186 (max. 500000)
+ 11586 PDF objects out of 12825 (max. 8388607)
+ 9217 compressed objects within 93 object streams
+ 5444 named destinations out of 6186 (max. 500000)
  1453 words of extra memory for PDF output out of 10000 (max. 10000000)
 
