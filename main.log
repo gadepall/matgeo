@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  13 AUG 2025 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  14 AUG 2025 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8519,10 +8519,10 @@ Overfull \hbox (7.8859pt too wide) in paragraph at lines 41--46
 
 ) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex
 
-[323]))
+[323]) (./GATE/2021/PE/main.tex))
 
 [324]
-pdfTeX warning (ext4): destination with the same identifier (name{equation.58.1
+pdfTeX warning (ext4): destination with the same identifier (name{equation.60.1
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -8644,7 +8644,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.141 \end{align}
                  
-<figs/triangle/vector.pdf, id=9713, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=9719, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -9220,7 +9220,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
                    \relax 
 l.43 \end{align}
                 
-<figs/triangle/median.pdf, id=9857, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=9864, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -9290,7 +9290,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [334]
-<figs/triangle/pgm.pdf, id=9873, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=9879, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -9415,7 +9415,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
                    \relax 
 l.31 \end{align}
                 
-<figs/triangle/altitude.pdf, id=9955, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=9961, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -9601,7 +9601,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.25 		\end{align}
                    (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=10031, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=10037, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -9776,7 +9776,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 		\end{align}
                    (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=10104, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=10110, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -11133,10 +11133,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: ACD1FB17E32DB297E274C53980474470;11221.
  ) 
 Here is how much of TeX's memory you used:
- 65455 strings out of 473197
- 1521715 string characters out of 5701897
- 1994599 words of memory out of 5000000
- 81318 multiletter control sequences out of 15000+600000
+ 65467 strings out of 473197
+ 1521914 string characters out of 5701897
+ 1994600 words of memory out of 5000000
+ 81321 multiletter control sequences out of 15000+600000
  643273 words of font info for 213 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1491s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -11159,10 +11159,10 @@ m.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (363 pages, 8258982 bytes).
+Output written on main.pdf (363 pages, 8259883 bytes).
 PDF statistics:
- 11762 PDF objects out of 12825 (max. 8388607)
- 9384 compressed objects within 94 object streams
- 5572 named destinations out of 6186 (max. 500000)
+ 11769 PDF objects out of 12825 (max. 8388607)
+ 9391 compressed objects within 94 object streams
+ 5578 named destinations out of 6186 (max. 500000)
  1458 words of extra memory for PDF output out of 10000 (max. 10000000)
 
