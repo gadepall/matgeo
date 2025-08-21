@@ -2260,6 +2260,14 @@ INPUT GATE/2008/AG/main.tex
 INPUT ./GATE/2008/CS/main.tex
 INPUT ./GATE/2008/CS/main.tex
 INPUT GATE/2008/CS/main.tex
+INPUT ./GATE/2008/EC/main.tex
+INPUT ./GATE/2008/EC/main.tex
+INPUT GATE/2008/EC/main.tex
+INPUT ./GATE/2008/EC/figs/q40.png
+INPUT ./GATE/2008/EC/figs/q40.png
+INPUT ./GATE/2008/EC/figs/q40.png
+INPUT ./GATE/2008/EC/figs/q40.png
+INPUT ./GATE/2008/EC/figs/q40.png
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
