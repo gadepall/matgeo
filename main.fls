@@ -2267,6 +2267,9 @@ INPUT ./GATE/2008/EC/figs/q40.png
 INPUT ./GATE/2008/EE/main.tex
 INPUT ./GATE/2008/EE/main.tex
 INPUT GATE/2008/EE/main.tex
+INPUT ./GATE/2008/GG/main.tex
+INPUT ./GATE/2008/GG/main.tex
+INPUT GATE/2008/GG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
