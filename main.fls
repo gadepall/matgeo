@@ -2315,6 +2315,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
 INPUT ./GATE/2009/EE/main.tex
 INPUT ./GATE/2009/EE/main.tex
 INPUT GATE/2009/EE/main.tex
+INPUT ./GATE/2009/MA/main.tex
+INPUT ./GATE/2009/MA/main.tex
+INPUT GATE/2009/MA/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
