@@ -2270,6 +2270,9 @@ INPUT GATE/2008/EE/main.tex
 INPUT ./GATE/2008/GG/main.tex
 INPUT ./GATE/2008/GG/main.tex
 INPUT GATE/2008/GG/main.tex
+INPUT ./GATE/2008/IN/main.tex
+INPUT ./GATE/2008/IN/main.tex
+INPUT GATE/2008/IN/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
