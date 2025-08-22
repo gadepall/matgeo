@@ -2361,6 +2361,9 @@ INPUT GATE/2011/EE/main.tex
 INPUT ./GATE/2011/GG/main.tex
 INPUT ./GATE/2011/GG/main.tex
 INPUT GATE/2011/GG/main.tex
+INPUT ./GATE/2011/MA/main.tex
+INPUT ./GATE/2011/MA/main.tex
+INPUT GATE/2011/MA/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
