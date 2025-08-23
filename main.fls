@@ -2405,6 +2405,9 @@ INPUT GATE/2012/MT/main.tex
 INPUT ./GATE/2012/MA/main.tex
 INPUT ./GATE/2012/MA/main.tex
 INPUT GATE/2012/MA/main.tex
+INPUT ./GATE/2012/PH/main.tex
+INPUT ./GATE/2012/PH/main.tex
+INPUT GATE/2012/PH/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
