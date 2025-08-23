@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  23 AUG 2025 13:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  23 AUG 2025 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3353,8 +3353,14 @@ LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [364]) (./GATE/2012/AE/main.tex)) [365] (./chapters/triangle/vector.tex [366]
-<figs/triangle/vector.pdf, id=11779, 462.52798pt x 346.89601pt>
+) [364]) (./GATE/2012/AE/main.tex) (./GATE/2012/CE/main.tex
+<GATE/2012/CE/figs/Q29.png, id=11726, 249.93375pt x 129.48375pt>
+File: GATE/2012/CE/figs/Q29.png Graphic file (type png)
+<use GATE/2012/CE/figs/Q29.png>
+Package pdftex.def Info: GATE/2012/CE/figs/Q29.png  used on input line 17.
+(pdftex.def)             Requested size: 109.25969pt x 56.60355pt.
+)) [365 <./GATE/2012/CE/figs/Q29.png>] (./chapters/triangle/vector.tex [366]
+<figs/triangle/vector.pdf, id=11792, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -3387,7 +3393,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [374]) (./solutions/1/2/5/main.tex
-<figs/triangle/median.pdf, id=12017, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=12030, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -3401,7 +3407,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--2
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [375]
-<figs/triangle/pgm.pdf, id=12039, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=12053, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -3427,7 +3433,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--10
  ob-tained from the
  []
 
-<figs/triangle/altitude.pdf, id=12134, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=12147, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -3441,7 +3447,7 @@ rs/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [379]) (./solutions/1
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [380]) (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=12242, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=12255, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -3454,7 +3460,7 @@ ct.tex (./solutions/1/5/11/main.tex
 Underfull \vbox (badness 1648) has occurred while \output is active []
 
 [383]) (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=12340, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=12354, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -3512,13 +3518,13 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 061F37F5ED3D41131F8DE409605CF039;11221.
+(rerunfilecheck)             Checksum: 2B1894BE28F6CEFACF2FA851248DAC2A;11221.
  ) 
 Here is how much of TeX's memory you used:
- 66661 strings out of 474222
- 1500003 string characters out of 5748732
+ 66686 strings out of 474222
+ 1500504 string characters out of 5748732
  1999975 words of memory out of 5000000
- 79042 multiletter control sequences out of 15000+600000
+ 79053 multiletter control sequences out of 15000+600000
  649803 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1475s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3535,10 +3541,10 @@ hare/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive
 1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (404 pages, 8689101 bytes).
+Output written on main.pdf (404 pages, 8698997 bytes).
 PDF statistics:
- 14662 PDF objects out of 15390 (max. 8388607)
- 12206 compressed objects within 123 object streams
- 7847 named destinations out of 8907 (max. 500000)
- 1478 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 14678 PDF objects out of 15390 (max. 8388607)
+ 12220 compressed objects within 123 object streams
+ 7858 named destinations out of 8907 (max. 500000)
+ 1483 words of extra memory for PDF output out of 10000 (max. 10000000)
 
