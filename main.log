@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  23 AUG 2025 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  23 AUG 2025 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3359,8 +3359,9 @@ File: GATE/2012/CE/figs/Q29.png Graphic file (type png)
 <use GATE/2012/CE/figs/Q29.png>
 Package pdftex.def Info: GATE/2012/CE/figs/Q29.png  used on input line 17.
 (pdftex.def)             Requested size: 109.25969pt x 56.60355pt.
-)) [365 <./GATE/2012/CE/figs/Q29.png>] (./chapters/triangle/vector.tex [366]
-<figs/triangle/vector.pdf, id=11792, 462.52798pt x 346.89601pt>
+) (./GATE/2012/EC/main.tex [365 <./GATE/2012/CE/figs/Q29.png>])) [366] (./chapt
+ers/triangle/vector.tex [367]
+<figs/triangle/vector.pdf, id=11802, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -3368,20 +3369,20 @@ Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[367]
+[368]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[368 <./figs/triangle/vector.pdf>]
+[369 <./figs/triangle/vector.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[369]
+[370]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[370]) (./chapters/formulae/line.tex [371]) (./chapters/triangle/median.tex (./
+[371]) (./chapters/formulae/line.tex [372]) (./chapters/triangle/median.tex (./
 solutions/1/2/1/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[372]) (./solutions/1/2/2/main.tex
+[373]) (./solutions/1/2/2/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--3
 
  []
@@ -3389,11 +3390,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--3
 ) (./solutions/1/2/3/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[373]) (./solutions/1/2/4_1/main.tex
+[374]) (./solutions/1/2/4_1/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[374]) (./solutions/1/2/5/main.tex
-<figs/triangle/median.pdf, id=12030, 462.52798pt x 346.89601pt>
+[375]) (./solutions/1/2/5/main.tex
+<figs/triangle/median.pdf, id=12039, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -3406,14 +3407,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--2
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[375]
-<figs/triangle/pgm.pdf, id=12053, 462.52798pt x 346.89601pt>
+[376]
+<figs/triangle/pgm.pdf, id=12062, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )) (./chapters/triangle/altitude.tex (./solutions/1/3/1/main.tex) (./solutions/
-1/3/2/Q1.3.2.tex [376 <./figs/triangle/median.pdf>]) (./solutions/1/3/3/main.te
+1/3/2/Q1.3.2.tex [377 <./figs/triangle/median.pdf>]) (./solutions/1/3/3/main.te
 x
 Underfull \hbox (badness 10000) in paragraph at lines 15--3
 
@@ -3422,7 +3423,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--3
 
 Underfull \vbox (badness 6893) has occurred while \output is active []
 
-[377 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
+[378 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--10
 
  []
@@ -3433,7 +3434,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--10
  ob-tained from the
  []
 
-<figs/triangle/altitude.pdf, id=12147, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=12156, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -3441,13 +3442,13 @@ Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
 )
 Underfull \vbox (badness 1127) has occurred while \output is active []
 
-[378 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex)) (./chapte
-rs/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [379]) (./solutions/1
+[379 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex)) (./chapte
+rs/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [380]) (./solutions/1
 /4/2/main.tex) (./solutions/1/4/3/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[380]) (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=12255, 462.52798pt x 346.89601pt>
+[381]) (./solutions/1/4/5/assignment2.tex
+<figs/triangle/perp-bisect.pdf, id=12264, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -3455,51 +3456,48 @@ Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
 ) (./solutions/1/4/6/Q_1.4.6.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[381 <./figs/triangle/perp-bisect.pdf>]) [382]) (./chapters/triangle/angle-bise
+[382 <./figs/triangle/perp-bisect.pdf>]) [383]) (./chapters/triangle/angle-bise
 ct.tex (./solutions/1/5/11/main.tex
 Underfull \vbox (badness 1648) has occurred while \output is active []
 
-[383]) (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=12354, 462.52798pt x 346.89601pt>
+[384]) (./solutions/1/5/4/main.tex
+<figs/triangle/ang-bisect.pdf, id=12363, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [384 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex
+) [385 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex
 Underfull \vbox (badness 1796) has occurred while \output is active []
 
-[385]) (./chapters/formulae/circle/tangent.tex
+[386]) (./chapters/formulae/circle/tangent.tex
 Underfull \vbox (badness 4582) has occurred while \output is active []
 
-[386]) (./chapters/triangle/matrix.tex
+[387]) (./chapters/triangle/matrix.tex
 Underfull \vbox (badness 1107) has occurred while \output is active []
 
-[387]) [388] (./chapters/formulae/conics/app.tex
+[388]) [389] (./chapters/formulae/conics/app.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[389]
+[390]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[390] (./tables/det.tex)
+[391] (./tables/det.tex)
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
-[391]
+[392]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[392] [393]
+[393] [394]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[394] [395]
+[395] [396]
 Underfull \vbox (badness 2269) has occurred while \output is active []
 
-[396]
+[397]
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
-[397] [398]
+[398] [399]
 Underfull \vbox (badness 1960) has occurred while \output is active []
-
-[399]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [400]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3508,11 +3506,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [402]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[403]
 Underfull \hbox (badness 1845) in paragraph at lines 1372--1378
 []\OT1/txr/m/n/10 From [] we ob-tain []. Con-se-quently, from [],
  []
 
-[403]) [404] (./main.aux)
+[404]) [405] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -3521,10 +3522,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2B1894BE28F6CEFACF2FA851248DAC2A;11221.
  ) 
 Here is how much of TeX's memory you used:
- 66686 strings out of 474222
- 1500504 string characters out of 5748732
+ 66698 strings out of 474222
+ 1500702 string characters out of 5748732
  1999975 words of memory out of 5000000
- 79053 multiletter control sequences out of 15000+600000
+ 79056 multiletter control sequences out of 15000+600000
  649803 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1475s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3541,10 +3542,10 @@ hare/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive
 1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (404 pages, 8698997 bytes).
+Output written on main.pdf (405 pages, 8699642 bytes).
 PDF statistics:
- 14678 PDF objects out of 15390 (max. 8388607)
- 12220 compressed objects within 123 object streams
- 7858 named destinations out of 8907 (max. 500000)
+ 14688 PDF objects out of 15390 (max. 8388607)
+ 12229 compressed objects within 123 object streams
+ 7864 named destinations out of 8907 (max. 500000)
  1483 words of extra memory for PDF output out of 10000 (max. 10000000)
 
