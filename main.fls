@@ -2381,6 +2381,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/tcxr.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/txfonts/tcxr.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/rtcxr.tfm
+INPUT ./GATE/2012/AE/main.tex
+INPUT ./GATE/2012/AE/main.tex
+INPUT GATE/2012/AE/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
