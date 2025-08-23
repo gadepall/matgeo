@@ -2419,6 +2419,9 @@ INPUT ./GATE/2012/PI/figs/39-GATE-PI-2012.png
 INPUT ./GATE/2012/XE/main.tex
 INPUT ./GATE/2012/XE/main.tex
 INPUT GATE/2012/XE/main.tex
+INPUT ./GATE/2013/AG/main.tex
+INPUT ./GATE/2013/AG/main.tex
+INPUT GATE/2013/AG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
