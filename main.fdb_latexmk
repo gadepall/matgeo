@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756025678.01754 0
-  "main.idx" 1756025667.03603 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756026178.53175 0
+  "main.idx" 1756026167.92382 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1756025665.61945 "main.tex" "main.pdf" "main" 1756025678.01772 0
+["pdflatex"] 1756026166.59818 "main.tex" "main.pdf" "main" 1756026178.53192 0
   "/etc/texmf/web2c/texmf.cnf" 1733921903.49767 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -415,6 +415,7 @@
   "GATE/2013/XE/main.tex" 1756024769.73099 970 e7dbb3bd0817a0a78132f4c9de16365b ""
   "GATE/2014/AE/main.tex" 1756025173.28215 986 59556ee88ad5a0bd7d8fcd33d4a166d6 ""
   "GATE/2014/CE/main.tex" 1756025661.60368 918 ddf01b7653cddc5a577a5568041270f5 ""
+  "GATE/2014/EY/main.tex" 1756026164.54861 490 6f7d38d62b4afcbcde3f483e42a668e0 ""
   "GATE/2014/GG/main.tex" 1755698451.37591 2285 c4edcab9efd0daf384a9653056bae163 ""
   "GATE/2014/IN/main.tex" 1755698451.37591 1819 547384b2ea67551d886afa9c92d4419c ""
   "GATE/2014/PH/main.tex" 1755698451.37891 1550 b370b7f37c515b4b22db6f4294398e84 ""
@@ -445,7 +446,7 @@
   "GATE/2024/PE/main.tex" 1756013246.69562 905 9baef322e67f946295bc4b26d1b62d64 ""
   "GATE/2024/PI/main.tex" 1755698451.97796 370 d1af4e4302f1f203d1464500de25ef96 ""
   "GATE/2024/ST/main.tex" 1755698451.97896 4447 1c8677a477da0386a5a7c21ce3bfd755 ""
-  "GATE/matrix.tex" 1756025541.17899 3498 56cc9630dd69b03f4fc3d4a5c35d279e ""
+  "GATE/matrix.tex" 1756026009.31277 3529 f1656784a02d240fe8b37ed896b33a9b ""
   "JEE/alg.tex" 1755698452.04997 2020 ebea0919e111e73ca70fe6c3feee6526 ""
   "JEE/circle.tex" 1755698452.04997 16544 2905db9399851d1e4d0564f85a2b6f8e ""
   "JEE/conic.tex" 1755698452.04997 19415 2ea89618e3d6b23ff3a86767348acf0e ""
@@ -836,11 +837,11 @@
   "figs/triangle/vector.pdf" 1755698452.443 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1755698452.443 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1755698452.443 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1756025677.42469 88262 101971f5fb7ec17950d410bf49727d94 "pdflatex"
+  "main.aux" 1756026177.93045 88262 3ff2207f36785bc69b48a22df9ae62bb "pdflatex"
   "main.ind" 1755779844.47374 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1756025677.43069 11221 1678aa327846849eb72a72942c6fb777 "pdflatex"
+  "main.out" 1756026177.93545 11221 1678aa327846849eb72a72942c6fb777 "pdflatex"
   "main.tex" 1755780155.25409 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1756025677.43069 8307 e6dab8b165a9959aabe91c215b20074f "pdflatex"
+  "main.toc" 1756026177.93645 8307 96b5c0f27a80ee3b9da0a8a6fc5f6c5e "pdflatex"
   "solutions/1/2/1/main.tex" 1755698452.528 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1755698452.528 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1755698452.529 982 f173de01e8a4c9d6e53675687c8d90b7 ""
