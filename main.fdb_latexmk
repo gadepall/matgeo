@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756015280.95961 0
-  "main.idx" 1756015263 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756017237.00016 0
+  "main.idx" 1756017217 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1756015259.47149 "main.tex" "main.pdf" "main" 1756015280.9609 0
+["pdflatex"] 1756017213.25944 "main.tex" "main.pdf" "main" 1756017237.00113 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -412,6 +412,7 @@
   "GATE/2013/ME/main.tex" 1756014927 670 2d2fcb732f397658cd0dfdbc9c604827 ""
   "GATE/2013/MT/main.tex" 1756015223 396 0a7da3ff20ababe2f9444ec8ed7bbfbf ""
   "GATE/2013/PI/main.tex" 1755261653 243 31699f0b6464beb4d2ce5529a39d4a4f ""
+  "GATE/2013/XE/main.tex" 1756015947 970 e7dbb3bd0817a0a78132f4c9de16365b ""
   "GATE/2014/GG/main.tex" 1755318049 2285 c4edcab9efd0daf384a9653056bae163 ""
   "GATE/2014/IN/main.tex" 1754988084 1819 547384b2ea67551d886afa9c92d4419c ""
   "GATE/2014/PH/main.tex" 1755188857 1550 b370b7f37c515b4b22db6f4294398e84 ""
@@ -442,7 +443,7 @@
   "GATE/2024/PE/main.tex" 1756014931 905 9baef322e67f946295bc4b26d1b62d64 ""
   "GATE/2024/PI/main.tex" 1755262748 370 d1af4e4302f1f203d1464500de25ef96 ""
   "GATE/2024/ST/main.tex" 1755264299 4447 1c8677a477da0386a5a7c21ce3bfd755 ""
-  "GATE/matrix.tex" 1756015233 3405 260b85b45409100c5442873cf2c506ab ""
+  "GATE/matrix.tex" 1756015860 3436 dedc7ed4630568095143de3d9703cd16 ""
   "JEE/alg.tex" 1737780529 2020 ebea0919e111e73ca70fe6c3feee6526 ""
   "JEE/circle.tex" 1740754100 16544 2905db9399851d1e4d0564f85a2b6f8e ""
   "JEE/conic.tex" 1739894860 19415 2ea89618e3d6b23ff3a86767348acf0e ""
@@ -493,7 +494,7 @@
   "chapters/10/7/2/1/section.tex" 1721473736 420 7c2b618e2d10d4dcccd924e3592954c8 ""
   "chapters/10/7/2/10/cross.tex" 1721579040 386 1d2670957fa2d418cd9fff0fe299aa34 ""
   "chapters/10/7/2/2/section.tex" 1721540872 524 3cc43a18ed1b8beb1f29b0f779366b44 ""
-  "chapters/10/7/2/4/section.tex" 1721540343 422 0a2ab043c7a95b5c9aa71b5ed76becce ""
+  "chapters/10/7/2/4/section.tex" 1756017210 693 47059906c0a7c4c190f274143b996ee3 ""
   "chapters/10/7/2/7/figs/fig.pdf" 1721994198 10400 4e611a7e218a4735860091bfc28869dc ""
   "chapters/10/7/2/7/section.tex" 1721993832 443 b903657b11c61f31cf0bd4945b9d8f14 ""
   "chapters/10/7/2/8/section.tex" 1721540471 411 7e8cbd7848024c92fefe975e17ed2a26 ""
@@ -778,7 +779,7 @@
   "chapters/formulae/vectors/alg.tex" 1727591775 595 f2f77156544890529a56b2555c1f66e1 ""
   "chapters/formulae/vectors/mat.tex" 1721980285 618 b17678ec5baa1fe18f67d3d12f2664f1 ""
   "chapters/formulae/vectors/product.tex" 1721656051 5136 f169d1af8a7b64f43173f3072bd81b7f ""
-  "chapters/formulae/vectors/two.tex" 1721655998 3133 7ec615c440fc8789df097a92be5ba976 ""
+  "chapters/formulae/vectors/two.tex" 1756016644 3418 f8d582846350f434128c4f221a54f9d4 ""
   "chapters/inter/examples/chord.tex" 1724818160 5323 69be2c832b97a6be2631768498be90eb ""
   "chapters/inter/examples/curves.tex" 1724769291 727 400966ea250d15a7829e11c8cf310c34 ""
   "chapters/linear/angle.tex" 1724680823 1165 b940b0033e8427ab14c6bd124c20b062 ""
@@ -833,11 +834,11 @@
   "figs/triangle/vector.pdf" 1720591585 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1721286762 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1721468402 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1756015279 87027 f3afd8129e561886683012f44536fa89 "pdflatex"
+  "main.aux" 1756017235 87104 e430dbf47e408c821f3d6a60f8c64988 "pdflatex"
   "main.ind" 1755843232 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1756015279 11221 1678aa327846849eb72a72942c6fb777 "pdflatex"
+  "main.out" 1756017235 11221 1678aa327846849eb72a72942c6fb777 "pdflatex"
   "main.tex" 1755779334 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1756015279 8307 46ef05c8fa34a44b04e683a2979cfc40 "pdflatex"
+  "main.toc" 1756017235 8307 e6dab8b165a9959aabe91c215b20074f "pdflatex"
   "solutions/1/2/1/main.tex" 1720594531 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1720594531 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1720594531 982 f173de01e8a4c9d6e53675687c8d90b7 ""
