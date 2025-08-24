@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  24 AUG 2025 10:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  24 AUG 2025 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3276,110 +3276,111 @@ Package pdftex.def Info: GATE/2022/IN/figs/q54.png  used on input line 28.
 (pdftex.def)             Requested size: 254.9356pt x 269.37521pt.
 [320]) (./GATE/2022/PE/main.tex) (./GATE/2008/CE/main.tex [321 <./GATE/2022/IN/
 figs/q54.png>]) (./GATE/2009/MT/main.tex) (./GATE/2009/XE/main.tex) (./GATE/202
-1/ES/main.tex [322]) (./GATE/2025/GE/main.tex
-Overfull \hbox (7.8859pt too wide) in paragraph at lines 41--46
- [][] 
- []
-
-) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex [323]) (./GATE/2021/PE/mai
-n.tex) (./GATE/2009/CE/main.tex) (./GATE/2010/PH/main.tex) (./GATE/2014/PH/main
-.tex [324]) (./GATE/2017/GG/main.tex) (./GATE/2018/PH/main.tex [325]) (./GATE/2
-021/GG/main.tex) (./GATE/2022/PH/main.tex) (./GATE/2022/ST/main.tex [326]) (./G
-ATE/2009/CH/main.tex) (./GATE/2009/IN/main.tex [327]) (./GATE/2013/PI/main.tex)
-(./GATE/2017/PI/main.tex) (./GATE/2024/PI/main.tex [328]) (./GATE/2024/ST/main.
-tex [329]) (./GATE/2025/ES/main.tex) (./GATE/2020/BT/main.tex [330]) (./GATE/20
-20/PI/main.tex
+1/ES/main.tex [322]) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex) (./GAT
+E/2021/PE/main.tex) (./GATE/2009/CE/main.tex [323]) (./GATE/2010/PH/main.tex) (
+./GATE/2014/PH/main.tex [324]) (./GATE/2017/GG/main.tex) (./GATE/2018/PH/main.t
+ex) (./GATE/2021/GG/main.tex [325]) (./GATE/2022/PH/main.tex) (./GATE/2022/ST/m
+ain.tex [326]) (./GATE/2009/CH/main.tex) (./GATE/2009/IN/main.tex [327]) (./GAT
+E/2013/PI/main.tex) (./GATE/2017/PI/main.tex) (./GATE/2024/PI/main.tex) (./GATE
+/2024/ST/main.tex [328] [329]) (./GATE/2020/BT/main.tex) (./GATE/2020/PI/main.t
+ex
 Underfull \hbox (badness 2809) in paragraph at lines 19--23
 []\OT1/txr/m/n/10 The ver-tices of rect-an-gle $\OML/txmi/m/it/10 PQRS$ \OT1/tx
 r/m/n/10 are as fol-lows in a 2-D CAD sys-tem.
  []
 
-) (./GATE/2020/CE/main.tex) (./GATE/2014/GG/main.tex [331]) (./GATE/2016/CE/mai
-n.tex
-<GATE/2016/CE/figs/Q39.png, id=10692, 152.57pt x 152.57pt>
+[330]) (./GATE/2020/CE/main.tex) (./GATE/2014/GG/main.tex [331]) (./GATE/2016/C
+E/main.tex
+<GATE/2016/CE/figs/Q39.png, id=10689, 152.57pt x 152.57pt>
 File: GATE/2016/CE/figs/Q39.png Graphic file (type png)
 <use GATE/2016/CE/figs/Q39.png>
 Package pdftex.def Info: GATE/2016/CE/figs/Q39.png  used on input line 25.
 (pdftex.def)             Requested size: 182.09764pt x 182.1053pt.
-[332]) (./GATE/2025/PE/main.tex
-<GATE/2025/PE/figs/LQ_53.png, id=10722, 418.56375pt x 280.04625pt>
-File: GATE/2025/PE/figs/LQ_53.png Graphic file (type png)
-<use GATE/2025/PE/figs/LQ_53.png>
-Package pdftex.def Info: GATE/2025/PE/figs/LQ_53.png  used on input line 21.
-(pdftex.def)             Requested size: 182.09764pt x 121.83194pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[333 <./GATE/2016/CE/figs/Q39.png>]) (./GATE/2007/AE/main.tex [334 <./GATE/2025
-/PE/figs/LQ_53.png>]) (./GATE/2007/CS/main.tex
+) (./GATE/2007/AE/main.tex [332 <./GATE/2016/CE/figs/Q39.png>]) (./GATE/2007/CS
+/main.tex [333]
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
 ) (./GATE/2007/CY/main.tex) (./GATE/2007/EC/main.tex
-<GATE/2007/EC/figs/Q26.png, id=10771, 252.19218pt x 211.54031pt>
+<GATE/2007/EC/figs/Q26.png, id=10754, 252.19218pt x 211.54031pt>
 File: GATE/2007/EC/figs/Q26.png Graphic file (type png)
 <use GATE/2007/EC/figs/Q26.png>
 Package pdftex.def Info: GATE/2007/EC/figs/Q26.png  used on input line 16.
 (pdftex.def)             Requested size: 254.9356pt x 213.84445pt.
-[335]) (./GATE/2007/EE/main.tex [336 <./GATE/2007/EC/figs/Q26.png>] [337] [338]
-) (./GATE/2007/IN/main.tex) (./GATE/2007/MA/main.tex [339]
+[334 <./GATE/2007/EC/figs/Q26.png>]) (./GATE/2007/EE/main.tex [335] [336]) (./G
+ATE/2007/IN/main.tex) (./GATE/2007/MA/main.tex [337] [338]
 Overfull \hbox (8.15138pt too wide) in paragraph at lines 84--85
 []$[]$ 
  []
 
-[340]) (./GATE/2007/ME/main.tex [341]) (./GATE/2007/MN/main.tex [342]) (./GATE/
-2007/GG/main.tex) (./GATE/2007/MT/main.tex) (./GATE/2007/PH/main.tex) (./GATE/2
-007/PI/main.tex [343]) (./GATE/2007/XE/main.tex [344] [345]) (./GATE/2008/AG/ma
-in.tex) (./GATE/2008/CS/main.tex [346]) (./GATE/2008/EC/main.tex
-<GATE/2008/EC/figs/q40.png, id=11136, 821.0675pt x 397.485pt>
+[339]) (./GATE/2007/ME/main.tex) (./GATE/2007/MN/main.tex [340]) (./GATE/2007/G
+G/main.tex) (./GATE/2007/MT/main.tex) (./GATE/2007/PH/main.tex [341]) (./GATE/2
+007/PI/main.tex [342]) (./GATE/2007/XE/main.tex [343] [344]) (./GATE/2008/AG/ma
+in.tex) (./GATE/2008/CS/main.tex) (./GATE/2008/EC/main.tex [345]
+<GATE/2008/EC/figs/q40.png, id=11124, 821.0675pt x 397.485pt>
 File: GATE/2008/EC/figs/q40.png Graphic file (type png)
 <use GATE/2008/EC/figs/q40.png>
 Package pdftex.def Info: GATE/2008/EC/figs/q40.png  used on input line 51.
 (pdftex.def)             Requested size: 182.09764pt x 88.15051pt.
-[347]) (./GATE/2008/EE/main.tex [348 <./GATE/2008/EC/figs/q40.png>]) (./GATE/20
-08/GG/main.tex [349]) (./GATE/2008/IN/main.tex) (./GATE/2008/MA/main.tex [350] 
-[351]) (./GATE/2008/ME/main.tex [352]) (./GATE/2008/MT/main.tex) (./GATE/2008/P
-H/main.tex [353]) (./GATE/2008/PI/main.tex [354]) (./GATE/2008/XE/main.tex [355
-]) (./GATE/2009/EE/main.tex) (./GATE/2009/MA/main.tex [356]) (./GATE/2009/PH/ma
-in.tex [357]) (./GATE/2010/AG/main.tex) (./GATE/2010/CE/main.tex) (./GATE/2010/
-CH/main.tex) (./GATE/2010/ME/main.tex [358]) (./GATE/2010/MN/main.tex) (./GATE/
-2010/XE/main.tex) (./GATE/2011/AE/main.tex [359]) (./GATE/2011/AG/main.tex) (./
-GATE/2011/BT/main.tex) (./GATE/2011/CS/main.tex [360]) (./GATE/2011/EE/main.tex
-) (./GATE/2011/GG/main.tex) (./GATE/2011/MA/main.tex [361] [362]) (./GATE/2011/
-ME/main.tex) (./GATE/2011/MN/main.tex [363]) (./GATE/2011/PH/main.tex) (./GATE/
-2011/PI/main.tex) (./GATE/2011/XE/main.tex
+) (./GATE/2008/EE/main.tex [346 <./GATE/2008/EC/figs/q40.png>]) (./GATE/2008/GG
+/main.tex [347]) (./GATE/2008/IN/main.tex) (./GATE/2008/MA/main.tex [348] [349]
+) (./GATE/2008/ME/main.tex [350]) (./GATE/2008/MT/main.tex) (./GATE/2008/PH/mai
+n.tex [351]) (./GATE/2008/PI/main.tex [352]) (./GATE/2008/XE/main.tex [353] [35
+4]) (./GATE/2009/EE/main.tex) (./GATE/2009/MA/main.tex [355]) (./GATE/2009/PH/m
+ain.tex) (./GATE/2010/AG/main.tex) (./GATE/2010/CE/main.tex [356]) (./GATE/2010
+/CH/main.tex) (./GATE/2010/ME/main.tex) (./GATE/2010/MN/main.tex) (./GATE/2010/
+XE/main.tex [357]) (./GATE/2011/AE/main.tex) (./GATE/2011/AG/main.tex) (./GATE/
+2011/BT/main.tex) (./GATE/2011/CS/main.tex [358]) (./GATE/2011/EE/main.tex) (./
+GATE/2011/GG/main.tex) (./GATE/2011/MA/main.tex [359] [360]) (./GATE/2011/ME/ma
+in.tex [361]) (./GATE/2011/MN/main.tex) (./GATE/2011/PH/main.tex) (./GATE/2011/
+PI/main.tex [362]) (./GATE/2011/XE/main.tex
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [364]) (./GATE/2012/AE/main.tex) (./GATE/2012/CE/main.tex
-<GATE/2012/CE/figs/Q29.png, id=11726, 249.93375pt x 129.48375pt>
+)) (./GATE/2012/AE/main.tex) (./GATE/2012/CE/main.tex [363]
+<GATE/2012/CE/figs/Q29.png, id=11719, 249.93375pt x 129.48375pt>
 File: GATE/2012/CE/figs/Q29.png Graphic file (type png)
 <use GATE/2012/CE/figs/Q29.png>
 Package pdftex.def Info: GATE/2012/CE/figs/Q29.png  used on input line 17.
 (pdftex.def)             Requested size: 109.25969pt x 56.60355pt.
-) (./GATE/2012/EC/main.tex [365 <./GATE/2012/CE/figs/Q29.png>]) (./GATE/2012/MT
-/main.tex) (./GATE/2012/MA/main.tex [366] [367]) (./GATE/2012/PH/main.tex) (./G
-ATE/2012/PI/main.tex [368]
-<GATE/2012/PI/figs/39-GATE-PI-2012.png, id=11860, 345.54094pt x 201.00093pt>
+) (./GATE/2012/EC/main.tex) (./GATE/2012/MT/main.tex) (./GATE/2012/MA/main.tex 
+[364 <./GATE/2012/CE/figs/Q29.png>] [365] [366]) (./GATE/2012/PH/main.tex) (./G
+ATE/2012/PI/main.tex
+<GATE/2012/PI/figs/39-GATE-PI-2012.png, id=11816, 345.54094pt x 201.00093pt>
 File: GATE/2012/PI/figs/39-GATE-PI-2012.png Graphic file (type png)
 <use GATE/2012/PI/figs/39-GATE-PI-2012.png>
 Package pdftex.def Info: GATE/2012/PI/figs/39-GATE-PI-2012.png  used on input l
 ine 50.
 (pdftex.def)             Requested size: 127.47057pt x 74.14835pt.
-) (./GATE/2012/XE/main.tex [369 <./GATE/2012/PI/figs/39-GATE-PI-2012.png>]) (./
-GATE/2013/AG/main.tex) (./GATE/2013/BT/main.tex [370]) (./GATE/2013/CE/main.tex
-) (./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex
-<GATE/2013/EC/figs/fig_23.png, id=11930, 527.9725pt x 128.48pt>
+[367]) (./GATE/2012/XE/main.tex) (./GATE/2013/AG/main.tex [368 <./GATE/2012/PI/
+figs/39-GATE-PI-2012.png>]) (./GATE/2013/BT/main.tex) (./GATE/2013/CE/main.tex)
+(./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex [369]
+<GATE/2013/EC/figs/fig_23.png, id=11923, 527.9725pt x 128.48pt>
 File: GATE/2013/EC/figs/fig_23.png Graphic file (type png)
 <use GATE/2013/EC/figs/fig_23.png>
 Package pdftex.def Info: GATE/2013/EC/figs/fig_23.png  used on input line 53.
 (pdftex.def)             Requested size: 182.09764pt x 44.31192pt.
-[371]) (./GATE/2013/IN/main.tex) (./GATE/2013/MA/main.tex [372 <./GATE/2013/EC/
-figs/fig_23.png>] [373]) (./GATE/2010/PI/main.tex)) [374] (./chapters/triangle/
-vector.tex [375]
-<figs/triangle/vector.pdf, id=12069, 462.52798pt x 346.89601pt>
+) (./GATE/2013/IN/main.tex [370 <./GATE/2013/EC/figs/fig_23.png>]) (./GATE/2013
+/MA/main.tex [371]) (./GATE/2010/PI/main.tex) (./GATE/2024/ES/main.tex [372]) (
+./GATE/2024/PE/main.tex
+<GATE/2024/PE/figs/LQ_53.png, id=12007, 418.56375pt x 280.04625pt>
+File: GATE/2024/PE/figs/LQ_53.png Graphic file (type png)
+<use GATE/2024/PE/figs/LQ_53.png>
+Package pdftex.def Info: GATE/2024/PE/figs/LQ_53.png  used on input line 21.
+(pdftex.def)             Requested size: 182.09764pt x 121.83194pt.
+) (./GATE/2024/GE/main.tex
+Overfull \hbox (7.8859pt too wide) in paragraph at lines 41--46
+ [][] 
+ []
+
+) (./GATE/2013/ME/main.tex
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+[373 <./GATE/2024/PE/figs/LQ_53.png>])) [374] (./chapters/triangle/vector.tex [
+375]
+<figs/triangle/vector.pdf, id=12079, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -3412,7 +3413,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [383]) (./solutions/1/2/5/main.tex
-<figs/triangle/median.pdf, id=12306, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=12316, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -3426,7 +3427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--2
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [384]
-<figs/triangle/pgm.pdf, id=12328, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=12338, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -3452,7 +3453,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--10
  ob-tained from the
  []
 
-<figs/triangle/altitude.pdf, id=12424, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=12434, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -3466,7 +3467,7 @@ rs/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [388]) (./solutions/1
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [389]) (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=12530, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=12541, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -3479,7 +3480,7 @@ ct.tex (./solutions/1/5/11/main.tex
 Underfull \vbox (badness 1648) has occurred while \output is active []
 
 [392]) (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=12630, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=12640, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -3540,13 +3541,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 1678AA327846849EB72A72942C6FB777;11221.
  ) 
 Here is how much of TeX's memory you used:
- 67026 strings out of 474222
- 1505279 string characters out of 5748732
+ 67042 strings out of 474222
+ 1505514 string characters out of 5748732
  1999975 words of memory out of 5000000
- 79111 multiletter control sequences out of 15000+600000
+ 79114 multiletter control sequences out of 15000+600000
  649803 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,27n,109p,1194b,1475s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,27n,109p,1194b,1484s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/txfonts/rtxbmi.pfb></usr/share/texlive/texmf-dist/
@@ -3560,10 +3561,10 @@ hare/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive
 1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (413 pages, 8747072 bytes).
+Output written on main.pdf (413 pages, 8747928 bytes).
 PDF statistics:
- 15001 PDF objects out of 15390 (max. 8388607)
- 12527 compressed objects within 126 object streams
- 8098 named destinations out of 8907 (max. 500000)
+ 15014 PDF objects out of 15390 (max. 8388607)
+ 12540 compressed objects within 126 object streams
+ 8108 named destinations out of 8907 (max. 500000)
  1493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
