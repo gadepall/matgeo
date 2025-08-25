@@ -2484,6 +2484,9 @@ INPUT ./GATE/2008/CH/main.tex
 INPUT ./GATE/2008/CH/main.tex
 INPUT GATE/2008/CH/main.tex
 INPUT GATE/2009/CH/main.tex
+INPUT ./GATE/2009/AG/main.tex
+INPUT ./GATE/2009/AG/main.tex
+INPUT GATE/2009/AG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
