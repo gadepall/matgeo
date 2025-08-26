@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  26 AUG 2025 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  26 AUG 2025 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3390,8 +3390,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
-)) [382] (./chapters/triangle/vector.tex [383]
-<figs/triangle/vector.pdf, id=12357, 462.52798pt x 346.89601pt>
+) (./GATE/2012/CS/main.tex)) [382] (./chapters/triangle/vector.tex [383]
+<figs/triangle/vector.pdf, id=12362, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -3424,7 +3424,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [391]) (./solutions/1/2/5/main.tex
-<figs/triangle/median.pdf, id=12595, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=12600, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -3438,7 +3438,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--2
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [392]
-<figs/triangle/pgm.pdf, id=12617, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=12622, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -3464,7 +3464,7 @@ Underfull \hbox (badness 1371) in paragraph at lines 17--10
  ob-tained from the
  []
 
-<figs/triangle/altitude.pdf, id=12711, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=12716, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -3478,7 +3478,7 @@ rs/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [396]) (./solutions/1
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [397]) (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=12819, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=12824, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -3491,7 +3491,7 @@ ct.tex (./solutions/1/5/11/main.tex
 Underfull \vbox (badness 1648) has occurred while \output is active []
 
 [400]) (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=12918, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=12923, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -3552,10 +3552,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 1678AA327846849EB72A72942C6FB777;11221.
  ) 
 Here is how much of TeX's memory you used:
- 67409 strings out of 474222
- 1510624 string characters out of 5748732
+ 67420 strings out of 474222
+ 1510814 string characters out of 5748732
  1999975 words of memory out of 5000000
- 79174 multiletter control sequences out of 15000+600000
+ 79177 multiletter control sequences out of 15000+600000
  649803 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1491s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3572,10 +3572,10 @@ hare/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive
 1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (421 pages, 8778402 bytes).
+Output written on main.pdf (421 pages, 8778815 bytes).
 PDF statistics:
- 15342 PDF objects out of 15390 (max. 8388607)
- 12857 compressed objects within 129 object streams
- 8356 named destinations out of 8907 (max. 500000)
+ 15348 PDF objects out of 15390 (max. 8388607)
+ 12863 compressed objects within 129 object streams
+ 8361 named destinations out of 8907 (max. 500000)
  1493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
