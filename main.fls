@@ -2548,6 +2548,9 @@ INPUT ./GATE/2014/MN/figs/diagram.png
 INPUT ./GATE/2015/AE/main.tex
 INPUT ./GATE/2015/AE/main.tex
 INPUT GATE/2015/AE/main.tex
+INPUT ./GATE/2015/AG/main.tex
+INPUT ./GATE/2015/AG/main.tex
+INPUT GATE/2015/AG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
