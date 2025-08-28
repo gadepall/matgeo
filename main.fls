@@ -2533,6 +2533,14 @@ INPUT GATE/2013/BT/main.tex
 INPUT ./GATE/2014/AG/main.tex
 INPUT ./GATE/2014/AG/main.tex
 INPUT GATE/2014/AG/main.tex
+INPUT ./GATE/2014/MN/main.tex
+INPUT ./GATE/2014/MN/main.tex
+INPUT GATE/2014/MN/main.tex
+INPUT ./GATE/2014/MN/figs/diagram.png
+INPUT ./GATE/2014/MN/figs/diagram.png
+INPUT ./GATE/2014/MN/figs/diagram.png
+INPUT ./GATE/2014/MN/figs/diagram.png
+INPUT ./GATE/2014/MN/figs/diagram.png
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
