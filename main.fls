@@ -2529,6 +2529,10 @@ INPUT GATE/2013/EE/main.tex
 INPUT ./GATE/2013/PH/main.tex
 INPUT ./GATE/2013/PH/main.tex
 INPUT GATE/2013/PH/main.tex
+INPUT GATE/2013/BT/main.tex
+INPUT ./GATE/2014/AG/main.tex
+INPUT ./GATE/2014/AG/main.tex
+INPUT GATE/2014/AG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
