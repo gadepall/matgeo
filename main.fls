@@ -2598,6 +2598,9 @@ INPUT GATE/2016/EC/main.tex
 INPUT ./GATE/2016/EE/main.tex
 INPUT ./GATE/2016/EE/main.tex
 INPUT GATE/2016/EE/main.tex
+INPUT ./GATE/2016/GG/main.tex
+INPUT ./GATE/2016/GG/main.tex
+INPUT GATE/2016/GG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
