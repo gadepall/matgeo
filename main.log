@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  29 AUG 2025 22:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.11)  29 AUG 2025 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1497,7 +1497,7 @@ Package hyperref Info: Link coloring OFF on input line 20.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count396
-<figs/logo.jpg, id=404, 2537.48pt x 2047.65pt>
+<figs/logo.jpg, id=465, 2537.48pt x 2047.65pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 47.
@@ -1506,45 +1506,45 @@ Package pdftex.def Info: figs/logo.jpg  used on input line 47.
 dist/fonts/enc/dvips/base/8r.enc}
 
 
- <./figs/logo.jpg>] [2] (./main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
-[3] (./chapters/formulae/vectors/two.tex
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+ <./figs/logo.jpg>] [2] (./main.toc
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 4
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 2
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 4
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 2
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 4
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 2
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 4
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-)
+) [3] [4])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+[5] (./chapters/formulae/vectors/two.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[4
+[6
 
 ]) (./chapters/vectors/direction.tex (./chapters/12/10/2/4/vector.tex
 Underfull \vbox (badness 6708) has occurred while \output is active []
 
-[5]) (./chapters/11/10/1/5/matrix.tex
-<chapters/11/10/1/5/figs/fig.pdf, id=488, 462.52798pt x 346.89601pt>
+[7]) (./chapters/11/10/1/5/matrix.tex
+<chapters/11/10/1/5/figs/fig.pdf, id=667, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/5/figs/fig.pdf  used on input line 18
@@ -1553,11 +1553,11 @@ Package pdftex.def Info: chapters/11/10/1/5/figs/fig.pdf  used on input line 18
 ) (./chapters/11/10/1/10/matrix.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[6 <./chapters/11/10/1/5/figs/fig.pdf>]) (./chapters/11/10/1/12/matrix.tex) (./
+[8 <./chapters/11/10/1/5/figs/fig.pdf>]) (./chapters/11/10/1/12/matrix.tex) (./
 chapters/12/11/2/3/vec2.tex)
 Underfull \vbox (badness 1418) has occurred while \output is active []
 
-[7]
+[9]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 73.
 
@@ -1595,33 +1595,33 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 79.
 LaTeX Warning: Command \textendash invalid in math mode on input line 79.
 
 (./chapters/11/10/1/9/vector.tex
-<chapters/11/10/1/9/figs/fig.pdf, id=564, 462.52798pt x 346.89601pt>
+<chapters/11/10/1/9/figs/fig.pdf, id=741, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/9/figs/fig.pdf  used on input line 11
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) (./chapters/12/10/5/3/vec.tex [8 <./chapters/11/10/1/9/figs/fig.pdf>]
-<chapters/12/10/5/3/figs/fig.pdf, id=611, 462.52798pt x 346.89601pt>
+) (./chapters/12/10/5/3/vec.tex [10 <./chapters/11/10/1/9/figs/fig.pdf>]
+<chapters/12/10/5/3/figs/fig.pdf, id=788, 462.52798pt x 346.89601pt>
 File: chapters/12/10/5/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/10/5/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/10/5/3/figs/fig.pdf  used on input line 22
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [9 <./chapters/12/10/5/3/figs/fig.pdf>]) (./cbse/vectors/direction.tex) (./ch
-apters/vectors/section.tex (./chapters/10/7/2/1/section.tex
-<chapters/10/7/2/1/figs/fig.pdf, id=656, 462.52798pt x 346.89601pt>
+) [11 <./chapters/12/10/5/3/figs/fig.pdf>]) (./cbse/vectors/direction.tex) (./c
+hapters/vectors/section.tex (./chapters/10/7/2/1/section.tex
+<chapters/10/7/2/1/figs/fig.pdf, id=833, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/1/figs/fig.pdf  used on input line 21.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-[10]) (./chapters/10/7/2/4/section.tex) (./chapters/12/10/2/16/section.tex
+[12]) (./chapters/10/7/2/4/section.tex) (./chapters/12/10/2/16/section.tex
 Underfull \vbox (badness 5203) has occurred while \output is active []
 
-[11 <./chapters/10/7/2/1/figs/fig.pdf>]) (./chapters/10/7/2/8/section.tex) (./c
+[13 <./chapters/10/7/2/1/figs/fig.pdf>]) (./chapters/10/7/2/8/section.tex) (./c
 hapters/10/7/2/2/section.tex) (./chapters/10/7/2/9/section.tex
-<chapters/10/7/2/9/figs/fig.pdf, id=728, 462.52798pt x 346.89601pt>
+<chapters/10/7/2/9/figs/fig.pdf, id=906, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/9/figs/fig.pdf  used on input line 10.
@@ -1630,28 +1630,28 @@ Package pdftex.def Info: chapters/10/7/2/9/figs/fig.pdf  used on input line 10.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[12])
+[14])
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 42.
 
-[13 <./chapters/10/7/2/9/figs/fig.pdf>] (./chapters/10/7/4/7/section.tex
-<chapters/10/7/4/7/figs/fig.pdf, id=794, 462.52798pt x 346.89601pt>
+[15 <./chapters/10/7/2/9/figs/fig.pdf>] (./chapters/10/7/4/7/section.tex
+<chapters/10/7/4/7/figs/fig.pdf, id=971, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/7/figs/fig.pdf  used on input line 19.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [14 <./chapters/10/7/4/7/figs/fig.pdf>]) (./cbse/vectors/section.tex [15]
+) [16 <./chapters/10/7/4/7/figs/fig.pdf>]) (./cbse/vectors/section.tex [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[16]) (./chapters/vectors/rank.tex (./chapters/11/10/2/20/line.tex
-<chapters/11/10/2/20/figs/fig.pdf, id=884, 462.52798pt x 346.89601pt>
+[18]) (./chapters/vectors/rank.tex (./chapters/11/10/2/20/line.tex
+<chapters/11/10/2/20/figs/fig.pdf, id=1061, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/20/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/20/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/20/figs/fig.pdf  used on input line 1
 7.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [17 <./chapters/11/10/2/20/figs/fig.pdf>]
+) [19 <./chapters/11/10/2/20/figs/fig.pdf>]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 26.
 
@@ -1661,18 +1661,18 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 27.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 27.
 
-) (./cbse/vectors/rank.tex [18]
+) (./cbse/vectors/rank.tex [20]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 24.
 
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 24.
 
-) (./chapters/vectors/length.tex (./chapters/12/10/2/1/norm.tex [19]) (./chapte
+) (./chapters/vectors/length.tex (./chapters/12/10/2/1/norm.tex [21]) (./chapte
 rs/10/7/1/1/vectors.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[20]) (./chapters/10/7/1/2/vector.tex)
+[22]) (./chapters/10/7/1/2/vector.tex)
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 34.
 
@@ -1690,8 +1690,8 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 36.
 \gnumericColB=\skip86
 \gnumericColC=\skip87
 \gnumericColD=\skip88
-) [21]
-<chapters/10/7/1/7/figs/fig.pdf, id=1045, 462.52798pt x 346.89601pt>
+) [23]
+<chapters/10/7/1/7/figs/fig.pdf, id=1222, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/1/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/1/7/figs/fig.pdf  used on input line 41.
@@ -1701,13 +1701,13 @@ Package pdftex.def Info: chapters/10/7/1/7/figs/fig.pdf  used on input line 41.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 53.
 
-[22 <./chapters/10/7/1/7/figs/fig.pdf>]) (./cbse/vectors/length.tex [23]) (./ch
+[24 <./chapters/10/7/1/7/figs/fig.pdf>]) (./cbse/vectors/length.tex [25]) (./ch
 apters/vectors/unit.tex (./chapters/12/10/2/9/norm.tex) (./chapters/12/10/5/5/n
-orm.tex [24]) (./chapters/12/10/2/10/norm.tex) (./chapters/12/10/5/6/asgnt2.tex
+orm.tex [26]) (./chapters/12/10/2/10/norm.tex) (./chapters/12/10/5/6/asgnt2.tex
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[25]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
@@ -1716,11 +1716,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 0/2/13/norm.tex) (./chapters/12/10/2/14/inner.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[26] (./chapters/12/11/1/3/norm.tex) (./chapters/12/11/1/5/inner.tex) (./chapte
+[28] (./chapters/12/11/1/3/norm.tex) (./chapters/12/11/1/5/inner.tex) (./chapte
 rs/12/10/2/12/inner.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[27] (./chapters/12/11/1/2/norm.tex) (./chapters/12/10/4/3/norm.tex
+[29] (./chapters/12/11/1/2/norm.tex) (./chapters/12/10/4/3/norm.tex
 Underfull \hbox (badness 3780) in paragraph at lines 80--2
 []\OT1/txr/m/n/10 If a unit vec-tor $[]$ makes an-gles $[][][]\OML/txmi/m/it/10
  ; [][][]$ \OT1/txr/m/n/10 and an acute an-gle
@@ -1734,34 +1734,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--85
 ) (./cbse/vectors/unit.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[28]) [29] (./chapters/formulae/vectors/product.tex
+[30]) [31] (./chapters/formulae/vectors/product.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[30]
+[32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[31]) (./chapters/vectors/scalar.tex (./chapters/12/10/3/1/inner.tex) (./chapte
-rs/12/10/3/2/inner.tex) (./chapters/12/10/3/7/inner.tex [32]) (./chapters/12/10
+[33]) (./chapters/vectors/scalar.tex (./chapters/12/10/3/1/inner.tex) (./chapte
+rs/12/10/3/2/inner.tex) (./chapters/12/10/3/7/inner.tex [34]) (./chapters/12/10
 /3/15/inner.tex) (./chapters/11/10/1/11/matrix.tex) (./chapters/11/10/3/9/line.
 tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[33])
+[35])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[34]
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[35]) (./cbse/vectors/scalar.tex [36]) (./chapters/vectors/ortho.tex (./chapter
+[37]) (./cbse/vectors/scalar.tex [38]) (./chapters/vectors/ortho.tex (./chapter
 s/12/10/3/4/inner.tex
 Underfull \vbox (badness 3735) has occurred while \output is active []
 
-[37]) (./chapters/12/10/2/17/inner.tex) (./chapters/12/10/3/5/inner.tex) (./cha
+[39]) (./chapters/12/10/2/17/inner.tex) (./chapters/12/10/3/5/inner.tex) (./cha
 pters/12/10/5/12/equation.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[38]) (./chapters/12/10/3/17/inner.tex) (./chapters/12/10/3/3/inner.tex
-<chapters/12/10/3/3/figs/fig.pdf, id=1472, 462.52798pt x 346.89601pt>
+[40]) (./chapters/12/10/3/17/inner.tex) (./chapters/12/10/3/3/inner.tex
+<chapters/12/10/3/3/figs/fig.pdf, id=1649, 462.52798pt x 346.89601pt>
 File: chapters/12/10/3/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/10/3/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/10/3/3/figs/fig.pdf  used on input line 15
@@ -1770,7 +1770,7 @@ Package pdftex.def Info: chapters/12/10/3/3/figs/fig.pdf  used on input line 15
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[39]
+[41]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 34.
 
@@ -1791,7 +1791,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 38.
 LaTeX Warning: Command \textendash invalid in math mode on input line 38.
 
 (./chapters/10/7/4/8/inner.tex
-<chapters/10/7/4/8/figs/fig.pdf, id=1493, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/8/figs/fig.pdf, id=1670, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/8/figs/fig.pdf  used on input line 30.
@@ -1800,26 +1800,26 @@ Package pdftex.def Info: chapters/10/7/4/8/figs/fig.pdf  used on input line 30.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[40 <./chapters/12/10/3/3/figs/fig.pdf>]) (./chapters/12/10/4/2/inner.tex
+[42 <./chapters/12/10/3/3/figs/fig.pdf>]) (./chapters/12/10/4/2/inner.tex
 Underfull \vbox (badness 7595) has occurred while \output is active []
 
-[41 <./chapters/10/7/4/8/figs/fig.pdf>]) (./chapters/10/7/1/6/inner.tex
+[43 <./chapters/10/7/4/8/figs/fig.pdf>]) (./chapters/10/7/1/6/inner.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[42]
-<chapters/10/7/1/6/figs/fig1.pdf, id=1600, 462.52798pt x 346.89601pt>
+[44]
+<chapters/10/7/1/6/figs/fig1.pdf, id=1778, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/6/figs/fig1.pdf Graphic file (type pdf)
 <use chapters/10/7/1/6/figs/fig1.pdf>
 Package pdftex.def Info: chapters/10/7/1/6/figs/fig1.pdf  used on input line 14
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/1/6/figs/fig2.pdf, id=1601, 462.52798pt x 346.89601pt>
+<chapters/10/7/1/6/figs/fig2.pdf, id=1779, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/6/figs/fig2.pdf Graphic file (type pdf)
 <use chapters/10/7/1/6/figs/fig2.pdf>
 Package pdftex.def Info: chapters/10/7/1/6/figs/fig2.pdf  used on input line 22
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/1/6/figs/fig3.pdf, id=1602, 462.52798pt x 346.89601pt>
+<chapters/10/7/1/6/figs/fig3.pdf, id=1780, 462.52798pt x 346.89601pt>
 File: chapters/10/7/1/6/figs/fig3.pdf Graphic file (type pdf)
 <use chapters/10/7/1/6/figs/fig3.pdf>
 Package pdftex.def Info: chapters/10/7/1/6/figs/fig3.pdf  used on input line 30
@@ -1828,10 +1828,10 @@ Package pdftex.def Info: chapters/10/7/1/6/figs/fig3.pdf  used on input line 30
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[43 <./chapters/10/7/1/6/figs/fig1.pdf>])
+[45 <./chapters/10/7/1/6/figs/fig1.pdf>])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[44 <./chapters/10/7/1/6/figs/fig2.pdf> <./chapters/10/7/1/6/figs/fig3.pdf>] (.
+[46 <./chapters/10/7/1/6/figs/fig2.pdf> <./chapters/10/7/1/6/figs/fig3.pdf>] (.
 /chapters/12/10/3/10/inner.tex)
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 81.
@@ -1848,8 +1848,8 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 88.
 (./chapters/11/10/1/6/matrix.tex
 Underfull \vbox (badness 7649) has occurred while \output is active []
 
-[45]
-<chapters/11/10/1/6/figs/fig.pdf, id=1707, 462.52798pt x 346.89601pt>
+[47]
+<chapters/11/10/1/6/figs/fig.pdf, id=1885, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/6/figs/fig.pdf  used on input line 17
@@ -1895,18 +1895,18 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 112.
 (./chapters/12/11/3/13/inner.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[46 <./chapters/11/10/1/6/figs/fig.pdf>])) (./cbse/vectors/ortho.tex [47]
+[48 <./chapters/11/10/1/6/figs/fig.pdf>])) (./cbse/vectors/ortho.tex [49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[48]) (./chapters/vectors/cross.tex (./chapters/12/10/4/1/cross.tex) (./chapter
+[50]) (./chapters/vectors/cross.tex (./chapters/12/10/4/1/cross.tex) (./chapter
 s/12/10/4/5/cross.tex) (./chapters/12/10/4/9/cross.tex
 Underfull \vbox (badness 1286) has occurred while \output is active []
 
-[49]) (./chapters/12/10/4/10/cross.tex) (./chapters/10/7/2/10/cross.tex) (./cha
+[51]) (./chapters/12/10/4/10/cross.tex) (./chapters/10/7/2/10/cross.tex) (./cha
 pters/12/10/4/11/cross.tex) (./chapters/12/10/4/12/cross.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[50]
+[52]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 33.
 
@@ -1927,13 +1927,13 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 34.
 LaTeX Warning: Command \textendash invalid in math mode on input line 45.
 
 (./chapters/10/7/3/3/cross.tex
-<chapters/10/7/3/3/figs/fig.pdf, id=1841, 462.52798pt x 346.89601pt>
+<chapters/10/7/3/3/figs/fig.pdf, id=2019, 462.52798pt x 346.89601pt>
 File: chapters/10/7/3/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/3/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/3/3/figs/fig.pdf  used on input line 44.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [51]
+) [53]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 50.
 
@@ -1950,7 +1950,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 50.
 LaTeX Warning: Command \textendash invalid in math mode on input line 50.
 
 (./chapters/10/7/3/4/cross.tex
-<chapters/10/7/3/4/figs/fig.pdf, id=1868, 462.52798pt x 346.89601pt>
+<chapters/10/7/3/4/figs/fig.pdf, id=2045, 462.52798pt x 346.89601pt>
 File: chapters/10/7/3/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/3/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/3/4/figs/fig.pdf  used on input line 5.
@@ -1964,22 +1964,22 @@ n or-der, are
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[52 <./chapters/10/7/3/3/figs/fig.pdf> <./chapters/10/7/3/4/figs/fig.pdf>])
+[54 <./chapters/10/7/3/3/figs/fig.pdf> <./chapters/10/7/3/4/figs/fig.pdf>])
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 57.
 
 (./chapters/12/10/5/10/cross.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[53] (./chapters/10/7/3/5/area.tex
-<chapters/10/7/3/5/figs/fig.pdf, id=1936, 462.52798pt x 346.89601pt>
+[55] (./chapters/10/7/3/5/area.tex
+<chapters/10/7/3/5/figs/fig.pdf, id=2114, 462.52798pt x 346.89601pt>
 File: chapters/10/7/3/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/3/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/3/5/figs/fig.pdf  used on input line 27.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/10/7/4/6/section.tex
-<chapters/10/7/4/6/figs/fig.pdf, id=1938, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/6/figs/fig.pdf, id=2116, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/6/figs/fig.pdf  used on input line 5.
@@ -1987,11 +1987,11 @@ Package pdftex.def Info: chapters/10/7/4/6/figs/fig.pdf  used on input line 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[54 <./chapters/10/7/3/5/figs/fig.pdf>])
+[56 <./chapters/10/7/3/5/figs/fig.pdf>])
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
-[55 <./chapters/10/7/4/6/figs/fig.pdf>] (./chapters/11/10/1/1/cross.tex
-<chapters/11/10/1/1/figs/fig.pdf, id=2010, 462.52798pt x 346.89601pt>
+[57 <./chapters/10/7/4/6/figs/fig.pdf>] (./chapters/11/10/1/1/cross.tex
+<chapters/11/10/1/1/figs/fig.pdf, id=2188, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/1/figs/fig.pdf  used on input line 11
@@ -2000,27 +2000,27 @@ Package pdftex.def Info: chapters/11/10/1/1/figs/fig.pdf  used on input line 11
 )) (./cbse/vectors/cross.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[56 <./chapters/11/10/1/1/figs/fig.pdf>]
+[58 <./chapters/11/10/1/1/figs/fig.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[57]) (./chapters/vectors/misc.tex
+[59]) (./chapters/vectors/misc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[58] (./chapters/12/10/3/9/norm.tex) (./chapters/12/10/5/17/solution.tex)
+[60] (./chapters/12/10/3/9/norm.tex) (./chapters/12/10/5/17/solution.tex)
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 27.
 
 (./chapters/10/7/4/4/affine.tex
 Underfull \vbox (badness 6428) has occurred while \output is active []
 
-[59]
-<chapters/10/7/4/4/figs/fig.pdf, id=2128, 462.52798pt x 346.89601pt>
+[61]
+<chapters/10/7/4/4/figs/fig.pdf, id=2307, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/4/figs/fig.pdf  used on input line 51.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/7/4/4/figs/fig1.pdf, id=2129, 462.52798pt x 346.89601pt>
+<chapters/10/7/4/4/figs/fig1.pdf, id=2308, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/4/figs/fig1.pdf Graphic file (type pdf)
 <use chapters/10/7/4/4/figs/fig1.pdf>
 Package pdftex.def Info: chapters/10/7/4/4/figs/fig1.pdf  used on input line 58
@@ -2029,8 +2029,8 @@ Package pdftex.def Info: chapters/10/7/4/4/figs/fig1.pdf  used on input line 58
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[60]
-<chapters/10/7/4/4/figs/fig2.pdf, id=2147, 462.52798pt x 346.89601pt>
+[62]
+<chapters/10/7/4/4/figs/fig2.pdf, id=2325, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/4/figs/fig2.pdf Graphic file (type pdf)
 <use chapters/10/7/4/4/figs/fig2.pdf>
 Package pdftex.def Info: chapters/10/7/4/4/figs/fig2.pdf  used on input line 65
@@ -2039,12 +2039,12 @@ Package pdftex.def Info: chapters/10/7/4/4/figs/fig2.pdf  used on input line 65
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[61 <./chapters/10/7/4/4/figs/fig.pdf> <./chapters/10/7/4/4/figs/fig1.pdf>] (./
+[63 <./chapters/10/7/4/4/figs/fig.pdf> <./chapters/10/7/4/4/figs/fig1.pdf>] (./
 chapters/12/10/3/6/norm.tex)
 Underfull \vbox (badness 1424) has occurred while \output is active []
 
-[62 <./chapters/10/7/4/4/figs/fig2.pdf>] (./chapters/11/10/1/2/matrix.tex
-<chapters/11/10/1/2/figs/fig.pdf, id=2236, 462.52798pt x 346.89601pt>
+[64 <./chapters/10/7/4/4/figs/fig2.pdf>] (./chapters/11/10/1/2/matrix.tex
+<chapters/11/10/1/2/figs/fig.pdf, id=2413, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/2/figs/fig.pdf  used on input line 3.
@@ -2053,46 +2053,46 @@ Package pdftex.def Info: chapters/11/10/1/2/figs/fig.pdf  used on input line 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[63 <./chapters/11/10/1/2/figs/fig.pdf>]) (./chapters/12/10/3/8/inner.tex) (./c
+[65 <./chapters/11/10/1/2/figs/fig.pdf>]) (./chapters/12/10/3/8/inner.tex) (./c
 hapters/12/10/3/11/inner.tex) (./chapters/12/10/3/13/norm.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[64]) (./chapters/12/10/3/14/inner.tex) (./chapters/12/10/5/15/inner.tex) (./ch
+[66]) (./chapters/12/10/3/14/inner.tex) (./chapters/12/10/5/15/inner.tex) (./ch
 apters/12/11/4/2/inner.tex) (./chapters/12/11/4/3/vec4.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65]) (./cbse/vectors/misc.tex [66]
+[67]) (./cbse/vectors/misc.tex [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[67]) (./JEE/vector.tex [68]
+[69]) (./JEE/vector.tex [70]
 Underfull \hbox (badness 10000) in paragraph at lines 37--39
 []\OT1/txr/m/n/10 A unit vec-tor per-pen-dic-u-lar to the plane de-ter-mined by
  the points
  []
 
-[69]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
-[70] [71] [72]
+[72] [73] [74]
 Underfull \hbox (badness 4505) in paragraph at lines 333--336
 []\OT1/txr/m/n/10 If $\OT1/txr/bx/n/10 a\OML/txmi/m/it/10 ; \OT1/txr/bx/n/10 b$
  \OT1/txr/m/n/10 and $\OT1/txr/bx/n/10 c$ \OT1/txr/m/n/10 are unit copla-nar ve
 c-tors, then the scalar triple prod-uct
  []
 
-[73] [74]
+[75] [76]
 Underfull \hbox (badness 10000) in paragraph at lines 515--516
 
  []
 
-[75] [76] [77]
+[77] [78] [79]
 Underfull \vbox (badness 3000) has occurred while \output is active []
 
-[78]) [79] (./chapters/formulae/const.tex) (./chapters/const/tri.tex (./chapter
+[80]) [81] (./chapters/formulae/const.tex) (./chapters/const/tri.tex (./chapter
 s/9/11/2/1/line.tex
-<chapters/9/11/2/1/figs/vector.pdf, id=2753, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/1/figs/vector.pdf, id=2930, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/1/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/1/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/1/figs/vector.pdf  used on input line 
@@ -2101,52 +2101,52 @@ Package pdftex.def Info: chapters/9/11/2/1/figs/vector.pdf  used on input line
 
 Underfull \vbox (badness 1661) has occurred while \output is active []
 
-[80]) (./chapters/9/11/2/2/vector.tex
-<chapters/9/11/2/2/figs/vector.pdf, id=2777, 462.52798pt x 346.89601pt>
+[82]) (./chapters/9/11/2/2/vector.tex
+<chapters/9/11/2/2/figs/vector.pdf, id=2954, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/2/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/2/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/2/figs/vector.pdf  used on input line 
 4.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/9/11/2/3/line.tex
-<chapters/9/11/2/3/figs/vector.pdf, id=2779, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/3/figs/vector.pdf, id=2956, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/3/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/3/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/3/figs/vector.pdf  used on input line 
 5.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [81 <./chapters/9/11/2/1/figs/vector.pdf> <./chapters/9/11/2/2/figs/vector.pd
+) [83 <./chapters/9/11/2/1/figs/vector.pdf> <./chapters/9/11/2/2/figs/vector.pd
 f>] (./chapters/9/11/2/5/line.tex
-<chapters/9/11/2/5/figs/vector.pdf, id=2840, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/5/figs/vector.pdf, id=3018, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/5/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/5/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/5/figs/vector.pdf  used on input line 
 5.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/9/11/2/4/line.tex
-<chapters/9/11/2/4/figs/vector.pdf, id=2844, 462.52798pt x 346.89601pt>
+<chapters/9/11/2/4/figs/vector.pdf, id=3022, 462.52798pt x 346.89601pt>
 File: chapters/9/11/2/4/figs/vector.pdf Graphic file (type pdf)
 <use chapters/9/11/2/4/figs/vector.pdf>
 Package pdftex.def Info: chapters/9/11/2/4/figs/vector.pdf  used on input line 
 15.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [82 <./chapters/9/11/2/3/figs/vector.pdf> <./chapters/9/11/2/5/figs/vector.pd
+) [84 <./chapters/9/11/2/3/figs/vector.pdf> <./chapters/9/11/2/5/figs/vector.pd
 f>]
 Underfull \vbox (badness 3601) has occurred while \output is active []
 
-[83 <./chapters/9/11/2/4/figs/vector.pdf>]) (./cbse/const/tri.tex [84]) (./chap
-ters/const/quad.tex) [85] (./chapters/formulae/perp.tex
+[85 <./chapters/9/11/2/4/figs/vector.pdf>]) (./cbse/const/tri.tex [86]) (./chap
+ters/const/quad.tex) [87] (./chapters/formulae/perp.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[86]
+[88]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[87]) (./chapters/linear/param.tex [88]) (./chapters/linear/equation.tex
+[89]) (./chapters/linear/param.tex [90]) (./chapters/linear/equation.tex
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 3.
 
 (./chapters/11/10/2/2/line.tex
-<chapters/11/10/2/2/figs/fig.pdf, id=3078, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/2/figs/fig.pdf, id=3255, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/2/figs/fig.pdf  used on input line 11
@@ -2155,12 +2155,12 @@ Package pdftex.def Info: chapters/11/10/2/2/figs/fig.pdf  used on input line 11
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[89] (./chapters/11/10/2/3/line.tex) (./chapters/11/10/2/4/line.tex) (./chapter
+[91] (./chapters/11/10/2/3/line.tex) (./chapters/11/10/2/4/line.tex) (./chapter
 s/11/10/2/6/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[90 <./chapters/11/10/2/2/figs/fig.pdf>]) (./chapters/11/10/2/7/line.tex
-<chapters/11/10/2/7/figs/fig.pdf, id=3142, 462.52798pt x 346.89601pt>
+[92 <./chapters/11/10/2/2/figs/fig.pdf>]) (./chapters/11/10/2/7/line.tex
+<chapters/11/10/2/7/figs/fig.pdf, id=3321, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/7/figs/fig.pdf  used on input line 36
@@ -2169,11 +2169,11 @@ Package pdftex.def Info: chapters/11/10/2/7/figs/fig.pdf  used on input line 36
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[91]) (./chapters/11/10/2/9/line.tex) (./chapters/11/10/2/5/line.tex
+[93]) (./chapters/11/10/2/9/line.tex) (./chapters/11/10/2/5/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[92 <./chapters/11/10/2/7/figs/fig.pdf>]
-<chapters/11/10/2/5/figs/fig.pdf, id=3191, 462.52798pt x 346.89601pt>
+[94 <./chapters/11/10/2/7/figs/fig.pdf>]
+<chapters/11/10/2/5/figs/fig.pdf, id=3368, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/5/figs/fig.pdf  used on input line 15
@@ -2195,7 +2195,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 65.
 
 Underfull \vbox (badness 5388) has occurred while \output is active []
 
-[93 <./chapters/11/10/2/5/figs/fig.pdf>]
+[95 <./chapters/11/10/2/5/figs/fig.pdf>]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 66.
 
@@ -2206,13 +2206,13 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 23.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 23.
 
-<chapters/12/11/3/6/figs/fig.pdf, id=3231, 578.16pt x 433.62pt>
+<chapters/12/11/3/6/figs/fig.pdf, id=3408, 578.16pt x 433.62pt>
 File: chapters/12/11/3/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/11/3/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/11/3/6/figs/fig.pdf  used on input line 50
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86006pt.
-<chapters/12/11/3/6/figs/fig1.pdf, id=3232, 578.16pt x 433.62pt>
+<chapters/12/11/3/6/figs/fig1.pdf, id=3409, 578.16pt x 433.62pt>
 File: chapters/12/11/3/6/figs/fig1.pdf Graphic file (type pdf)
 <use chapters/12/11/3/6/figs/fig1.pdf>
 Package pdftex.def Info: chapters/12/11/3/6/figs/fig1.pdf  used on input line 5
@@ -2221,16 +2221,16 @@ Package pdftex.def Info: chapters/12/11/3/6/figs/fig1.pdf  used on input line 5
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[94]) (./chapters/11/10/2/12/line.tex [95 <./chapters/12/11/3/6/figs/fig.pdf> <
+[96]) (./chapters/11/10/2/12/line.tex [97 <./chapters/12/11/3/6/figs/fig.pdf> <
 ./chapters/12/11/3/6/figs/fig1.pdf>]
-<chapters/11/10/2/12/figs/fig.pdf, id=3292, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/12/figs/fig.pdf, id=3471, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/12/figs/fig.pdf  used on input line 3
 5.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [96 <./chapters/11/10/2/12/figs/fig.pdf>] (./chapters/11/10/2/13/line.tex
-<chapters/11/10/2/13/figs/fig.pdf, id=3331, 462.52798pt x 346.89601pt>
+) [98 <./chapters/11/10/2/12/figs/fig.pdf>] (./chapters/11/10/2/13/line.tex
+<chapters/11/10/2/13/figs/fig.pdf, id=3510, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/13/figs/fig.pdf  used on input line 5
@@ -2239,8 +2239,8 @@ Package pdftex.def Info: chapters/11/10/2/13/figs/fig.pdf  used on input line 5
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[97]
-<chapters/11/10/1/14/figs/fig.pdf, id=3354, 462.52798pt x 346.89601pt>
+[99]
+<chapters/11/10/1/14/figs/fig.pdf, id=3531, 462.52798pt x 346.89601pt>
 File: chapters/11/10/1/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/1/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/1/14/figs/fig.pdf  used on input line 1
@@ -2251,12 +2251,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--104
 
  []
 
-(./chapters/11/10/1/14/line.tex [98 <./chapters/11/10/2/13/figs/fig.pdf> <./cha
-pters/11/10/1/14/figs/fig.pdf>])
+(./chapters/11/10/1/14/line.tex [100 <./chapters/11/10/2/13/figs/fig.pdf> <./ch
+apters/11/10/1/14/figs/fig.pdf>])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[99] (./chapters/10/7/4/1/section.tex
-<chapters/10/7/4/1/figs/fig.pdf, id=3442, 462.52798pt x 346.89601pt>
+[101] (./chapters/10/7/4/1/section.tex
+<chapters/10/7/4/1/figs/fig.pdf, id=3620, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/1/figs/fig.pdf  used on input line 20.
@@ -2268,34 +2268,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
  points
  []
 
-[100 <./chapters/10/7/4/1/figs/fig.pdf>]) (./cbse/linear/equation.tex [101]
+[102 <./chapters/10/7/4/1/figs/fig.pdf>]) (./cbse/linear/equation.tex [103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[102]
+[104]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 61.
 
 ) (./chapters/linear/parallel.tex (./chapters/12/11/4/19/line.tex
 Underfull \vbox (badness 7291) has occurred while \output is active []
 
-[103]) (./chapters/12/11/3/8/plane.tex
-<chapters/12/11/3/8/figs/fig.pdf, id=3546, 578.16pt x 433.62pt>
+[105]) (./chapters/12/11/3/8/plane.tex
+<chapters/12/11/3/8/figs/fig.pdf, id=3723, 578.16pt x 433.62pt>
 File: chapters/12/11/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/11/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/11/3/8/figs/fig.pdf  used on input line 18
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86006pt.
-) (./chapters/11/10/3/7/line.tex [104 <./chapters/12/11/3/8/figs/fig.pdf>]) (./
+) (./chapters/11/10/3/7/line.tex [106 <./chapters/12/11/3/8/figs/fig.pdf>]) (./
 chapters/11/10/2/14/line.tex
-<chapters/11/10/2/14/figs/fig.pdf, id=3584, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/14/figs/fig.pdf, id=3762, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/14/figs/fig.pdf  used on input line 2
 1.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [105 <./chapters/11/10/2/14/figs/fig.pdf>]) (./cbse/linear/parallel.tex [106]
+) [107 <./chapters/11/10/2/14/figs/fig.pdf>]) (./cbse/linear/parallel.tex [108]
 ) (./chapters/linear/perp.tex (./chapters/11/10/3/10/line.tex
-<chapters/11/10/3/10/figs/fig.pdf, id=3644, 462.52798pt x 346.89601pt>
+<chapters/11/10/3/10/figs/fig.pdf, id=3821, 462.52798pt x 346.89601pt>
 File: chapters/11/10/3/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/3/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/3/10/figs/fig.pdf  used on input line 1
@@ -2304,19 +2304,19 @@ Package pdftex.def Info: chapters/11/10/3/10/figs/fig.pdf  used on input line 1
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[107] (./chapters/12/11/4/6/inner.tex) (./chapters/11/10/4/2/line.tex) (./chapt
-ers/11/10/3/3/perp.tex [108 <./chapters/11/10/3/10/figs/fig.pdf>]) (./chapters/
+[109] (./chapters/12/11/4/6/inner.tex) (./chapters/11/10/4/2/line.tex) (./chapt
+ers/11/10/3/3/perp.tex [110 <./chapters/11/10/3/10/figs/fig.pdf>]) (./chapters/
 11/10/3/4/line.tex)
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 34.
 
-(./chapters/12/11/3/1/dist.tex) [109]
+(./chapters/12/11/3/1/dist.tex) [111]
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 (./chapters/11/10/3/6/dist.tex) (./chapters/11/10/3/5/line.tex
-<chapters/11/10/3/5/figs/fig.pdf, id=3726, 462.52798pt x 346.89601pt>
+<chapters/11/10/3/5/figs/fig.pdf, id=3904, 462.52798pt x 346.89601pt>
 File: chapters/11/10/3/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/3/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/3/5/figs/fig.pdf  used on input line 24
@@ -2325,11 +2325,11 @@ Package pdftex.def Info: chapters/11/10/3/5/figs/fig.pdf  used on input line 24
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[110]) (./chapters/11/10/4/4/line.tex) (./chapters/11/10/3/14/line.tex
+[112]) (./chapters/11/10/4/4/line.tex) (./chapters/11/10/3/14/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[111 <./chapters/11/10/3/5/figs/fig.pdf>]
-<chapters/11/10/3/14/figs/fig.pdf, id=3785, 462.52798pt x 346.89601pt>
+[113 <./chapters/11/10/3/5/figs/fig.pdf>]
+<chapters/11/10/3/14/figs/fig.pdf, id=3962, 462.52798pt x 346.89601pt>
 File: chapters/11/10/3/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/3/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/3/14/figs/fig.pdf  used on input line 5
@@ -2342,26 +2342,26 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 80.
 (./chapters/11/10/3/17/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[112 <./chapters/11/10/3/14/figs/fig.pdf>]) (./chapters/11/10/4/7/line.tex) (./
+[114 <./chapters/11/10/3/14/figs/fig.pdf>]) (./chapters/11/10/4/7/line.tex) (./
 chapters/11/10/3/8/line.tex) (./chapters/11/10/4/21/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[113]
-<chapters/11/10/4/21/figs/fig.pdf, id=3840, 462.52798pt x 346.89601pt>
+[115]
+<chapters/11/10/4/21/figs/fig.pdf, id=4018, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/21/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/21/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/21/figs/fig.pdf  used on input line 1
 9.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/11/10/2/10/line.tex
-<chapters/11/10/2/10/figs/fig.pdf, id=3842, 462.52798pt x 346.89601pt>
+<chapters/11/10/2/10/figs/fig.pdf, id=4020, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/10/figs/fig.pdf  used on input line 5
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-[114 <./chapters/11/10/4/21/figs/fig.pdf>]) (./chapters/11/10/2/15/line.tex
-<chapters/11/10/2/15/figs/fig.pdf, id=3879, 462.52798pt x 346.89601pt>
+[116 <./chapters/11/10/4/21/figs/fig.pdf>]) (./chapters/11/10/2/15/line.tex
+<chapters/11/10/2/15/figs/fig.pdf, id=4058, 462.52798pt x 346.89601pt>
 File: chapters/11/10/2/15/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/2/15/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/2/15/figs/fig.pdf  used on input line 1
@@ -2370,26 +2370,26 @@ Package pdftex.def Info: chapters/11/10/2/15/figs/fig.pdf  used on input line 1
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[115 <./chapters/11/10/2/10/figs/fig.pdf>] (./chapters/12/11/4/20/line.tex) (./
+[117 <./chapters/11/10/2/10/figs/fig.pdf>] (./chapters/12/11/4/20/line.tex) (./
 chapters/11/10/3/15/vector.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[116 <./chapters/11/10/2/15/figs/fig.pdf>]) (./chapters/11/10/2/11/line.tex) (.
+[118 <./chapters/11/10/2/15/figs/fig.pdf>]) (./chapters/11/10/2/11/line.tex) (.
 /chapters/12/11/3/2/norm.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[117]
+[119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[118]) (./cbse/linear/perp.tex [119]
+[120]) (./cbse/linear/perp.tex [121]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[120]) (./chapters/linear/angle.tex (./chapters/11/10/3/12/asgnt1.tex)
+[122]) (./chapters/linear/angle.tex (./chapters/11/10/3/12/asgnt1.tex)
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 8.
 
-(./chapters/11/10/4/11/strline.tex [121]
-<chapters/11/10/4/11/figs/fig.pdf, id=4063, 462.52798pt x 346.89601pt>
+(./chapters/11/10/4/11/strline.tex [123]
+<chapters/11/10/4/11/figs/fig.pdf, id=4240, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/11/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/11/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/11/figs/fig.pdf  used on input line 2
@@ -2408,11 +2408,11 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 2.
 (./chapters/12/11/3/9/plane.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[122 <./chapters/11/10/4/11/figs/fig.pdf>]) (./chapters/11/10/4/24/line.tex
+[124 <./chapters/11/10/4/11/figs/fig.pdf>]) (./chapters/11/10/4/24/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[123]
-<chapters/11/10/4/24/figs/fig.pdf, id=4129, 462.52798pt x 346.89601pt>
+[125]
+<chapters/11/10/4/24/figs/fig.pdf, id=4307, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/24/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/24/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/24/figs/fig.pdf  used on input line 2
@@ -2421,23 +2421,23 @@ Package pdftex.def Info: chapters/11/10/4/24/figs/fig.pdf  used on input line 2
 ) (./chapters/11/10/4/6/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[124 <./chapters/11/10/4/24/figs/fig.pdf>]
-<chapters/11/10/4/6/figs/fig.pdf, id=4167, 462.52798pt x 346.89601pt>
+[126 <./chapters/11/10/4/24/figs/fig.pdf>]
+<chapters/11/10/4/6/figs/fig.pdf, id=4345, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/6/figs/fig.pdf  used on input line 40
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [125 <./chapters/11/10/4/6/figs/fig.pdf>] (./chapters/11/10/4/12/straightline
+) [127 <./chapters/11/10/4/6/figs/fig.pdf>] (./chapters/11/10/4/12/straightline
 .tex
-<chapters/11/10/4/12/figs/fig.pdf, id=4209, 462.52798pt x 346.89601pt>
+<chapters/11/10/4/12/figs/fig.pdf, id=4387, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/12/figs/fig.pdf  used on input line 3
 5.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) (./chapters/11/10/4/9/vec1.tex [126 <./chapters/11/10/4/12/figs/fig.pdf>]
-<chapters/11/10/4/9/figs/fig.pdf, id=4253, 462.52798pt x 346.89601pt>
+) (./chapters/11/10/4/9/vec1.tex [128 <./chapters/11/10/4/12/figs/fig.pdf>]
+<chapters/11/10/4/9/figs/fig.pdf, id=4431, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/9/figs/fig.pdf  used on input line 36
@@ -2446,10 +2446,10 @@ Package pdftex.def Info: chapters/11/10/4/9/figs/fig.pdf  used on input line 36
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[127 <./chapters/11/10/4/9/figs/fig.pdf>]) (./cbse/linear/intersect.tex [128]
+[129 <./chapters/11/10/4/9/figs/fig.pdf>]) (./cbse/linear/intersect.tex [130]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[129]
+[131]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 96.
 
@@ -2465,11 +2465,11 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 96.
 ) (./chapters/linear/misc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[130] (./chapters/11/10/4/1/line.tex) (./chapters/11/10/4/3/line.tex
+[132] (./chapters/11/10/4/1/line.tex) (./chapters/11/10/4/3/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[131]) (./chapters/11/10/4/22/line.tex
-<chapters/11/10/4/22/figs/fig.pdf, id=4391, 462.52798pt x 346.89601pt>
+[133]) (./chapters/11/10/4/22/line.tex
+<chapters/11/10/4/22/figs/fig.pdf, id=4569, 462.52798pt x 346.89601pt>
 File: chapters/11/10/4/22/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/10/4/22/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/10/4/22/figs/fig.pdf  used on input line 4
@@ -2478,10 +2478,10 @@ Package pdftex.def Info: chapters/11/10/4/22/figs/fig.pdf  used on input line 4
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[132]) [133 <./chapters/11/10/4/22/figs/fig.pdf>]
+[134]) [135 <./chapters/11/10/4/22/figs/fig.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[134]
+[136]
 Underfull \hbox (badness 10000) detected at line 103
 \OT1/txr/m/n/10 1.
  []
@@ -2600,85 +2600,85 @@ Underfull \hbox (badness 10000) detected at line 131
 \OT1/txr/m/n/10 d)
  []
 
-(./chapters/11/10/2/19/line.tex) [135] (./chapters/11/10/3/11/line.tex) (./chap
+(./chapters/11/10/2/19/line.tex) [137] (./chapters/11/10/3/11/line.tex) (./chap
 ters/11/10/3/16/line.tex) (./chapters/11/10/3/18/dist.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[136]) (./chapters/11/10/4/5/dist.tex) (./chapters/11/10/4/23/dist.tex) (./chap
+[138]) (./chapters/11/10/4/5/dist.tex) (./chapters/11/10/4/23/dist.tex) (./chap
 ters/11/10/4/8/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[137]) (./chapters/11/10/2/18/line.tex)
+[139]) (./chapters/11/10/2/18/line.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[138]) (./JEE/linear.tex [139] [140] [141] [142] [143] [144] [145]
+[140]) (./JEE/linear.tex [141] [142] [143] [144] [145] [146] [147]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[146] [147] [148] [149] [150] [151]
+[148] [149] [150] [151] [152] [153]
 Overfull \vbox (3.12451pt too high) has occurred while \output is active []
 
-[152] [153]) [154] (./chapters/formulae/vectors/mat.tex) (./chapters/matrix/equ
-ation.tex [155] [156] [157] [158]) (./cbse/matrix/equation.tex
+[154] [155]) [156] (./chapters/formulae/vectors/mat.tex) (./chapters/matrix/equ
+ation.tex [157] [158] [159] [160]) (./cbse/matrix/equation.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[159] [160]
+[161] [162]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[161]
+[163]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[162]
+[164]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[163]) (./chapters/matrix/inverse.tex [164] [165]) (./cbse/matrix/inverse.tex
+[165]) (./chapters/matrix/inverse.tex [166] [167]) (./cbse/matrix/inverse.tex
 Underfull \vbox (badness 2837) has occurred while \output is active []
-
-[166]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[167]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [168]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[169]) (./chapters/matrix/cayley.tex
+[169]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[170] (./chapters/eigen/solutions/1.tex) (./chapters/eigen/solutions/4.tex) [17
-1]) (./cbse/matrix/cayley.tex [172]) (./chapters/matrix/appl.tex (./chapters/ap
-pl/1.tex [173])
+[170]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[174]
+[171]) (./chapters/matrix/cayley.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[175]) (./cbse/matrix/appl.tex
+[172] (./chapters/eigen/solutions/1.tex) (./chapters/eigen/solutions/4.tex) [17
+3]) (./cbse/matrix/cayley.tex [174]) (./chapters/matrix/appl.tex (./chapters/ap
+pl/1.tex [175])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[177]) (./cbse/matrix/appl.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[178]
 Underfull \vbox (badness 1418) has occurred while \output is active []
 
-[177]) (./chapters/matrix/chem.tex (./chapters/chemistry/solutions/1.tex
+[179]) (./chapters/matrix/chem.tex (./chapters/chemistry/solutions/1.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[178])
+[180])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[179] (./chapters/chemistry/solutions/2.tex
+[181] (./chapters/chemistry/solutions/2.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[180])) (./chapters/matrix/phy.tex (./figs/ckts/ckt1/main.tex) (./figs/ckts/ckt
+[182])) (./chapters/matrix/phy.tex (./figs/ckts/ckt1/main.tex) (./figs/ckts/ckt
 2/main.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[181] (./figs/ckts/ckt3/main.tex) (./figs/ckts/ckt4/main.tex)
+[183] (./figs/ckts/ckt3/main.tex) (./figs/ckts/ckt4/main.tex)
 Underfull \vbox (badness 6461) has occurred while \output is active []
 
-[182]) (./cbse/matrix/misc.tex
+[184]) (./cbse/matrix/misc.tex
 Underfull \vbox (badness 2134) has occurred while \output is active []
 
-[183]) (./JEE/matrix.tex [184] [185] [186]
+[185]) (./JEE/matrix.tex [186] [187] [188]
 Underfull \hbox (badness 10000) in paragraph at lines 249--253
 
  []
@@ -2688,7 +2688,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--259
 
  []
 
-[187]
+[189]
 Underfull \hbox (badness 10000) in paragraph at lines 306--310
 
  []
@@ -2698,7 +2698,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--317
 
  []
 
-[188] [189] [190]
+[190] [191] [192]
 Underfull \hbox (badness 10000) in paragraph at lines 584--590
 
  []
@@ -2723,7 +2723,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 616--617
 
  []
 
-[191]
+[193]
 Underfull \hbox (badness 10000) in paragraph at lines 633--642
 
  []
@@ -2736,7 +2736,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 694--695
 
 Underfull \vbox (badness 4492) has occurred while \output is active []
 
-[192] [193] [194] [195] [196]
+[194] [195] [196] [197] [198]
 Underfull \hbox (badness 10000) in paragraph at lines 1068--1069
 []
  []
@@ -2756,17 +2756,17 @@ Overfull \hbox (3.00642pt too wide) in paragraph at lines 1071--1072
 [] []$ 
  []
 
-[197] [198]
+[199] [200]
 Overfull \hbox (19.20844pt too wide) detected at line 1219
 []
  []
 
-[199]) [200] (./chapters/formulae/lsq.tex [201]) (./chapters/skew/lsq.tex (./ch
+[201]) [202] (./chapters/formulae/lsq.tex [203]) (./chapters/skew/lsq.tex (./ch
 apters/12/11/2/15/lsq.tex
 Underfull \vbox (badness 3058) has occurred while \output is active []
 
-[202]
-<chapters/12/11/2/15/figs/Figure_1.png, id=6172, 462.528pt x 346.896pt>
+[204]
+<chapters/12/11/2/15/figs/Figure_1.png, id=6349, 462.528pt x 346.896pt>
 File: chapters/12/11/2/15/figs/Figure_1.png Graphic file (type png)
 <use chapters/12/11/2/15/figs/Figure_1.png>
 Package pdftex.def Info: chapters/12/11/2/15/figs/Figure_1.png  used on input l
@@ -2775,11 +2775,11 @@ ine 44.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[203]) (./chapters/12/11/2/16/lsq/lsq.tex
+[205]) (./chapters/12/11/2/16/lsq/lsq.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[204 <./chapters/12/11/2/15/figs/Figure_1.png>]
-<chapters/12/11/2/16/lsq/figs/skew.png, id=6201, 462.528pt x 346.896pt>
+[206 <./chapters/12/11/2/15/figs/Figure_1.png>]
+<chapters/12/11/2/16/lsq/figs/skew.png, id=6379, 462.528pt x 346.896pt>
 File: chapters/12/11/2/16/lsq/figs/skew.png Graphic file (type png)
 <use chapters/12/11/2/16/lsq/figs/skew.png>
 Package pdftex.def Info: chapters/12/11/2/16/lsq/figs/skew.png  used on input l
@@ -2788,12 +2788,12 @@ ine 40.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[205 <./chapters/12/11/2/16/lsq/figs/skew.png>] (./chapters/12/11/2/e11/lsq/mai
+[207 <./chapters/12/11/2/16/lsq/figs/skew.png>] (./chapters/12/11/2/e11/lsq/mai
 n.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[206]
-<chapters/12/11/2/e11/lsq/figs/skew.png, id=6233, 462.528pt x 346.896pt>
+[208]
+<chapters/12/11/2/e11/lsq/figs/skew.png, id=6411, 462.528pt x 346.896pt>
 File: chapters/12/11/2/e11/lsq/figs/skew.png Graphic file (type png)
 <use chapters/12/11/2/e11/lsq/figs/skew.png>
 Package pdftex.def Info: chapters/12/11/2/e11/lsq/figs/skew.png  used on input 
@@ -2802,57 +2802,48 @@ line 61.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[207 <./chapters/12/11/2/e11/lsq/figs/skew.png>]) (./chapters/skew/svd.tex (./c
-hapters/12/11/2/16/svd/main.tex [208]
+[209 <./chapters/12/11/2/e11/lsq/figs/skew.png>]) (./chapters/skew/svd.tex (./c
+hapters/12/11/2/16/svd/main.tex [210]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[209]) (./chapters/12/11/2/e11/svd/main.tex
+[211]) (./chapters/12/11/2/e11/svd/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[210]
+[212]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[211])) (./cbse/skew/lsq.tex (./tables/table2.tex)
+[213])) (./cbse/skew/lsq.tex (./tables/table2.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[212] [213]) [214] (./chapters/formulae/circle/equation.tex
-
-LaTeX Warning: Reference `eq:circ-eq' on page 215 undefined on input line 34.
-
-) (./chapters/circles/examples/equation.tex (./chapters/10/7/2/7/section.tex
-<chapters/10/7/2/7/figs/fig.pdf, id=6370, 462.52798pt x 346.89601pt>
+[214] [215]) [216] (./chapters/formulae/circle/equation.tex) (./chapters/circle
+s/examples/equation.tex (./chapters/10/7/2/7/section.tex
+<chapters/10/7/2/7/figs/fig.pdf, id=6549, 462.52798pt x 346.89601pt>
 File: chapters/10/7/2/7/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/2/7/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/2/7/figs/fig.pdf  used on input line 14.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-[215]) (./chapters/11/11/1/10/circle.tex
+[217]) (./chapters/11/11/1/10/circle.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[216 <./chapters/10/7/2/7/figs/fig.pdf>]
-<chapters/11/11/1/10/figs/fig.pdf, id=6429, 462.52798pt x 346.89601pt>
+[218 <./chapters/10/7/2/7/figs/fig.pdf>]
+<chapters/11/11/1/10/figs/fig.pdf, id=6609, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/10/figs/fig.pdf  used on input line 5
 3.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/11/11/1/11/circle.tex) (./chapters/11/11/1/12/circle.tex
-<chapters/11/11/1/12/figs/fig.pdf, id=6432, 462.52798pt x 346.89601pt>
+<chapters/11/11/1/12/figs/fig.pdf, id=6612, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/12/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/12/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/12/figs/fig.pdf  used on input line 5
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-[217 <./chapters/11/11/1/10/figs/fig.pdf>]
-
-LaTeX Warning: Reference `eq:circ-eq' on page 218 undefined on input line 11.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[218 <./chapters/11/11/1/12/figs/fig.pdf>]) (./chapters/11/11/1/14/circle.tex) 
-(./chapters/11/11/1/15/circle.tex (./chapters/11/11/1/15/tables/table_1.tex)
-<chapters/11/11/1/15/figs/fig.pdf, id=6541, 462.52798pt x 346.89601pt>
+[219 <./chapters/11/11/1/10/figs/fig.pdf>] [220 <./chapters/11/11/1/12/figs/fig
+.pdf>]) (./chapters/11/11/1/14/circle.tex) (./chapters/11/11/1/15/circle.tex (.
+/chapters/11/11/1/15/tables/table_1.tex)
+<chapters/11/11/1/15/figs/fig.pdf, id=6722, 462.52798pt x 346.89601pt>
 File: chapters/11/11/1/15/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/1/15/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/1/15/figs/fig.pdf  used on input line 2
@@ -2861,8 +2852,8 @@ Package pdftex.def Info: chapters/11/11/1/15/figs/fig.pdf  used on input line 2
 )
 Underfull \vbox (badness 6284) has occurred while \output is active []
 
-[219] (./chapters/10/7/4/3/circle.tex
-<chapters/10/7/4/3/figs/fig.pdf, id=6564, 462.52798pt x 346.89601pt>
+[221] (./chapters/10/7/4/3/circle.tex
+<chapters/10/7/4/3/figs/fig.pdf, id=6744, 462.52798pt x 346.89601pt>
 File: chapters/10/7/4/3/figs/fig.pdf Graphic file (type pdf)
 <use chapters/10/7/4/3/figs/fig.pdf>
 Package pdftex.def Info: chapters/10/7/4/3/figs/fig.pdf  used on input line 19.
@@ -2871,12 +2862,12 @@ Package pdftex.def Info: chapters/10/7/4/3/figs/fig.pdf  used on input line 19.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[220 <./chapters/11/11/1/15/figs/fig.pdf>] (./chapters/11/11/1/1/circle.tex) (.
-/chapters/11/11/1/2/circle.tex) (./chapters/11/11/1/3/circle.tex [221 <./chapte
+[222 <./chapters/11/11/1/15/figs/fig.pdf>] (./chapters/11/11/1/1/circle.tex) (.
+/chapters/11/11/1/2/circle.tex) (./chapters/11/11/1/3/circle.tex [223 <./chapte
 rs/10/7/4/3/figs/fig.pdf>]) (./chapters/11/11/1/4/circle.tex) (./chapters/11/11
-/1/6/circle.tex) (./chapters/11/11/1/7/circle.tex [222]) (./chapters/11/11/1/8/
+/1/6/circle.tex) (./chapters/11/11/1/7/circle.tex [224]) (./chapters/11/11/1/8/
 circle.tex) (./chapters/11/11/1/9/circle.tex)) (./chapters/circles/examples/mis
-c.tex (./chapters/11/11/1/5/circle.tex [223])) (./JEE/circle.tex [224]
+c.tex (./chapters/11/11/1/5/circle.tex [225])) (./JEE/circle.tex [226]
 LaTeX Font Info:    Trying to load font information for OMS+txr on input line 3
 9.
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxr.fd
@@ -2884,34 +2875,20 @@ File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 39.
-[225] [226] [227] [228]) [229] (./chapters/formulae/conics/equation.tex
-
-LaTeX Warning: Reference `eq:conic_parmas_eig_def' on page 230 undefined on inp
-ut line 59.
-
-[230]
-
-LaTeX Warning: Reference `app:parab' on page 231 undefined on input line 100.
-
-
-LaTeX Warning: Reference `app:major' on page 231 undefined on input line 135.
-
-
-LaTeX Warning: Reference `app:latus' on page 231 undefined on input line 149.
-
-[231]) (./chapters/conics/examples/equation.tex (./chapters/11/11/5/ellipse.tex
-(./chapters/11/11/5/tables/table1.tex) [232]
+[227] [228] [229] [230]) [231] (./chapters/formulae/conics/equation.tex [232] [
+233]) (./chapters/conics/examples/equation.tex (./chapters/11/11/5/ellipse.tex 
+(./chapters/11/11/5/tables/table1.tex) [234]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[233]
-<chapters/11/11/5/Figures/fig1.png, id=7012, 462.528pt x 346.896pt>
+[235]
+<chapters/11/11/5/Figures/fig1.png, id=7202, 462.528pt x 346.896pt>
 File: chapters/11/11/5/Figures/fig1.png Graphic file (type png)
 <use chapters/11/11/5/Figures/fig1.png>
 Package pdftex.def Info: chapters/11/11/5/Figures/fig1.png  used on input line 
 115.
 (pdftex.def)             Requested size: 273.14647pt x 204.868pt.
-) [234 <./chapters/11/11/5/Figures/fig1.png>] (./chapters/11/11/2/1/parab.tex
-<chapters/11/11/2/1/figs/fig.pdf, id=7031, 462.52798pt x 346.89601pt>
+) [236 <./chapters/11/11/5/Figures/fig1.png>] (./chapters/11/11/2/1/parab.tex
+<chapters/11/11/2/1/figs/fig.pdf, id=7220, 462.52798pt x 346.89601pt>
 File: chapters/11/11/2/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/2/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/2/1/figs/fig.pdf  used on input line 11
@@ -2922,7 +2899,7 @@ Package pdftex.def Info: chapters/11/11/2/1/figs/fig.pdf  used on input line 11
 LaTeX Warning: Command \textendash invalid in math mode on input line 14.
 
 (./chapters/11/11/3/1/ellipse.tex
-<chapters/11/11/3/1/figs/fig.pdf, id=7034, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/1/figs/fig.pdf, id=7223, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/1/figs/fig.pdf  used on input line 7.
@@ -2931,8 +2908,8 @@ Package pdftex.def Info: chapters/11/11/3/1/figs/fig.pdf  used on input line 7.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[235 <./chapters/11/11/2/1/figs/fig.pdf>] (./chapters/11/11/4/1/hyper.tex
-<chapters/11/11/4/1/figs/fig.pdf, id=7090, 462.52798pt x 346.89601pt>
+[237 <./chapters/11/11/2/1/figs/fig.pdf>] (./chapters/11/11/4/1/hyper.tex
+<chapters/11/11/4/1/figs/fig.pdf, id=7278, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/1/figs/fig.pdf  used on input line 7.
@@ -2941,9 +2918,9 @@ Package pdftex.def Info: chapters/11/11/4/1/figs/fig.pdf  used on input line 7.
 ) (./chapters/conics/tables/std.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[236 <./chapters/11/11/3/1/figs/fig.pdf> <./chapters/11/11/4/1/figs/fig.pdf>] (
+[238 <./chapters/11/11/3/1/figs/fig.pdf> <./chapters/11/11/4/1/figs/fig.pdf>] (
 ./chapters/11/11/3/2/ellipse.tex
-<chapters/11/11/3/2/figs/fig.pdf, id=7194, 462.52798pt x 346.89601pt>
+<chapters/11/11/3/2/figs/fig.pdf, id=7383, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/2/figs/fig.pdf  used on input line 12
@@ -2952,8 +2929,8 @@ Package pdftex.def Info: chapters/11/11/3/2/figs/fig.pdf  used on input line 12
 ) (./chapters/conics/tables/rot.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[237] (./chapters/11/11/4/5/hyper.tex
-<chapters/11/11/4/5/figs/fig.pdf, id=7209, 462.52798pt x 346.89601pt>
+[239] (./chapters/11/11/4/5/hyper.tex
+<chapters/11/11/4/5/figs/fig.pdf, id=7398, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/5/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/5/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/5/figs/fig.pdf  used on input line 9.
@@ -2962,52 +2939,46 @@ Package pdftex.def Info: chapters/11/11/4/5/figs/fig.pdf  used on input line 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[238 <./chapters/11/11/3/2/figs/fig.pdf>]) (./chapters/11/11/2/4/parab.tex
-<chapters/11/11/2/4/figs/fig.pdf, id=7262, 462.52798pt x 346.89601pt>
+[240 <./chapters/11/11/3/2/figs/fig.pdf>]) (./chapters/11/11/2/4/parab.tex
+<chapters/11/11/2/4/figs/fig.pdf, id=7451, 462.52798pt x 346.89601pt>
 File: chapters/11/11/2/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/2/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/2/4/figs/fig.pdf  used on input line 6.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [239 <./chapters/11/11/4/5/figs/fig.pdf> <./chapters/11/11/2/4/figs/fig.pdf>]
+) [241 <./chapters/11/11/4/5/figs/fig.pdf> <./chapters/11/11/2/4/figs/fig.pdf>]
 (./chapters/11/11/4/13/hyper.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `eq:conic_parmas_c_def' on page 240 undefined on input
- line 49.
-
-[240]
-<chapters/11/11/4/13/figs/fig.pdf, id=7412, 462.52798pt x 346.89601pt>
+[242]
+<chapters/11/11/4/13/figs/fig.pdf, id=7603, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/13/figs/fig.pdf  used on input line 9
 8.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 (./chapters/11/11/4/13/tables/table1.tex))
+Underfull \vbox (badness 7344) has occurred while \output is active []
+
+[243 <./chapters/11/11/4/13/figs/fig.pdf>] (./chapters/11/11/3/16/ellipse.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[241 <./chapters/11/11/4/13/figs/fig.pdf>] (./chapters/11/11/3/16/ellipse.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[242]
-<chapters/11/11/3/16/figs/fig.png, id=7502, 462.528pt x 346.896pt>
+[244]
+<chapters/11/11/3/16/figs/fig.png, id=7692, 462.528pt x 346.896pt>
 File: chapters/11/11/3/16/figs/fig.png Graphic file (type png)
 <use chapters/11/11/3/16/figs/fig.png>
 Package pdftex.def Info: chapters/11/11/3/16/figs/fig.png  used on input line 6
 7.
 (pdftex.def)             Requested size: 273.14647pt x 204.868pt.
-) (./chapters/11/11/4/14/hyper.tex [243 <./chapters/11/11/3/16/figs/fig.png>]
-
-LaTeX Warning: Reference `eq:conic_parmas_c_def' on page 244 undefined on input
- line 23.
-
-<chapters/11/11/4/14/figs/fig.pdf, id=7526, 462.52798pt x 346.89601pt>
+) (./chapters/11/11/4/14/hyper.tex [245 <./chapters/11/11/3/16/figs/fig.png>]
+<chapters/11/11/4/14/figs/fig.pdf, id=7717, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/14/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/14/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/14/figs/fig.pdf  used on input line 4
 1.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) (./chapters/11/11/3/19/ellipse.tex [244 <./chapters/11/11/4/14/figs/fig.pdf>]
-<chapters/11/11/3/19/figs/fig.pdf, id=7574, 462.52798pt x 346.89601pt>
+) (./chapters/11/11/3/19/ellipse.tex [246 <./chapters/11/11/4/14/figs/fig.pdf>]
+<chapters/11/11/3/19/figs/fig.pdf, id=7766, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/19/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/19/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/19/figs/fig.pdf  used on input line 5
@@ -3016,11 +2987,11 @@ Package pdftex.def Info: chapters/11/11/3/19/figs/fig.pdf  used on input line 5
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[245] (./chapters/11/11/3/20/ellipse.tex
+[247] (./chapters/11/11/3/20/ellipse.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[246 <./chapters/11/11/3/19/figs/fig.pdf>]
-<chapters/11/11/3/20/figs/fig.pdf, id=7644, 462.52798pt x 346.89601pt>
+[248 <./chapters/11/11/3/19/figs/fig.pdf>]
+<chapters/11/11/3/20/figs/fig.pdf, id=7836, 462.52798pt x 346.89601pt>
 File: chapters/11/11/3/20/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/3/20/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/3/20/figs/fig.pdf  used on input line 4
@@ -3029,23 +3000,23 @@ Package pdftex.def Info: chapters/11/11/3/20/figs/fig.pdf  used on input line 4
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[247] (./chapters/11/11/4/9/hyper.tex
+[249] (./chapters/11/11/4/9/hyper.tex
 Underfull \vbox (badness 6995) has occurred while \output is active []
 
-[248 <./chapters/11/11/3/20/figs/fig.pdf>]
-<chapters/11/11/4/9/figs/fig.pdf, id=7705, 462.52798pt x 346.89601pt>
+[250 <./chapters/11/11/3/20/figs/fig.pdf>]
+<chapters/11/11/4/9/figs/fig.pdf, id=7897, 462.52798pt x 346.89601pt>
 File: chapters/11/11/4/9/figs/fig.pdf Graphic file (type pdf)
 <use chapters/11/11/4/9/figs/fig.pdf>
 Package pdftex.def Info: chapters/11/11/4/9/figs/fig.pdf  used on input line 52
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./chapters/conics/examples/misc.tex [249 <./chapters/11/11/4/9/figs/fig.pdf
->]) (./JEE/conic.tex [250] [251] [252]
+)) (./chapters/conics/examples/misc.tex [251 <./chapters/11/11/4/9/figs/fig.pdf
+>]) (./JEE/conic.tex [252] [253] [254]
 Underfull \hbox (badness 10000) in paragraph at lines 157--160
 
  []
 
-[253]
+[255]
 
 LaTeX Warning: Command \textless invalid in math mode on input line 209.
 
@@ -3072,32 +3043,29 @@ LaTeX Warning: Command \textgreater invalid in math mode on input line 212.
 
 LaTeX Warning: Command \textgreater invalid in math mode on input line 212.
 
-[254] [255] [256]) [257] (./chapters/formulae/inter/curves.tex
+[256] [257] [258]) [259] (./chapters/formulae/inter/curves.tex
 Underfull \hbox (badness 1400) detected at line 38
  []$[]  \OML/txmi/m/it/10 ^^T[] \OT1/txr/m/n/10 = [] [] \OMS/txsy/m/n/10 ^^F []
 $ [][][]  
  []
 
-
-LaTeX Warning: Reference `prop:chord' on page 258 undefined on input line 40.
-
-) (./chapters/inter/examples/chord.tex [258] (./chapters/12/8/3/2/conic.tex
-<chapters/12/8/3/2/figs/fig.pdf, id=8060, 462.52798pt x 346.89601pt>
+) (./chapters/inter/examples/chord.tex [260] (./chapters/12/8/3/2/conic.tex
+<chapters/12/8/3/2/figs/fig.pdf, id=8255, 462.52798pt x 346.89601pt>
 File: chapters/12/8/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/3/2/figs/fig.pdf  used on input line 3.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/12/8/1/1/conic.tex
-<chapters/12/8/1/1/figs/fig.pdf, id=8063, 462.52798pt x 346.89601pt>
+<chapters/12/8/1/1/figs/fig.pdf, id=8258, 462.52798pt x 346.89601pt>
 File: chapters/12/8/1/1/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/1/1/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/1/1/figs/fig.pdf  used on input line 3.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-[259 <./chapters/12/8/3/2/figs/fig.pdf>]
+[261 <./chapters/12/8/3/2/figs/fig.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[260 <./chapters/12/8/1/1/figs/fig.pdf>]) (./chapters/12/8/1/6/conic.tex
-<chapters/12/8/1/6/figs/fig.pdf, id=8164, 462.52798pt x 346.89601pt>
+[262 <./chapters/12/8/1/1/figs/fig.pdf>]) (./chapters/12/8/1/6/conic.tex
+<chapters/12/8/1/6/figs/fig.pdf, id=8357, 462.52798pt x 346.89601pt>
 File: chapters/12/8/1/6/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/1/6/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/1/6/figs/fig.pdf  used on input line 3.
@@ -3105,8 +3073,8 @@ Package pdftex.def Info: chapters/12/8/1/6/figs/fig.pdf  used on input line 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[261 <./chapters/12/8/1/6/figs/fig.pdf>]) (./chapters/12/8/3/8/conic.tex
-<chapters/12/8/3/8/figs/fig.pdf, id=8217, 462.52798pt x 346.89601pt>
+[263 <./chapters/12/8/1/6/figs/fig.pdf>]) (./chapters/12/8/3/8/conic.tex
+<chapters/12/8/3/8/figs/fig.pdf, id=8411, 462.52798pt x 346.89601pt>
 File: chapters/12/8/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/3/8/figs/fig.pdf  used on input line 3.
@@ -3114,71 +3082,71 @@ Package pdftex.def Info: chapters/12/8/3/8/figs/fig.pdf  used on input line 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[262]) [263 <./chapters/12/8/3/8/figs/fig.pdf>]) (./cbse/inter/chord.tex [264])
-(./chapters/conics/examples/quad.tex [265] (./chapters/10/4/2/5/main.tex (./cha
-pters/10/4/2/5/tables/table.tex) [266]
-<chapters/10/4/2/5/figs/parabola.pdf, id=8384, 462.52798pt x 346.89601pt>
+[264]) [265 <./chapters/12/8/3/8/figs/fig.pdf>]) (./cbse/inter/chord.tex [266])
+(./chapters/conics/examples/quad.tex [267] (./chapters/10/4/2/5/main.tex (./cha
+pters/10/4/2/5/tables/table.tex) [268]
+<chapters/10/4/2/5/figs/parabola.pdf, id=8578, 462.52798pt x 346.89601pt>
 File: chapters/10/4/2/5/figs/parabola.pdf Graphic file (type pdf)
 <use chapters/10/4/2/5/figs/parabola.pdf>
 Package pdftex.def Info: chapters/10/4/2/5/figs/parabola.pdf  used on input lin
 e 54.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-<chapters/10/4/2/5/figs/triangle.pdf, id=8385, 462.52798pt x 346.89601pt>
+<chapters/10/4/2/5/figs/triangle.pdf, id=8579, 462.52798pt x 346.89601pt>
 File: chapters/10/4/2/5/figs/triangle.pdf Graphic file (type pdf)
 <use chapters/10/4/2/5/figs/triangle.pdf>
 Package pdftex.def Info: chapters/10/4/2/5/figs/triangle.pdf  used on input lin
 e 61.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [267 <./chapters/10/4/2/5/figs/parabola.pdf> <./chapters/10/4/2/5/figs/triang
+) [269 <./chapters/10/4/2/5/figs/parabola.pdf> <./chapters/10/4/2/5/figs/triang
 le.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[268]) (./cbse/conics/quad.tex [269]) (./chapters/inter/examples/curves.tex (./
+[270]) (./cbse/conics/quad.tex [271]) (./chapters/inter/examples/curves.tex (./
 chapters/12/8/2/2/conic.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[270]
-<chapters/12/8/2/2/figs/fig.pdf, id=8515, 462.52798pt x 346.89601pt>
+[272]
+<chapters/12/8/2/2/figs/fig.pdf, id=8710, 462.52798pt x 346.89601pt>
 File: chapters/12/8/2/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/8/2/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/8/2/2/figs/fig.pdf  used on input line 66.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./cbse/inter/curves.tex [271 <./chapters/12/8/2/2/figs/fig.pdf>]) (./JEE/in
-ter.tex [272] [273] [274] [275]) [276] (./chapters/formulae/inter/tangent.tex) 
-(./chapters/tangent/examples/circle.tex [277] (./chapters/12/6/3/19/tangent.tex
+)) (./cbse/inter/curves.tex [273 <./chapters/12/8/2/2/figs/fig.pdf>]) (./JEE/in
+ter.tex [274] [275] [276] [277]) [278] (./chapters/formulae/inter/tangent.tex) 
+(./chapters/tangent/examples/circle.tex [279] (./chapters/12/6/3/19/tangent.tex
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[278]
-<chapters/12/6/3/19/figs/fig.pdf, id=8798, 462.52798pt x 346.89601pt>
+[280]
+<chapters/12/6/3/19/figs/fig.pdf, id=8991, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/19/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/19/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/19/figs/fig.pdf  used on input line 34
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./chapters/tangent/examples/conic.tex (./chapters/12/6/3/2/tangent.tex [279
+)) (./chapters/tangent/examples/conic.tex (./chapters/12/6/3/2/tangent.tex [281
  <./chapters/12/6/3/19/figs/fig.pdf>]
-<chapters/12/6/3/2/figs/fig.pdf, id=8850, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/2/figs/fig.pdf, id=9044, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/2/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/2/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/2/figs/fig.pdf  used on input line 32.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 ) (./chapters/12/6/3/8/tangent.tex
-<chapters/12/6/3/8/figs/fig.pdf, id=8851, 462.52798pt x 346.89601pt>
+<chapters/12/6/3/8/figs/fig.pdf, id=9045, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/8/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/8/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/8/figs/fig.pdf  used on input line 3.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-[280 <./chapters/12/6/3/2/figs/fig.pdf>]
+[282 <./chapters/12/6/3/2/figs/fig.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[281 <./chapters/12/6/3/8/figs/fig.pdf>]) (./chapters/12/6/3/10/tangent.tex
+[283 <./chapters/12/6/3/8/figs/fig.pdf>]) (./chapters/12/6/3/10/tangent.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[282]
-<chapters/12/6/3/10/figs/fig.pdf, id=8979, 462.52798pt x 346.89601pt>
+[284]
+<chapters/12/6/3/10/figs/fig.pdf, id=9173, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/10/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/10/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/10/figs/fig.pdf  used on input line 40
@@ -3192,41 +3160,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 (./chapters/12/6/3/13/tangent.tex
 Underfull \vbox (badness 5008) has occurred while \output is active []
 
-[283 <./chapters/12/6/3/10/figs/fig.pdf>]
-<chapters/12/6/3/13/figs/fig.pdf, id=9036, 462.52798pt x 346.89601pt>
+[285 <./chapters/12/6/3/10/figs/fig.pdf>]
+<chapters/12/6/3/13/figs/fig.pdf, id=9230, 462.52798pt x 346.89601pt>
 File: chapters/12/6/3/13/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/3/13/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/3/13/figs/fig.pdf  used on input line 35
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) [284 <./chapters/12/6/3/13/figs/fig.pdf>] (./chapters/12/6/5/27/tangent.tex
+) [286 <./chapters/12/6/3/13/figs/fig.pdf>] (./chapters/12/6/5/27/tangent.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[285]
-
-LaTeX Warning: Reference `eq:pair-cond' on page 286 undefined on input line 62.
-
-
-
-LaTeX Warning: Reference `eq:pair-conic' on page 286 undefined on input line 65
-.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-v' on page 286 undefined on input li
-ne 67.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-v-lam' on page 286 undefined on inpu
-t line 69.
-
-<chapters/12/6/5/27/figs/fig.pdf, id=9117, 462.52798pt x 346.89601pt>
+[287]
+<chapters/12/6/5/27/figs/fig.pdf, id=9314, 462.52798pt x 346.89601pt>
 File: chapters/12/6/5/27/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/5/27/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/5/27/figs/fig.pdf  used on input line 10
 1.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) (./chapters/12/6/6/4/tangent.tex [286 <./chapters/12/6/5/27/figs/fig.pdf>]
-<chapters/12/6/6/4/figs/fig.pdf, id=9169, 462.52798pt x 346.89601pt>
+) (./chapters/12/6/6/4/tangent.tex [288 <./chapters/12/6/5/27/figs/fig.pdf>]
+<chapters/12/6/6/4/figs/fig.pdf, id=9370, 462.52798pt x 346.89601pt>
 File: chapters/12/6/6/4/figs/fig.pdf Graphic file (type pdf)
 <use chapters/12/6/6/4/figs/fig.pdf>
 Package pdftex.def Info: chapters/12/6/6/4/figs/fig.pdf  used on input line 47.
@@ -3235,7 +3187,7 @@ Package pdftex.def Info: chapters/12/6/6/4/figs/fig.pdf  used on input line 47.
 )
 Underfull \vbox (badness 4366) has occurred while \output is active []
 
-[287 <./chapters/12/6/6/4/figs/fig.pdf>]
+[289 <./chapters/12/6/6/4/figs/fig.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
@@ -3243,13 +3195,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 ) (./cbse/tangent/conic.tex) (./chapters/tangent/examples/const.tex
 Underfull \vbox (badness 3386) has occurred while \output is active []
 
-[288]) (./cbse/tangent/const.tex [289]) (./JEE/tangent.tex [290]
+[290]) (./cbse/tangent/const.tex [291]) (./JEE/tangent.tex [292]
 Overfull \vbox (4.31055pt too high) has occurred while \output is active []
 
 
 Overfull \vbox (4.31055pt too high) has occurred while \output is active []
 
-[291]
+[293]
 Underfull \hbox (badness 10000) in paragraph at lines 178--180
 []$[]$
  []
@@ -3269,45 +3221,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--188
 
  []
 
-[292] [293] [294] [295] [296]
+[294] [295] [296] [297] [298]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[297] [298] [299] [300]
+[299] [300] [301] [302]
 Underfull \hbox (badness 10000) in paragraph at lines 774--776
 
  []
 
-[301] [302] [303]) [304] (./chapters/formulae/vectors/alg.tex) (./chapters/vect
+[303] [304] [305]) [306] (./chapters/formulae/vectors/alg.tex) (./chapters/vect
 ors/examples.tex (./figs/triangle/tri_alt_h.tex) (./figs/triangle/tri_med_isect
-.tex) [305]
+.tex) [307]
 Underfull \vbox (badness 5504) has occurred while \output is active []
 
-[306] (./figs/triangle/tri_med_meet.tex) [307] (./figs/circle/circ_tang.tex)
+[308] (./figs/triangle/tri_med_meet.tex) [309] (./figs/circle/circ_tang.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[308]
+[310]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[309]) (./JEE/alg.tex
+[311]) (./JEE/alg.tex
 Underfull \vbox (badness 2189) has occurred while \output is active []
 
-[310]) [311] (./GATE/matrix.tex (./GATE/2008/AE/main.tex) (./GATE/2009/EC/main.
+[312]) [313] (./GATE/matrix.tex (./GATE/2008/AE/main.tex) (./GATE/2009/EC/main.
 tex
-<GATE/2009/EC/figs/fig_6.jpg, id=9900, 2587.6675pt x 1153.30875pt>
+<GATE/2009/EC/figs/fig_6.jpg, id=10102, 2587.6675pt x 1153.30875pt>
 File: GATE/2009/EC/figs/fig_6.jpg Graphic file (type jpg)
 <use GATE/2009/EC/figs/fig_6.jpg>
 Package pdftex.def Info: GATE/2009/EC/figs/fig_6.jpg  used on input line 4.
 (pdftex.def)             Requested size: 254.9356pt x 113.61302pt.
-<GATE/2009/EC/figs/fig_11.jpg, id=9902, 2006.49625pt x 1311.90125pt>
+<GATE/2009/EC/figs/fig_11.jpg, id=10104, 2006.49625pt x 1311.90125pt>
 File: GATE/2009/EC/figs/fig_11.jpg Graphic file (type jpg)
 <use GATE/2009/EC/figs/fig_11.jpg>
 Package pdftex.def Info: GATE/2009/EC/figs/fig_11.jpg  used on input line 23.
 (pdftex.def)             Requested size: 254.9356pt x 166.66966pt.
-[312 <./GATE/2009/EC/figs/fig_6.jpg>]) (./GATE/2009/GG/main.tex) (./GATE/2009/P
-I/main.tex [313 <./GATE/2009/EC/figs/fig_11.jpg>]) (./GATE/2010/IN/main.tex) (.
-/GATE/2013/GG/main.tex [314]) (./GATE/2014/IN/main.tex) (./GATE/2017/PE/main.te
-x [315]) (./GATE/2018/IN/main.tex
-<GATE/2018/IN/figs/q32.png, id=10035, 396.48125pt x 302.12875pt>
+[314 <./GATE/2009/EC/figs/fig_6.jpg>]) (./GATE/2009/GG/main.tex) (./GATE/2009/P
+I/main.tex [315 <./GATE/2009/EC/figs/fig_11.jpg>]) (./GATE/2010/IN/main.tex) (.
+/GATE/2013/GG/main.tex [316]) (./GATE/2014/IN/main.tex) (./GATE/2017/PE/main.te
+x [317]) (./GATE/2018/IN/main.tex
+<GATE/2018/IN/figs/q32.png, id=10237, 396.48125pt x 302.12875pt>
 File: GATE/2018/IN/figs/q32.png Graphic file (type png)
 <use GATE/2018/IN/figs/q32.png>
 Package pdftex.def Info: GATE/2018/IN/figs/q32.png  used on input line 29.
@@ -3315,105 +3267,105 @@ Package pdftex.def Info: GATE/2018/IN/figs/q32.png  used on input line 29.
 
 Underfull \vbox (badness 1975) has occurred while \output is active []
 
-[316]) (./GATE/2018/PE/main.tex) (./GATE/2021/ST/main.tex (./tables/table2.tex 
-[317 <./GATE/2018/IN/figs/q32.png>])) (./GATE/2022/IN/main.tex
-<GATE/2022/IN/figs/q54.png, id=10098, 372.39125pt x 393.47pt>
+[318]) (./GATE/2018/PE/main.tex) (./GATE/2021/ST/main.tex (./tables/table2.tex 
+[319 <./GATE/2018/IN/figs/q32.png>])) (./GATE/2022/IN/main.tex
+<GATE/2022/IN/figs/q54.png, id=10300, 372.39125pt x 393.47pt>
 File: GATE/2022/IN/figs/q54.png Graphic file (type png)
 <use GATE/2022/IN/figs/q54.png>
 Package pdftex.def Info: GATE/2022/IN/figs/q54.png  used on input line 28.
 (pdftex.def)             Requested size: 254.9356pt x 269.37521pt.
-[318]) (./GATE/2022/PE/main.tex) (./GATE/2008/CE/main.tex [319 <./GATE/2022/IN/
+[320]) (./GATE/2022/PE/main.tex) (./GATE/2008/CE/main.tex [321 <./GATE/2022/IN/
 figs/q54.png>]) (./GATE/2009/MT/main.tex) (./GATE/2009/XE/main.tex) (./GATE/202
-1/ES/main.tex [320]) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex) (./GAT
-E/2021/PE/main.tex) (./GATE/2009/CE/main.tex [321]) (./GATE/2010/PH/main.tex) (
-./GATE/2014/PH/main.tex [322]) (./GATE/2017/GG/main.tex) (./GATE/2018/PH/main.t
-ex) (./GATE/2021/GG/main.tex [323]) (./GATE/2022/PH/main.tex) (./GATE/2022/ST/m
-ain.tex [324]) (./GATE/2009/CH/main.tex) (./GATE/2009/IN/main.tex [325]) (./GAT
+1/ES/main.tex [322]) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex) (./GAT
+E/2021/PE/main.tex) (./GATE/2009/CE/main.tex [323]) (./GATE/2010/PH/main.tex) (
+./GATE/2014/PH/main.tex [324]) (./GATE/2017/GG/main.tex) (./GATE/2018/PH/main.t
+ex) (./GATE/2021/GG/main.tex [325]) (./GATE/2022/PH/main.tex) (./GATE/2022/ST/m
+ain.tex [326]) (./GATE/2009/CH/main.tex) (./GATE/2009/IN/main.tex [327]) (./GAT
 E/2013/PI/main.tex) (./GATE/2017/PI/main.tex) (./GATE/2024/PI/main.tex) (./GATE
-/2024/ST/main.tex [326] [327]) (./GATE/2020/BT/main.tex) (./GATE/2020/PI/main.t
+/2024/ST/main.tex [328] [329]) (./GATE/2020/BT/main.tex) (./GATE/2020/PI/main.t
 ex
 Underfull \hbox (badness 2809) in paragraph at lines 19--23
 []\OT1/txr/m/n/10 The ver-tices of rect-an-gle $\OML/txmi/m/it/10 PQRS$ \OT1/tx
 r/m/n/10 are as fol-lows in a 2-D CAD sys-tem.
  []
 
-[328]) (./GATE/2020/CE/main.tex) (./GATE/2014/GG/main.tex [329]) (./GATE/2016/C
+[330]) (./GATE/2020/CE/main.tex) (./GATE/2014/GG/main.tex [331]) (./GATE/2016/C
 E/main.tex
-<GATE/2016/CE/figs/Q39.png, id=10490, 152.57pt x 152.57pt>
+<GATE/2016/CE/figs/Q39.png, id=10693, 152.57pt x 152.57pt>
 File: GATE/2016/CE/figs/Q39.png Graphic file (type png)
 <use GATE/2016/CE/figs/Q39.png>
 Package pdftex.def Info: GATE/2016/CE/figs/Q39.png  used on input line 25.
 (pdftex.def)             Requested size: 182.09764pt x 182.1053pt.
-) (./GATE/2007/AE/main.tex [330 <./GATE/2016/CE/figs/Q39.png>]) (./GATE/2007/CS
-/main.tex [331]
+) (./GATE/2007/AE/main.tex [332 <./GATE/2016/CE/figs/Q39.png>]) (./GATE/2007/CS
+/main.tex [333]
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
 ) (./GATE/2007/CY/main.tex) (./GATE/2007/EC/main.tex
-<GATE/2007/EC/figs/Q26.png, id=10557, 252.19218pt x 211.54031pt>
+<GATE/2007/EC/figs/Q26.png, id=10758, 252.19218pt x 211.54031pt>
 File: GATE/2007/EC/figs/Q26.png Graphic file (type png)
 <use GATE/2007/EC/figs/Q26.png>
 Package pdftex.def Info: GATE/2007/EC/figs/Q26.png  used on input line 16.
 (pdftex.def)             Requested size: 254.9356pt x 213.84445pt.
-[332 <./GATE/2007/EC/figs/Q26.png>]) (./GATE/2007/EE/main.tex [333] [334]) (./G
-ATE/2007/IN/main.tex) (./GATE/2007/MA/main.tex [335] [336]
+[334 <./GATE/2007/EC/figs/Q26.png>]) (./GATE/2007/EE/main.tex [335] [336]) (./G
+ATE/2007/IN/main.tex) (./GATE/2007/MA/main.tex [337] [338]
 Overfull \hbox (8.15138pt too wide) in paragraph at lines 84--85
 []$[]$ 
  []
 
-[337]) (./GATE/2007/ME/main.tex) (./GATE/2007/MN/main.tex [338]) (./GATE/2007/G
-G/main.tex) (./GATE/2007/MT/main.tex) (./GATE/2007/PH/main.tex [339]) (./GATE/2
-007/PI/main.tex [340]) (./GATE/2007/XE/main.tex [341] [342]) (./GATE/2008/AG/ma
-in.tex) (./GATE/2008/CS/main.tex) (./GATE/2008/EC/main.tex [343]
-<GATE/2008/EC/figs/q40.png, id=10926, 821.0675pt x 397.485pt>
+[339]) (./GATE/2007/ME/main.tex) (./GATE/2007/MN/main.tex [340]) (./GATE/2007/G
+G/main.tex) (./GATE/2007/MT/main.tex) (./GATE/2007/PH/main.tex [341]) (./GATE/2
+007/PI/main.tex [342]) (./GATE/2007/XE/main.tex [343] [344]) (./GATE/2008/AG/ma
+in.tex) (./GATE/2008/CS/main.tex) (./GATE/2008/EC/main.tex [345]
+<GATE/2008/EC/figs/q40.png, id=11128, 821.0675pt x 397.485pt>
 File: GATE/2008/EC/figs/q40.png Graphic file (type png)
 <use GATE/2008/EC/figs/q40.png>
 Package pdftex.def Info: GATE/2008/EC/figs/q40.png  used on input line 51.
 (pdftex.def)             Requested size: 182.09764pt x 88.15051pt.
-) (./GATE/2008/EE/main.tex [344 <./GATE/2008/EC/figs/q40.png>]) (./GATE/2008/GG
-/main.tex [345]) (./GATE/2008/IN/main.tex) (./GATE/2008/MA/main.tex [346] [347]
-) (./GATE/2008/ME/main.tex [348]) (./GATE/2008/MT/main.tex) (./GATE/2008/PH/mai
-n.tex [349]) (./GATE/2008/PI/main.tex [350]) (./GATE/2008/XE/main.tex [351] [35
-2]) (./GATE/2009/EE/main.tex) (./GATE/2009/MA/main.tex [353]) (./GATE/2009/PH/m
-ain.tex) (./GATE/2010/AG/main.tex) (./GATE/2010/CE/main.tex [354]) (./GATE/2010
+) (./GATE/2008/EE/main.tex [346 <./GATE/2008/EC/figs/q40.png>]) (./GATE/2008/GG
+/main.tex [347]) (./GATE/2008/IN/main.tex) (./GATE/2008/MA/main.tex [348] [349]
+) (./GATE/2008/ME/main.tex [350]) (./GATE/2008/MT/main.tex) (./GATE/2008/PH/mai
+n.tex [351]) (./GATE/2008/PI/main.tex [352]) (./GATE/2008/XE/main.tex [353] [35
+4]) (./GATE/2009/EE/main.tex) (./GATE/2009/MA/main.tex [355]) (./GATE/2009/PH/m
+ain.tex) (./GATE/2010/AG/main.tex) (./GATE/2010/CE/main.tex [356]) (./GATE/2010
 /CH/main.tex) (./GATE/2010/ME/main.tex) (./GATE/2010/MN/main.tex) (./GATE/2010/
-XE/main.tex [355]) (./GATE/2011/AE/main.tex) (./GATE/2011/AG/main.tex) (./GATE/
-2011/BT/main.tex) (./GATE/2011/CS/main.tex [356]) (./GATE/2011/EE/main.tex) (./
-GATE/2011/GG/main.tex) (./GATE/2011/MA/main.tex [357] [358]) (./GATE/2011/ME/ma
-in.tex [359]) (./GATE/2011/MN/main.tex) (./GATE/2011/PH/main.tex) (./GATE/2011/
-PI/main.tex [360]) (./GATE/2011/XE/main.tex
+XE/main.tex [357]) (./GATE/2011/AE/main.tex) (./GATE/2011/AG/main.tex) (./GATE/
+2011/BT/main.tex) (./GATE/2011/CS/main.tex [358]) (./GATE/2011/EE/main.tex) (./
+GATE/2011/GG/main.tex) (./GATE/2011/MA/main.tex [359] [360]) (./GATE/2011/ME/ma
+in.tex [361]) (./GATE/2011/MN/main.tex) (./GATE/2011/PH/main.tex) (./GATE/2011/
+PI/main.tex [362]) (./GATE/2011/XE/main.tex
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-)) (./GATE/2012/AE/main.tex) (./GATE/2012/CE/main.tex [361]
-<GATE/2012/CE/figs/Q29.png, id=11521, 249.93375pt x 129.48375pt>
+)) (./GATE/2012/AE/main.tex) (./GATE/2012/CE/main.tex [363]
+<GATE/2012/CE/figs/Q29.png, id=11723, 249.93375pt x 129.48375pt>
 File: GATE/2012/CE/figs/Q29.png Graphic file (type png)
 <use GATE/2012/CE/figs/Q29.png>
 Package pdftex.def Info: GATE/2012/CE/figs/Q29.png  used on input line 17.
 (pdftex.def)             Requested size: 109.25969pt x 56.60355pt.
 ) (./GATE/2012/EC/main.tex) (./GATE/2012/MT/main.tex) (./GATE/2012/MA/main.tex 
-[362 <./GATE/2012/CE/figs/Q29.png>] [363] [364]) (./GATE/2012/PH/main.tex) (./G
+[364 <./GATE/2012/CE/figs/Q29.png>] [365] [366]) (./GATE/2012/PH/main.tex) (./G
 ATE/2012/PI/main.tex
-<GATE/2012/PI/figs/39-GATE-PI-2012.png, id=11619, 345.54094pt x 201.00093pt>
+<GATE/2012/PI/figs/39-GATE-PI-2012.png, id=11821, 345.54094pt x 201.00093pt>
 File: GATE/2012/PI/figs/39-GATE-PI-2012.png Graphic file (type png)
 <use GATE/2012/PI/figs/39-GATE-PI-2012.png>
 Package pdftex.def Info: GATE/2012/PI/figs/39-GATE-PI-2012.png  used on input l
 ine 50.
 (pdftex.def)             Requested size: 127.47057pt x 74.14835pt.
-[365]) (./GATE/2012/XE/main.tex) (./GATE/2013/AG/main.tex [366 <./GATE/2012/PI/
+[367]) (./GATE/2012/XE/main.tex) (./GATE/2013/AG/main.tex [368 <./GATE/2012/PI/
 figs/39-GATE-PI-2012.png>]) (./GATE/2013/BT/main.tex) (./GATE/2013/CE/main.tex)
-(./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex [367]
-<GATE/2013/EC/figs/fig_23.png, id=11726, 527.9725pt x 128.48pt>
+(./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex [369]
+<GATE/2013/EC/figs/fig_23.png, id=11927, 527.9725pt x 128.48pt>
 File: GATE/2013/EC/figs/fig_23.png Graphic file (type png)
 <use GATE/2013/EC/figs/fig_23.png>
 Package pdftex.def Info: GATE/2013/EC/figs/fig_23.png  used on input line 53.
 (pdftex.def)             Requested size: 182.09764pt x 44.31192pt.
-) (./GATE/2013/IN/main.tex [368 <./GATE/2013/EC/figs/fig_23.png>]) (./GATE/2013
-/MA/main.tex [369]) (./GATE/2010/PI/main.tex) (./GATE/2024/ES/main.tex [370]) (
+) (./GATE/2013/IN/main.tex [370 <./GATE/2013/EC/figs/fig_23.png>]) (./GATE/2013
+/MA/main.tex [371]) (./GATE/2010/PI/main.tex) (./GATE/2024/ES/main.tex [372]) (
 ./GATE/2024/PE/main.tex
-<GATE/2024/PE/figs/LQ_53.png, id=11810, 418.56375pt x 280.04625pt>
+<GATE/2024/PE/figs/LQ_53.png, id=12011, 418.56375pt x 280.04625pt>
 File: GATE/2024/PE/figs/LQ_53.png Graphic file (type png)
 <use GATE/2024/PE/figs/LQ_53.png>
 Package pdftex.def Info: GATE/2024/PE/figs/LQ_53.png  used on input line 21.
@@ -3426,14 +3378,14 @@ Overfull \hbox (7.8859pt too wide) in paragraph at lines 41--46
 ) (./GATE/2013/ME/main.tex
 Underfull \vbox (badness 2635) has occurred while \output is active []
 
-[371 <./GATE/2024/PE/figs/LQ_53.png>]) (./GATE/2013/MT/main.tex) (./GATE/2013/X
-E/main.tex [372]) (./GATE/2014/AE/main.tex) (./GATE/2014/CE/main.tex) (./GATE/2
-014/EY/main.tex [373]) (./GATE/2014/MA/main.tex) (./GATE/2014/ME/main.tex [374]
-) (./GATE/2014/PI/main.tex [375]) (./GATE/2014/XE/main.tex) (./GATE/2007/CE/mai
-n.tex [376]) (./GATE/2007/GE/main.tex) (./GATE/2008/CH/main.tex) (./GATE/2009/C
-H/main.tex [377]) (./GATE/2009/AG/main.tex) (./GATE/2010/AE/main.tex) (./GATE/2
-010/MA/main.tex [378]) (./GATE/2011/CE/main.tex) (./GATE/2011/IN/main.tex) (./G
-ATE/2012/AG/main.tex [379]) (./GATE/2012/CH/main.tex
+[373 <./GATE/2024/PE/figs/LQ_53.png>]) (./GATE/2013/MT/main.tex) (./GATE/2013/X
+E/main.tex [374]) (./GATE/2014/AE/main.tex) (./GATE/2014/CE/main.tex) (./GATE/2
+014/EY/main.tex [375]) (./GATE/2014/MA/main.tex) (./GATE/2014/ME/main.tex [376]
+) (./GATE/2014/PI/main.tex [377]) (./GATE/2014/XE/main.tex) (./GATE/2007/CE/mai
+n.tex [378]) (./GATE/2007/GE/main.tex) (./GATE/2008/CH/main.tex) (./GATE/2009/C
+H/main.tex [379]) (./GATE/2009/AG/main.tex) (./GATE/2010/AE/main.tex) (./GATE/2
+010/MA/main.tex [380]) (./GATE/2011/CE/main.tex) (./GATE/2011/IN/main.tex) (./G
+ATE/2012/AG/main.tex [381]) (./GATE/2012/CH/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
@@ -3443,171 +3395,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 Package multicol Warning: Using `1' columns doesn't seem a good idea.
  I therefore use two columns instead on input line 4.
 
-[380]) (./GATE/2012/ME/main.tex) (./GATE/2012/MN/main.tex [381]) (./GATE/2013/A
-E/main.tex) (./GATE/2013/EE/main.tex [382]) (./GATE/2013/PH/main.tex) (./GATE/2
-013/BT/main.tex [383]) (./GATE/2014/AG/main.tex) (./GATE/2014/MN/main.tex
-<GATE/2014/MN/figs/diagram.png, id=12227, 129.48375pt x 90.93974pt>
+[382]) (./GATE/2012/ME/main.tex) (./GATE/2012/MN/main.tex [383]) (./GATE/2013/A
+E/main.tex) (./GATE/2013/EE/main.tex [384]) (./GATE/2013/PH/main.tex) (./GATE/2
+013/BT/main.tex [385]) (./GATE/2014/AG/main.tex) (./GATE/2014/MN/main.tex
+<GATE/2014/MN/figs/diagram.png, id=12429, 129.48375pt x 90.93974pt>
 File: GATE/2014/MN/figs/diagram.png Graphic file (type png)
 <use GATE/2014/MN/figs/diagram.png>
 Package pdftex.def Info: GATE/2014/MN/figs/diagram.png  used on input line 5.
 (pdftex.def)             Requested size: 145.67589pt x 102.32219pt.
-) (./GATE/2015/AE/main.tex [384 <./GATE/2014/MN/figs/diagram.png>]) (./GATE/201
-5/AG/main.tex) (./GATE/2015/BT/main.tex) (./GATE/2015/CH/main.tex [385]) (./GAT
+) (./GATE/2015/AE/main.tex [386 <./GATE/2014/MN/figs/diagram.png>]) (./GATE/201
+5/AG/main.tex) (./GATE/2015/BT/main.tex) (./GATE/2015/CH/main.tex [387]) (./GAT
 E/2015/EE/main.tex) (./GATE/2015/EY/main.tex) (./GATE/2015/GG/main.tex) (./GATE
-/2015/IN/main.tex [386]) (./GATE/2015/MA/main.tex [387]) (./GATE/2015/ME/main.t
+/2015/IN/main.tex [388]) (./GATE/2015/MA/main.tex [389]) (./GATE/2015/ME/main.t
 ex) (./GATE/2015/MN/main.tex) (./GATE/2015/PI/main.tex) (./GATE/2015/XE/main.te
-x [388]) (./GATE/2016/AE/main.tex) (./GATE/2016/AG/main.tex) (./GATE/2016/BT/ma
-in.tex) (./GATE/2016/CH/main.tex [389]) (./GATE/2016/EC/main.tex) (./GATE/2016/
-EE/main.tex [390]) (./GATE/2016/GG/main.tex [391]) (./GATE/2016/IN/main.tex
-<GATE/2016/IN/figs/z4.jpg, id=12489, 131.2905pt x 70.46326pt>
+x [390]) (./GATE/2016/AE/main.tex) (./GATE/2016/AG/main.tex) (./GATE/2016/BT/ma
+in.tex) (./GATE/2016/CH/main.tex [391]) (./GATE/2016/EC/main.tex) (./GATE/2016/
+EE/main.tex [392]) (./GATE/2016/GG/main.tex [393]) (./GATE/2016/IN/main.tex
+<GATE/2016/IN/figs/z4.jpg, id=12691, 131.2905pt x 70.46326pt>
 File: GATE/2016/IN/figs/z4.jpg Graphic file (type jpg)
 <use GATE/2016/IN/figs/z4.jpg>
 Package pdftex.def Info: GATE/2016/IN/figs/z4.jpg  used on input line 28.
 (pdftex.def)             Requested size: 182.09764pt x 97.73718pt.
-) (./GATE/2016/MA/main.tex [392 <./GATE/2016/IN/figs/z4.jpg>]) (./GATE/2016/ME/
-main.tex [393]
+) (./GATE/2016/MA/main.tex [394 <./GATE/2016/IN/figs/z4.jpg>]) (./GATE/2016/ME/
+main.tex [395]
+<GATE/2016/ME/figs/q6.png, id=12752, 529.98pt x 624.3325pt>
+File: GATE/2016/ME/figs/q6.png Graphic file (type png)
+<use GATE/2016/ME/figs/q6.png>
+Package pdftex.def Info: GATE/2016/ME/figs/q6.png  used on input line 20.
+(pdftex.def)             Requested size: 158.99521pt x 187.3012pt.
+<GATE/2016/ME/figs/q30.png, id=12753, 654.445pt x 518.93875pt>
+File: GATE/2016/ME/figs/q30.png Graphic file (type png)
+<use GATE/2016/ME/figs/q30.png>
+Package pdftex.def Info: GATE/2016/ME/figs/q30.png  used on input line 38.
+(pdftex.def)             Requested size: 196.335pt x 155.68282pt.
 
-! LaTeX Error: File `GATE/2016/ME/q6' not found.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...ncludegraphics[scale=0.3]{GATE/2016/ME/q6}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.30 ...ue of $x_2$ after the first iteration is _
-                                                  \rule{1cm}{0.01pt}.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing { inserted.
-<to be read again> 
-                   \let 
-l.30 ... $x_2$ after the first iteration is _\rule
-                                                  {1cm}{0.01pt}.
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32     \item
-               A block of mass $m$ rests on an inclined plane and is attache...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32     \item A
-                 block of mass $m$ rests on an inclined plane and is attache...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32     \item A
-                 block of mass $m$ rests on an inclined plane and is attache...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.32     \item A block of mass $
-                                m$ rests on an inclined plane and is attache...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.33           Take $\cos
-                          \theta = 0.8$ and $\sin \theta = 0.6$.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: File `GATE/2016/ME/q30' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 ...cludegraphics[scale=0.3]{GATE/2016/ME/q30}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (1059.48303pt too wide) in paragraph at lines 29--41
-[]$\OT1/txr/m/n/10 m$\OML/txmi/m/it/10 restsonaninclinedplaneandisattachedbyast
-ringtothewallasshowninthefigure:Thecoefficientofstaticfrictionbetweentheplanean
-dtheblockis\OT1/txr/m/n/10 0\OML/txmi/m/it/10 :\OT1/txr/m/n/10 25\OML/txmi/m/it
-/10 :Thestringcanwithstandamaximumforceof\OT1/txr/m/n/10 20\OML/txmi/m/it/10 N:
-Themaximumvalueofthemass\OT1/txr/m/n/10 (\OML/txmi/m/it/10 m\OT1/txr/m/n/10 )\O
-ML/txmi/m/it/10 forwhichthestringwillnotbreakandtheblockwillbeinstaticequilibri
-umis[]kg:Take$$[] ^^R \OT1/txr/m/n/10 =
- []
-
-)) [394] (./chapters/triangle/vector.tex
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 395 undefined on input
- line 49.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 395 undefined on input
- line 60.
-
-[395]
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 396 undefined on input
- line 70.
-
-
-LaTeX Warning: Reference `eq:app-tri-pts' on page 396 undefined on input line 8
-8.
-
-
-LaTeX Warning: Reference `eq:app-tri-pts' on page 396 undefined on input line 9
-3.
-
-
-LaTeX Warning: Reference `fig1:Triangle' on page 396 undefined on input line 14
-4.
-
-<figs/triangle/vector.pdf, id=12598, 462.52798pt x 346.89601pt>
+[396 <./GATE/2016/ME/figs/q6.png>])) [397 <./GATE/2016/ME/figs/q30.png>] (./cha
+pters/triangle/vector.tex [398]
+<figs/triangle/vector.pdf, id=12813, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -3615,185 +3441,32 @@ Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[396]
-
-LaTeX Warning: Reference `eq:app-geo-param' on page 397 undefined on input line
- 166.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 397 undefined on input
- line 167.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 397 undefined on input
- line 173.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 397 undefined on input
- line 174.
-
-
+[399]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[397 <./figs/triangle/vector.pdf>]
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 398 undefined on input
- line 199.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-vec' on page 398 undefined on input l
-ine 211.
-
-
-LaTeX Warning: Reference `eq:app-geo-normal' on page 398 undefined on input lin
-e 213.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 398 undefined on input
- line 224.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 398 undefined on input
- line 244.
-
-
+[400 <./figs/triangle/vector.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[398]
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 399 undefined on input
- line 273.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 399 undefined on input
- line 275.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 399 undefined on input
- line 296.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 399 undefined on input
- line 297.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-ab' on page 399 undefined on input li
-ne 298.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-ca' on page 399 undefined on input li
-ne 300.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 399 undefined on input
- line 311.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 399 undefined on input
- line 312.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-ab' on page 399 undefined on input li
-ne 313.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-bc' on page 399 undefined on input li
-ne 315.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 399 undefined on input
- line 326.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 399 undefined on input
- line 327.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-bc' on page 399 undefined on input li
-ne 328.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-ca' on page 399 undefined on input li
-ne 330.
-
-
+[401]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[399]) (./chapters/formulae/line.tex
-
-LaTeX Warning: Reference `eq:app-line-school' on page 400 undefined on input li
-ne 12.
-
-[400]) (./chapters/triangle/median.tex (./solutions/1/2/1/main.tex
+[402]) (./chapters/formulae/line.tex [403]) (./chapters/triangle/median.tex (./
+solutions/1/2/1/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[401]) (./solutions/1/2/2/main.tex
+[404]) (./solutions/1/2/2/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--3
 
  []
 
 ) (./solutions/1/2/3/main.tex
-
-LaTeX Warning: Reference `eq:median-be' on page 402 undefined on input line 3.
-
-
-LaTeX Warning: Reference `eq:median-cf' on page 402 undefined on input line 5.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[402]
-
-LaTeX Warning: Reference `eq:1.2.3,8' on page 403 undefined on input line 17.
-
-
-LaTeX Warning: Reference `eq:1.2.3,9' on page 403 undefined on input line 17.
-
-) (./solutions/1/2/4_1/main.tex
-
-LaTeX Warning: Reference `eq:median-e' on page 403 undefined on input line 4.
-
-
-LaTeX Warning: Reference `eq:median-g' on page 403 undefined on input line 6.
-
-
-LaTeX Warning: Reference `eq:median-f' on page 403 undefined on input line 17.
-
-
-LaTeX Warning: Reference `eq:median-g' on page 403 undefined on input line 19.
-
-
-LaTeX Warning: Reference `eq:median-d' on page 403 undefined on input line 31.
-
-
-LaTeX Warning: Reference `eq:median-g' on page 403 undefined on input line 33.
-
-
+[405]) (./solutions/1/2/4_1/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[403]
-
-LaTeX Warning: Reference `eq:tri-pts/8' on page 404 undefined on input line 47.
-
-
-
-LaTeX Warning: Reference `eq:tri-pts/9' on page 404 undefined on input line 47.
-
-
-
-LaTeX Warning: Reference `eq:tri-pts/18' on page 404 undefined on input line 47
-.
-
-) (./solutions/1/2/5/main.tex
-
-LaTeX Warning: Reference `eq:mat_row_operations' on page 404 undefined on input
- line 45.
-
-
-LaTeX Warning: Reference `fig:Triangle-median' on page 404 undefined on input l
-ine 48.
-
-<figs/triangle/median.pdf, id=12799, 462.52798pt x 346.89601pt>
+[406]) (./solutions/1/2/5/main.tex
+<figs/triangle/median.pdf, id=13050, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -3806,145 +3479,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--2
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[404]
-
-LaTeX Warning: Reference `fig:Triangle-pgm' on page 405 undefined on input line
- 11.
-
-<figs/triangle/pgm.pdf, id=12819, 462.52798pt x 346.89601pt>
+[407]
+<figs/triangle/pgm.pdf, id=13072, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./chapters/triangle/altitude.tex (./solutions/1/3/1/main.tex
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 405 undefined on input
- line 5.
-
-) (./solutions/1/3/2/Q1.3.2.tex [405 <./figs/triangle/median.pdf>]) (./solution
-s/1/3/3/main.tex
+)) (./chapters/triangle/altitude.tex (./solutions/1/3/1/main.tex) (./solutions/
+1/3/2/Q1.3.2.tex [408 <./figs/triangle/median.pdf>]) (./solutions/1/3/3/main.te
+x
 Underfull \hbox (badness 10000) in paragraph at lines 15--3
 
  []
 
 
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 406 undefined on input
- line 5.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 406 undefined on input
- line 20.
-
-
 Underfull \vbox (badness 6893) has occurred while \output is active []
 
-[406 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
-
-LaTeX Warning: Reference `eq:app-geo-alt-be' on page 407 undefined on input lin
-e 4.
-
-
-LaTeX Warning: Reference `eq:app-geo-alt-cf' on page 407 undefined on input lin
-e 6.
-
-
+[409 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--10
 
  []
 
 
-LaTeX Warning: Reference `fig:m_tri_py' on page 407 undefined on input line 34.
+Underfull \hbox (badness 1371) in paragraph at lines 17--10
+\OT1/txr/bx/n/10 Solution: \OT1/txr/m/n/10 The in-ter-sec-tion of [] and [], is
+ ob-tained from the
+ []
 
-
-<figs/triangle/altitude.pdf, id=12910, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=13168, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
+Underfull \vbox (badness 1127) has occurred while \output is active []
+
+[410 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex)) (./chapte
+rs/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex [411]) (./solutions/1
+/4/2/main.tex) (./solutions/1/4/3/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[407 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex
-
-LaTeX Warning: Reference `eq:app-geo-alt-H' on page 408 undefined on input line
- 3.
-
-)
-
-LaTeX Warning: Reference `eq:app-geo-param-app' on page 408 undefined on input 
-line 38.
-
-
-LaTeX Warning: Reference `eq:app-geo-param-app-PQ' on page 408 undefined on inp
-ut line 52.
-
-
-LaTeX Warning: Reference `eq:app-BC-alt' on page 408 undefined on input line 71
-.
-
-
-LaTeX Warning: Reference `eq:app-AD1-alt' on page 408 undefined on input line 7
-3.
-
-) (./chapters/triangle/perp-bisect.tex (./solutions/1/4/1/q1.4.1.tex
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ab' on page 408 undefined on input
- line 3.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-bc' on page 408 undefined on input
- line 4.
-
-
-LaTeX Warning: Reference `eq:app-geo-dir-vec-ca' on page 408 undefined on input
- line 5.
-
-
-LaTeX Warning: Reference `eq:median-d' on page 408 undefined on input line 6.
-
-
-LaTeX Warning: Reference `eq:median-e' on page 408 undefined on input line 7.
-
-
-LaTeX Warning: Reference `eq:median-f' on page 408 undefined on input line 9.
-
-[408]
-
-LaTeX Warning: Reference `eq:tri-perp-bisect' on page 409 undefined on input li
-ne 34.
-
-) (./solutions/1/4/2/main.tex
-
-LaTeX Warning: Reference `eq:app-tri-perp-bisect-ca' on page 409 undefined on i
-nput line 3.
-
-
-LaTeX Warning: Reference `eq:app-tri-perp-bisect-ab' on page 409 undefined on i
-nput line 5.
-
-)
-
-LaTeX Warning: Reference `eq:tri-perp-bisect' on page 409 undefined on input li
-ne 15.
-
-(./solutions/1/4/3/main.tex
-
-LaTeX Warning: Reference `eq:app-tri-perp-bisect-O' on page 409 undefined on in
-put line 3.
-
-
-LaTeX Warning: Reference `eq:tri-perp-bisect' on page 409 undefined on input li
-ne 4.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[409]) (./solutions/1/4/5/assignment2.tex
-
-LaTeX Warning: Reference `fig:circumcircle with centre O' on page 410 undefined
- on input line 3.
-
-<figs/triangle/perp-bisect.pdf, id=13000, 462.52798pt x 346.89601pt>
+[412]) (./solutions/1/4/5/assignment2.tex
+<figs/triangle/perp-bisect.pdf, id=13274, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -3952,886 +3528,76 @@ Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
 ) (./solutions/1/4/6/Q_1.4.6.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[410 <./figs/triangle/perp-bisect.pdf>]
-
-LaTeX Warning: Reference `eq:2' on page 411 undefined on input line 41.
-
-
-LaTeX Warning: Reference `eq:1' on page 411 undefined on input line 41.
-
-) [411]) (./chapters/triangle/angle-bisect.tex
-
-LaTeX Warning: Reference `prob:side-length' on page 412 undefined on input line
- 9.
-
-(./solutions/1/5/11/main.tex
+[413 <./figs/triangle/perp-bisect.pdf>]) [414]) (./chapters/triangle/angle-bise
+ct.tex (./solutions/1/5/11/main.tex
 Underfull \vbox (badness 1648) has occurred while \output is active []
 
-[412]
-
-LaTeX Warning: Reference `eq:app-geo-norm-ab' on page 413 undefined on input li
-ne 50.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-bc' on page 413 undefined on input li
-ne 51.
-
-
-LaTeX Warning: Reference `eq:app-geo-norm-ca' on page 413 undefined on input li
-ne 53.
-
-) (./solutions/1/5/4/main.tex
-
-LaTeX Warning: Reference `fig:incircle' on page 413 undefined on input line 3.
-
-<figs/triangle/ang-bisect.pdf, id=13093, 462.52798pt x 346.89601pt>
+[415]) (./solutions/1/5/4/main.tex
+<figs/triangle/ang-bisect.pdf, id=13374, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)
-
-LaTeX Warning: Reference `eq:app-angle2d' on page 413 undefined on input line 2
-3.
-
-[413 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex
+) [416 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex
 Underfull \vbox (badness 1796) has occurred while \output is active []
 
-[414]
+[417]) (./chapters/formulae/circle/tangent.tex
+Underfull \vbox (badness 4582) has occurred while \output is active []
 
-LaTeX Warning: Reference `eq:h-tangents-cond-mPlam' on page 415 undefined on in
-put line 80.
+[418]) (./chapters/triangle/matrix.tex
+Underfull \vbox (badness 1107) has occurred while \output is active []
 
-) (./chapters/formulae/circle/tangent.tex
-
-LaTeX Warning: Reference `eq:conic_quad_form-params' on page 415 undefined on i
-nput line 14.
-
-
-LaTeX Warning: Reference `fig:incircle' on page 415 undefined on input line 15.
-
-
-
-LaTeX Warning: Reference `eq:line_dir_pt-lam' on page 415 undefined on input li
-ne 17.
-
-
-LaTeX Warning: Reference `eq:line_dir_pt-lam' on page 415 undefined on input li
-ne 19.
-
-
-LaTeX Warning: Reference `eq:incircle-quad' on page 415 undefined on input line
- 32.
-
-
-LaTeX Warning: Reference `eq:line_dir_pt-lam-mu' on page 415 undefined on input
- line 38.
-
-
-LaTeX Warning: Reference `eq:incircle-disc' on page 415 undefined on input line
- 41.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-Sigma-new' on page 415 undefined on 
-input line 50.
-
-
-LaTeX Warning: Reference `eq:conic_parmas_eig_def' on page 415 undefined on inp
-ut line 51.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-Sigma-new' on page 415 undefined on 
-input line 52.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-v' on page 415 undefined on input li
-ne 65.
-
-
-Underfull \vbox (badness 4569) has occurred while \output is active []
-
-[415]
-
-LaTeX Warning: Reference `eq:incircle-disc-v-lam' on page 416 undefined on inpu
-t line 76.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-v-lam-P' on page 416 undefined on in
-put line 78.
-
-
-LaTeX Warning: Reference `eq:h-tangents-cond-mPlam' on page 416 undefined on in
-put line 80.
-
-) (./chapters/triangle/matrix.tex
-Underfull \vbox (badness 1102) has occurred while \output is active []
-
-[416]) [417] (./chapters/formulae/conics/app.tex
-
-LaTeX Warning: Reference `conics/30/def' on page 418 undefined on input line 39
-.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 418 undefined on inpu
-t line 51.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 418 undefined on inpu
-t line 53.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[418]
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_v' on page 419 undefined on in
-put line 75.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_e_cayley' on page 419 undefine
-d on input line 98.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_lam_cayley' on page 419 undefi
-ned on input line 112.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 419 undefined on inpu
-t line 112.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_e' on page 419 undefined on in
-put line 113.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_v' on page 419 undefined on in
-put line 115.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_lam_cayley' on page 419 undefi
-ned on input line 125.
-
-
-LaTeX Warning: Reference `eq:eigevecP' on page 419 undefined on input line 126.
-
-
-
-LaTeX Warning: Reference `eq:eigevecn' on page 419 undefined on input line 126.
-
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[419]
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_lam_cayley' on page 420 undefi
-ned on input line 133.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_u' on page 420 undefined on in
-put line 134.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_lam_cayley' on page 420 undefi
-ned on input line 134.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_f' on page 420 undefined on in
-put line 143.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_u_temp' on page 420 undefined 
-on input line 148.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_f_temp' on page 420 undefined 
-on input line 148.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_F' on page 420 undefined on in
-put line 157.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 420 undefined on inpu
-t line 159.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_e' on page 420 undefined on in
-put line 166.
-
-
-LaTeX Warning: Reference `table:det' on page 420 undefined on input line 174.
-
-(./tables/det.tex)
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 420 undefined on inpu
-t line 186.
-
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
-[420]
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 421 undefined on inpu
-t line 213.
-
-
-LaTeX Warning: Reference `eq:conic_simp_one' on page 421 undefined on input lin
-e 225.
-
-
-LaTeX Warning: Reference `eq:conic_parmas_eig_def' on page 421 undefined on inp
-ut line 225.
-
-
-LaTeX Warning: Reference `eq:conic_parmas_c_def' on page 421 undefined on input
- line 240.
-
-
-LaTeX Warning: Reference `eq:conic_simp' on page 421 undefined on input line 24
-1.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 421 undefine
-d on input line 242.
-
-
-LaTeX Warning: Reference `eq:conic_simp' on page 421 undefined on input line 25
-1.
-
-
-LaTeX Warning: Reference `eq:conic_parab_eig_prop' on page 421 undefined on inp
-ut line 268.
-
-
-LaTeX Warning: Reference `eq:conic_parab_foc_len_temp' on page 421 undefined on
- input line 276.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_parab' on page 421 undefined o
-n input line 277.
-
-
-LaTeX Warning: Reference `eq:conic_simp' on page 421 undefined on input line 29
-5.
-
-
+[419]) [420] (./chapters/formulae/conics/app.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [421]
-
-LaTeX Warning: Reference `eq:conic_parab_one' on page 422 undefined on input li
-ne 317.
-
-
-LaTeX Warning: Reference `eq:conic_parab_two' on page 422 undefined on input li
-ne 322.
-
-
-LaTeX Warning: Reference `eq:conic_parab_one_eig' on page 422 undefined on inpu
-t line 328.
-
-
-LaTeX Warning: Reference `eq:conic_parab_two_eig' on page 422 undefined on inpu
-t line 328.
-
-
-LaTeX Warning: Reference `eq:conic_parab_c' on page 422 undefined on input line
- 328.
-
-
-LaTeX Warning: Reference `eq:app-conic_nonparab_c' on page 422 undefined on inp
-ut line 336.
-
-
-LaTeX Warning: Reference `eq:conic_parab_c' on page 422 undefined on input line
- 338.
-
-
-LaTeX Warning: Reference `app:parab' on page 422 undefined on input line 339.
-
-
-LaTeX Warning: Reference `eq:app-F-ell-hyp-parab' on page 422 undefined on inpu
-t line 379.
-
-
-LaTeX Warning: Reference `eq:n-parab' on page 422 undefined on input line 391.
-
-
-LaTeX Warning: Reference `eq:app-F-ell-hyp-parab' on page 422 undefined on inpu
-t line 392.
-
-[422]
-
-LaTeX Warning: Reference `eq:axis-std-parab' on page 423 undefined on input lin
-e 411.
-
-
-LaTeX Warning: Reference `eq:axis-std-parab-dir' on page 423 undefined on input
- line 416.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_parab' on page 423 undefined o
-n input line 417.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 423 undefine
-d on input line 457.
-
-
-LaTeX Warning: Reference `eq:app-std-prm-P' on page 423 undefined on input line
- 458.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_nc' on page 423 undefined on i
-nput line 459.
-
-
-LaTeX Warning: Reference `eq:std-prm-u' on page 423 undefined on input line 461
-.
-
-
-LaTeX Warning: Reference `eq:app-dx-ell-hyp' on page 423 undefined on input lin
-e 476.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_e' on page 423 undefined on in
-put line 477.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_parab' on page 423 undefined o
-n input line 478.
-
-
-LaTeX Warning: Reference `eq:app-std-prm-P' on page 423 undefined on input line
- 479.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_nc' on page 423 undefined on i
-nput line 480.
-
-
-LaTeX Warning: Reference `eq:std-prm-u' on page 423 undefined on input line 482
-.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[422] (./tables/det.tex)
+Underfull \vbox (badness 1292) has occurred while \output is active []
 
 [423]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `eq:app-dx-parab' on page 424 undefined on input line 
-496.
+[424] [425]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Reference `eq:c-ell-hyp' on page 424 undefined on input line 499
-.
-
-
-LaTeX Warning: Reference `eq:n-ell-hyp' on page 424 undefined on input line 500
-.
-
-
-LaTeX Warning: Reference `eq:std-prm-u' on page 424 undefined on input line 501
-.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_e' on page 424 undefined on in
-put line 502.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_F' on page 424 undefined on in
-put line 503.
-
-
-LaTeX Warning: Reference `eq:app-F-ell-hyp-parab' on page 424 undefined on inpu
-t line 510.
-
-
-LaTeX Warning: Reference `eq:c-parab' on page 424 undefined on input line 513.
-
-
-LaTeX Warning: Reference `eq:n-parab' on page 424 undefined on input line 514.
-
-
-LaTeX Warning: Reference `eq:std-prm-u' on page 424 undefined on input line 515
-.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_e' on page 424 undefined on in
-put line 516.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form_F' on page 424 undefined on in
-put line 517.
-
-
-LaTeX Warning: Reference `eq:app-F-ell-hyp-parab' on page 424 undefined on inpu
-t line 523.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 424 undefined on inpu
-t line 541.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent' on page 424 undefined on input 
-line 573.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 424 undefined on inpu
-t line 574.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 424 undefined on inpu
-t line 587.
-
-
-LaTeX Warning: Reference `eq:conic_intercept' on page 424 undefined on input li
-ne 588.
-
-
-LaTeX Warning: Reference `eq:app-tangent_roots' on page 424 undefined on input 
-line 589.
-
-[424]
-
-LaTeX Warning: Reference `eq:app-conic_tangent' on page 425 undefined on input 
-line 592.
-
-
-LaTeX Warning: Reference `eq:app-chord-pts' on page 425 undefined on input line
- 615.
-
-
-LaTeX Warning: Reference `eq:app-tangent_roots' on page 425 undefined on input 
-line 622.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_pts_dist' on page 425 undefined 
-on input line 623.
-
-
-LaTeX Warning: Reference `eq:chord-len' on page 425 undefined on input line 625
-.
-
-
-LaTeX Warning: Reference `corr:axis' on page 425 undefined on input line 678.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 425 undefine
-d on input line 683.
-
-
-LaTeX Warning: Reference `eq:chord-len' on page 425 undefined on input line 691
-.
-
-
-Underfull \vbox (badness 2253) has occurred while \output is active []
-
-[425]
-
-LaTeX Warning: Reference `eq:app-chord-len-major' on page 426 undefined on inpu
-t line 702.
-
-
-LaTeX Warning: Reference `eq:chord-len' on page 426 undefined on input line 708
-.
-
-
-LaTeX Warning: Reference `eq:app-chord-len-minor' on page 426 undefined on inpu
-t line 719.
-
-
-LaTeX Warning: Reference `eq:app-major-minor-axis-quad' on page 426 undefined o
-n input line 726.
-
-
-LaTeX Warning: Reference `corr:axis' on page 426 undefined on input line 729.
-
-
-LaTeX Warning: Reference `eq:app-major-minor-axis-quad' on page 426 undefined o
-n input line 738.
-
-
-LaTeX Warning: Reference `corr:axis' on page 426 undefined on input line 757.
-
-
-LaTeX Warning: Reference `eq:app-F-ell-hyp-parab' on page 426 undefined on inpu
-t line 762.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 426 undefine
-d on input line 771.
-
-
-LaTeX Warning: Reference `eq:chord-len' on page 426 undefined on input line 779
-.
-
-
-Underfull \vbox (badness 1960) has occurred while \output is active []
-
-[426]
-
-LaTeX Warning: Reference `eq:chord-len-sub-ell' on page 427 undefined on input 
-line 811.
-
-
-LaTeX Warning: Reference `eq:chord-len' on page 427 undefined on input line 823
-.
-
-
-LaTeX Warning: Reference `eq:chord-len' on page 427 undefined on input line 830
-.
-
-
-LaTeX Warning: Reference `eq:chord-len-sub' on page 427 undefined on input line
- 864.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent' on page 427 undefined on input 
-line 876.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 427 undefined on inpu
-t line 876.
-
-
-LaTeX Warning: Reference `eq:conic_intercept' on page 427 undefined on input li
-ne 882.
-
-
-LaTeX Warning: Reference `eq:app-tangent_roots' on page 427 undefined on input 
-line 883.
-
-[427]
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qquad' on page 428 undefined on 
-input line 903.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_disc' on page 428 undefined on i
-nput line 903.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_mq' on page 428 undefined on inp
-ut line 903.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 428 undefined on inpu
-t line 906.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_mq' on page 428 undefined on inp
-ut line 912.
-
-
-LaTeX Warning: Reference `eq:conic_normal_vec' on page 428 undefined on input l
-ine 919.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qquad' on page 428 undefined on 
-input line 924.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_final' on page 428 undefined on 
-input line 925.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 428 undefined on inpu
-t line 929.
-
-
-LaTeX Warning: Reference `eq:conic_normal_vec' on page 428 undefined on input l
-ine 935.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_vec' on page 428 undefined on in
-put line 943.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 428 undefined on inpu
-t line 953.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_mq' on page 428 undefined on inp
-ut line 960.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_eq' on page 428 undefined on inp
-ut line 968.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_contact_eq' on page 428 undefine
-d on input line 970.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_contact' on page 428 undefined o
-n input line 971.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 428 undefined on inpu
-t line 975.
-
-
-LaTeX Warning: Reference `eq:conic_normal_vec' on page 428 undefined on input l
-ine 993.
-
-
-Underfull \vbox (badness 1946) has occurred while \output is active []
+[426] [427]
+Underfull \vbox (badness 2269) has occurred while \output is active []
 
 [428]
+Underfull \vbox (badness 2073) has occurred while \output is active []
 
-LaTeX Warning: Reference `eq:conic_normal_vec_q' on page 429 undefined on input
- line 998.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qquad' on page 429 undefined on 
-input line 999.
-
-
-LaTeX Warning: Reference `eq:conic_normal_k' on page 429 undefined on input lin
-e 1016.
-
-
-LaTeX Warning: Reference `eq:conic_normal_vec_q' on page 429 undefined on input
- line 1016.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qk' on page 429 undefined on inp
-ut line 1017.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 429 undefined on inpu
-t line 1032.
-
-
-LaTeX Warning: Reference `eq:conic_normal_vec' on page 429 undefined on input l
-ine 1056.
-
-
-LaTeX Warning: Reference `eq:conic_zero_eigen' on page 429 undefined on input l
-ine 1068.
-
-
-LaTeX Warning: Reference `eq:conic_zero_eigen' on page 429 undefined on input l
-ine 1068.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qk_eigen' on page 429 undefined 
-on input line 1069.
-
-
-LaTeX Warning: Reference `eq:conic_zero_eigen_normal' on page 429 undefined on 
-input line 1069.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qquad' on page 429 undefined on 
-input line 1077.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qquad' on page 429 undefined on 
-input line 1077.
-
-
-LaTeX Warning: Reference `eq:conic_zero_eigen_normal' on page 429 undefined on 
-input line 1078.
-
-
-LaTeX Warning: Reference `eq:conic_zero_eigen_normal_fq' on page 429 undefined 
-on input line 1083.
-
-
-LaTeX Warning: Reference `eq:conic_zero_eigen_normal_vq' on page 429 undefined 
-on input line 1083.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_q_eigen' on page 429 undefined o
-n input line 1083.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 429 undefine
-d on input line 1087.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[429]
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 430 undefine
-d on input line 1098.
-
-
-LaTeX Warning: Reference `eq:pair-conic' on page 430 undefined on input line 11
-10.
-
-
-LaTeX Warning: Reference `eq:app-conic_simp_temp_nonparab' on page 430 undefine
-d on input line 1112.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-v' on page 430 undefined on input li
-ne 1120.
-
-
-LaTeX Warning: Reference `eq:incircle-disc-v-lam' on page 430 undefined on inpu
-t line 1121.
-
-
-LaTeX Warning: Reference `eq:app-pair-std' on page 430 undefined on input line 
-1123.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 430 undefined on inpu
-t line 1126.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 430 undefined on inpu
-t line 1135.
-
-
-LaTeX Warning: Reference `eq:pair-mat-sing-1' on page 430 undefined on input li
-ne 1164.
-
-
-LaTeX Warning: Reference `eq:pair-cond' on page 430 undefined on input line 117
-2.
-
-
-LaTeX Warning: Reference `eq:pair-mat-sing-2' on page 430 undefined on input li
-ne 1173.
-
-
-LaTeX Warning: Reference `eq:app-pair-std' on page 430 undefined on input line 
-1177.
-
-[430]
-
-LaTeX Warning: Reference `eq:quad_form_pair' on page 431 undefined on input lin
-e 1194.
-
-
-LaTeX Warning: Reference `eq:app-quad_form_pair_ang_exp' on page 431 undefined 
-on input line 1220.
-
-
-LaTeX Warning: Reference `eq:app-quad_form_pair_ang' on page 431 undefined on i
-nput line 1220.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_qk' on page 431 undefined on inp
-ut line 1228.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 431 undefined on inpu
-t line 1240.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_mq' on page 431 undefined on inp
-ut line 1264.
-
-
-LaTeX Warning: Reference `eq:point_of_tangency' on page 431 undefined on input 
-line 1270.
-
-
-LaTeX Warning: Reference `eq:tangency_condition' on page 431 undefined on input
- line 1270.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[429] [430]
+Underfull \vbox (badness 1960) has occurred while \output is active []
 
 [431]
-
-LaTeX Warning: Reference `eq:conic_intercept' on page 432 undefined on input li
-ne 1286.
-
-
-LaTeX Warning: Reference `eq:app-point_of_tangency-mu' on page 432 undefined on
- input line 1297.
-
-
-LaTeX Warning: Reference `eq:normal_simp_2-quad' on page 432 undefined on input
- line 1298.
-
-
-LaTeX Warning: Reference `eq:app-point_of_tangency-m' on page 432 undefined on 
-input line 1311.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 432 undefined on inpu
-t line 1313.
-
-
-LaTeX Warning: Reference `eq:app-tangent_roots' on page 432 undefined on input 
-line 1326.
-
-
-LaTeX Warning: Reference `eq:app-conic_tangent_disc' on page 432 undefined on i
-nput line 1328.
-
-
-LaTeX Warning: Reference `eq:app-h-tangents-cond' on page 432 undefined on inpu
-t line 1340.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 432 undefined on inpu
-t line 1344.
-
-
-LaTeX Warning: Reference `eq:app-h-tangents-cond' on page 432 undefined on inpu
-t line 1373.
-
-
-LaTeX Warning: Reference `eq:app-h-tangents-sigma' on page 432 undefined on inp
-ut line 1374.
-
-
-LaTeX Warning: Reference `eq:quad_form_pair_normvecs' on page 432 undefined on 
-input line 1375.
-
-
-LaTeX Warning: Reference `eq:app-quad_form_pair_normvecs-sigma' on page 432 und
-efined on input line 1376.
-
-
-LaTeX Warning: Reference `eq:app-conic_quad_form' on page 432 undefined on inpu
-t line 1382.
-
-
-LaTeX Warning: Reference `eq:app-pair-mat-sing' on page 432 undefined on input 
-line 1400.
-
-
-LaTeX Warning: Reference `eq:app-pair-mat-sing-conic' on page 432 undefined on 
-input line 1400.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[432]) [433] (./main.aux)
+[432]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[433]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[434]
+Underfull \hbox (badness 1845) in paragraph at lines 1372--1378
+[]\OT1/txr/m/n/10 From [] we ob-tain []. Con-se-quently, from [],
+ []
+
+[435]) [436] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 2A1DB1F34F59B319C14F5BEAA6DFAB88;9154
-(rerunfilecheck)             After:  40EABC8A3DA8C6FBB375BE2B4A5796B2;11221.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 40EABC8A3DA8C6FBB375BE2B4A5796B2;11221.
  ) 
 Here is how much of TeX's memory you used:
- 68065 strings out of 474222
- 1520709 string characters out of 5748732
+ 68041 strings out of 474222
+ 1520103 string characters out of 5748732
  1999975 words of memory out of 5000000
- 79336 multiletter control sequences out of 15000+600000
+ 79309 multiletter control sequences out of 15000+600000
  649803 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,1575s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4848,10 +3614,10 @@ hare/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive
 1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (433 pages, 8817027 bytes).
+Output written on main.pdf (436 pages, 8928134 bytes).
 PDF statistics:
- 15413 PDF objects out of 18468 (max. 8388607)
- 12926 compressed objects within 130 object streams
- 8749 named destinations out of 8907 (max. 500000)
- 1383 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 15879 PDF objects out of 18468 (max. 8388607)
+ 13367 compressed objects within 134 object streams
+ 8752 named destinations out of 8907 (max. 500000)
+ 1513 words of extra memory for PDF output out of 10000 (max. 10000000)
 
