@@ -2700,6 +2700,12 @@ INPUT GATE/2017/PH/main.tex
 INPUT ./GATE/2017/XE/main.tex
 INPUT ./GATE/2017/XE/main.tex
 INPUT GATE/2017/XE/main.tex
+INPUT ./GATE/2018/AE/main.tex
+INPUT ./GATE/2018/AE/main.tex
+INPUT GATE/2018/AE/main.tex
+INPUT ./GATE/2017/MA/main.tex
+INPUT ./GATE/2017/MA/main.tex
+INPUT GATE/2017/MA/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
