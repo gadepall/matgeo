@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756643603.16187 0
-  "main.idx" 1756643582 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756657776.0693 0
+  "main.idx" 1756657751 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1756643578.78075 "main.tex" "main.pdf" "main" 1756643603.16312 0
+["pdflatex"] 1756657747.33689 "main.tex" "main.pdf" "main" 1756657776.07087 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -513,9 +513,14 @@
   "GATE/2018/PE/main.tex" 1756374323 609 e9dead122554f8be68458d6a28502e6d ""
   "GATE/2018/PH/main.tex" 1756374323 1237 cdd9b1113a4c1965374e0a544b5d4104 ""
   "GATE/2018/PI/main.tex" 1756642788 789 142cb88cce0c6905df3a32f1d0de4c05 ""
-  "GATE/2018/XE/figs/q11_solid.png" 1756374324 8036 1278f7b1b0af9fa89431d0eebd787800 ""
+  "GATE/2018/XE/figs/q11_solid.png" 1755774382 8036 1278f7b1b0af9fa89431d0eebd787800 ""
   "GATE/2018/XE/main.tex" 1756643544 1282 adf2e677713b56b9b8363b64cee63e38 ""
   "GATE/2018/XH/main.tex" 1756642788 650 30788c723c1cec4bbda0b22eec79db0d ""
+  "GATE/2019/AE/main.tex" 1756655833 1426 feb93f02b56220552939fd656db52638 ""
+  "GATE/2019/AG/main.tex" 1756656069 240 1f532edad08e160d18fe0d151f54d8d7 ""
+  "GATE/2019/BT/main.tex" 1756656375 147 0e2af5be3743b984582087d7a245eb94 ""
+  "GATE/2019/CH/main.tex" 1756656758 541 3504583659ed87553dcbc6a5ddfa9d72 ""
+  "GATE/2019/CS/main.tex" 1756657746 689 7773ce540f399d6e60b8776a3f45ef99 ""
   "GATE/2020/BT/main.tex" 1756374329 543 1c60a2227a069a8cfb51d80a0c6eebb3 ""
   "GATE/2020/CE/main.tex" 1756374329 802 b637b0d04435312950207433e666628a ""
   "GATE/2020/PI/main.tex" 1756374332 1240 7e9db394c3413a7869825fcb2ba66ea7 ""
@@ -534,7 +539,7 @@
   "GATE/2024/PE/main.tex" 1756374358 905 9baef322e67f946295bc4b26d1b62d64 ""
   "GATE/2024/PI/main.tex" 1756374358 370 d1af4e4302f1f203d1464500de25ef96 ""
   "GATE/2024/ST/main.tex" 1756374358 4447 1c8677a477da0386a5a7c21ce3bfd755 ""
-  "GATE/matrix.tex" 1756643552 6009 48fc56b6f6367fd16b221cbbc45c0bbd ""
+  "GATE/matrix.tex" 1756657301 6164 5530a3c11b826c1763973384b861deb7 ""
   "JEE/alg.tex" 1756374366 2020 ebea0919e111e73ca70fe6c3feee6526 ""
   "JEE/circle.tex" 1756374366 16544 2905db9399851d1e4d0564f85a2b6f8e ""
   "JEE/conic.tex" 1756374366 19415 2ea89618e3d6b23ff3a86767348acf0e ""
@@ -925,11 +930,11 @@
   "figs/triangle/vector.pdf" 1756374387 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1756643601 89236 69fab75488b344b204f9bd128e35648e "pdflatex"
+  "main.aux" 1756657774 89236 cfc5032f6ab36f1f89ec620a635718ca "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1756643601 11221 9b44dab1fd4c037758678dea36998b5a "pdflatex"
+  "main.out" 1756657774 11221 9b44dab1fd4c037758678dea36998b5a "pdflatex"
   "main.tex" 1756374388 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1756643601 8307 ee9f2e3d1e2ad50c83dee290a4cd0149 "pdflatex"
+  "main.toc" 1756657774 8307 70e39bf37bef88ee64893a138a4279dc "pdflatex"
   "solutions/1/2/1/main.tex" 1756374388 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1756374388 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1756374388 982 f173de01e8a4c9d6e53675687c8d90b7 ""
