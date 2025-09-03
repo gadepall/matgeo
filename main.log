@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  3 SEP 2025 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  3 SEP 2025 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8868,11 +8868,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--65
 <GATE/2019/ME/figs/Fig 5.png, id=12513, 239.39438pt x 186.6975pt>
 File: GATE/2019/ME/figs/Fig 5.png Graphic file (type png)
 <use GATE/2019/ME/figs/Fig 5.png>
-Package pdftex.def Info: GATE/2019/ME/figs/Fig 5.png  used on input line 18.
+Package pdftex.def Info: GATE/2019/ME/figs/Fig 5.png  used on input line 19.
 (pdftex.def)             Requested size: 182.09764pt x 142.01405pt.
 
 
-[413 <./GATE/2019/ME/figs/Fig 5.png>]))
+[413 <./GATE/2019/ME/figs/Fig 5.png>]) (./GATE/2019/MN/main.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+[]
+ []
+
+
+Overfull \hbox (1.45427pt too wide) in paragraph at lines 13--14
+\OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/10 ; \OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/
+10 ; \OMS/txsy/m/n/10 ^^F[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]
+ []
+
+
+Overfull \hbox (1.45427pt too wide) in paragraph at lines 14--15
+\OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/10 ; \OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/
+10 ; \OMS/txsy/m/n/10 ^^F[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]
+ []
+
+
+Overfull \hbox (1.45427pt too wide) in paragraph at lines 15--16
+\OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/10 ; \OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/
+10 ; \OMS/txsy/m/n/10 ^^F[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[]
+ []
+
+
+Overfull \hbox (1.45427pt too wide) in paragraph at lines 16--17
+\OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/10 ; \OMS/txsy/m/n/10 ^^F[]\OML/txmi/m/it/
+10 ; \OMS/txsy/m/n/10 ^^F[]$ 
+ []
+
+))
 
 [414] (./chapters/triangle/vector.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
@@ -8991,7 +9035,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.141 \end{align}
                  
-<figs/triangle/vector.pdf, id=12565, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=12570, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -9567,7 +9611,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
                    \relax 
 l.43 \end{align}
                 
-<figs/triangle/median.pdf, id=12709, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=12714, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -9637,7 +9681,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [424]
-<figs/triangle/pgm.pdf, id=12724, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=12730, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -9762,7 +9806,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
                    \relax 
 l.31 \end{align}
                 
-<figs/triangle/altitude.pdf, id=12807, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=12812, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -9948,7 +9992,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.25 		\end{align}
                    (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=12882, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=12887, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -10116,7 +10160,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 		\end{align}
                    (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=12955, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=12960, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -11479,10 +11523,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: DFC80F857839AE76CAC9C8257158D27B;11221.
  ) 
 Here is how much of TeX's memory you used:
- 69120 strings out of 473190
- 1569881 string characters out of 5704335
+ 69131 strings out of 473190
+ 1570071 string characters out of 5704335
  1990662 words of memory out of 5000000
- 81942 multiletter control sequences out of 15000+600000
+ 81945 multiletter control sequences out of 15000+600000
  650571 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,27n,109p,1194b,2024s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -11504,10 +11548,10 @@ nts/type1/public/txfonts/txsyc.pfb></opt/homebrew/Cellar/texlive/20250308_1/sha
 re/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20
 250308_1/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cella
 r/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (453 pages, 9089263 bytes).
+Output written on main.pdf (453 pages, 9089569 bytes).
 PDF statistics:
- 15122 PDF objects out of 15390 (max. 8388607)
- 12587 compressed objects within 126 object streams
- 8068 named destinations out of 8907 (max. 500000)
+ 15128 PDF objects out of 15390 (max. 8388607)
+ 12593 compressed objects within 126 object streams
+ 8073 named destinations out of 8907 (max. 500000)
  1548 words of extra memory for PDF output out of 10000 (max. 10000000)
 
