@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756719557.35056 0
-  "main.idx" 1756719550.87737 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756881956.04889 0
+  "main.idx" 1756881949.52327 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1756719550.26502 "main.tex" "main.pdf" "main" 1756719557.35065 0
+["pdflatex"] 1756881948.93459 "main.tex" "main.pdf" "main" 1756881956.04897 0
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1741388039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -524,7 +524,9 @@
   "GATE/2019/EE/main.tex" 1756713560.02347 1150 0b263ca711fc86558c11619e54140e5c ""
   "GATE/2019/EY/main.tex" 1756715189.1968 217 96ad12a4d19aa7a48271ea41e42d82db ""
   "GATE/2019/IN/main.tex" 1756715140.34759 522 a563ba4fc4788ce8900f7aa2053b348f ""
-  "GATE/2019/MA/main.tex" 1756719546.89771 3081 62dd091c5de510f8fbf7845b8600e2b7 ""
+  "GATE/2019/MA/main.tex" 1756881243.59304 3481 3a13685beb70261d61ac8bf4226b0768 ""
+  "GATE/2019/ME/figs/Fig 5.png" 1756108222.69798 16908 934fe498e5b3879c95a824ae4318caa5 ""
+  "GATE/2019/ME/main.tex" 1756881932.55549 1208 a332f8958f10bfc507f2d2625e11027e ""
   "GATE/2020/BT/main.tex" 1755838335.80474 543 1c60a2227a069a8cfb51d80a0c6eebb3 ""
   "GATE/2020/CE/main.tex" 1755838335.80482 802 b637b0d04435312950207433e666628a ""
   "GATE/2020/PI/main.tex" 1755838335.8167 1240 7e9db394c3413a7869825fcb2ba66ea7 ""
@@ -543,7 +545,7 @@
   "GATE/2024/PE/main.tex" 1756108223.01588 905 9baef322e67f946295bc4b26d1b62d64 ""
   "GATE/2024/PI/main.tex" 1755838335.99571 370 d1af4e4302f1f203d1464500de25ef96 ""
   "GATE/2024/ST/main.tex" 1755838335.99583 4447 1c8677a477da0386a5a7c21ce3bfd755 ""
-  "GATE/matrix.tex" 1756718054.44394 6288 c4c16031f457cbcde7c4f90c5edcee35 ""
+  "GATE/matrix.tex" 1756881706.46446 6319 71e918ecdf463b71ddd001d53f5fb0eb ""
   "JEE/alg.tex" 1755066878.04001 2020 ebea0919e111e73ca70fe6c3feee6526 ""
   "JEE/circle.tex" 1755066878.04008 16544 2905db9399851d1e4d0564f85a2b6f8e ""
   "JEE/conic.tex" 1755066878.04014 19415 2ea89618e3d6b23ff3a86767348acf0e ""
@@ -934,11 +936,11 @@
   "figs/triangle/vector.pdf" 1755066878.40103 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1755066878.40108 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1755066878.40113 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1756719557.03108 89236 ef30eba81ca58a1ed36e12168eef9841 "pdflatex"
+  "main.aux" 1756881955.72658 89451 b8fe7c5c14945afe8d6573979137fe5f "pdflatex"
   "main.ind" 1755838336.03281 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1756719557.03451 11221 9b44dab1fd4c037758678dea36998b5a "pdflatex"
+  "main.out" 1756881955.73003 11221 dfc80f857839ae76cac9c8257158d27b "pdflatex"
   "main.tex" 1755838336.04532 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1756719557.03466 8307 ce839bfb00d7fe50edd6fe6d4b33fb86 "pdflatex"
+  "main.toc" 1756881955.73018 8307 c73d73be5782c177114f0fca6a194b0d "pdflatex"
   "solutions/1/2/1/main.tex" 1755066878.44537 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1755066878.44547 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1755066878.44718 982 f173de01e8a4c9d6e53675687c8d90b7 ""
