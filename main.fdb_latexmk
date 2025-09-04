@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756899167.59916 0
-  "main.idx" 1756899148 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1756982224.13733 0
+  "main.idx" 1756982207 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1756899144.9203 "main.tex" "main.pdf" "main" 1756899167.59987 0
+["pdflatex"] 1756982204.10155 "main.tex" "main.pdf" "main" 1756982224.1387 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -554,7 +554,7 @@
   "JEE/linear.tex" 1756374366 45740 91f98e4c86d68d4f18923484cbabe08b ""
   "JEE/matrix.tex" 1756374366 45787 65a11ceb2f1308cb4deae4022b03f4d4 ""
   "JEE/tangent.tex" 1756374366 47829 0c95b073e8c16294e5cbd6d75d6c4dc7 ""
-  "JEE/vector.tex" 1756374366 38320 d70ed77ca8d042863fdd0b1794b731da ""
+  "JEE/vector.tex" 1756979888 39478 ccad947b1399ad348eb1125c3fd54e8c ""
   "cbse/conics/quad.tex" 1756374366 2319 919cbde5f8db799dd170f4e9559e542d ""
   "cbse/const/tri.tex" 1756374366 2155 1461751068ad501c96a1082bc17804d0 ""
   "cbse/inter/chord.tex" 1756374366 2955 49e3e9388128311bfd6c2acb7dc4af16 ""
@@ -575,7 +575,7 @@
   "cbse/vectors/direction.tex" 1756374366 2018 af58137d2463bf9e6258ba23d82837b0 ""
   "cbse/vectors/length.tex" 1756374366 5090 7e1c4a79572700390a85186c8be28f0d ""
   "cbse/vectors/misc.tex" 1756374366 9427 f0b0d519d13db451a843d7f26c87bb05 ""
-  "cbse/vectors/ortho.tex" 1756374366 8305 055cc2c9d6b1b8ee50647bf0adb9192e ""
+  "cbse/vectors/ortho.tex" 1756982158 9960 a665bd4c64a33bccbcf8e41fb117afb9 ""
   "cbse/vectors/rank.tex" 1756374366 1908 6fd9a8ff22fa481a6f946ab36b18a3f4 ""
   "cbse/vectors/scalar.tex" 1756374366 3983 67892a484b3d8e7d61a69ac0adffce97 ""
   "cbse/vectors/section.tex" 1756374366 7406 3b960f6085a147b0752c4a7b0d3f72f6 ""
@@ -891,7 +891,7 @@
   "chapters/linear/misc.tex" 1756374385 10889 5574ee3bbc015ff123ef7b3d2fb9fd75 ""
   "chapters/linear/parallel.tex" 1756374385 2595 7083901f56d41ec153b27f772c964530 ""
   "chapters/linear/param.tex" 1756374385 776 e8e9db9edbb7085b05035b2015ddb6e1 ""
-  "chapters/linear/perp.tex" 1756374385 11438 2e0394b639946e53fe585e3a75299e16 ""
+  "chapters/linear/perp.tex" 1756978260 11439 70dd3fc3dd0fe35360e3ac974b2c09dc ""
   "chapters/matrix/appl.tex" 1756374385 9730 5a8246989a95877caa105a103dcabf4a ""
   "chapters/matrix/cayley.tex" 1756374385 2201 4d8dca4bf756f8054607411bfd48054d ""
   "chapters/matrix/chem.tex" 1756374385 1027 7e6271609c79c237886de8dc1f46f4d5 ""
@@ -937,11 +937,11 @@
   "figs/triangle/vector.pdf" 1756374387 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1756899166 89451 4ba2f44a690664532e78b28bc94bdfef "pdflatex"
+  "main.aux" 1756982222 89849 e2a68b98efd8e040c7cf87df4cd698cb "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1756899166 11221 dfc80f857839ae76cac9c8257158d27b "pdflatex"
+  "main.out" 1756982222 11221 dfc80f857839ae76cac9c8257158d27b "pdflatex"
   "main.tex" 1756374388 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1756899166 8307 c73d73be5782c177114f0fca6a194b0d "pdflatex"
+  "main.toc" 1756982222 8307 ce7cf0a575910529a6133309547d1b32 "pdflatex"
   "solutions/1/2/1/main.tex" 1756374388 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1756374388 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1756374388 982 f173de01e8a4c9d6e53675687c8d90b7 ""

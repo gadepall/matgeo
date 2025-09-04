@@ -537,6 +537,49 @@ then the set of orthogonal vectors is
 \end{enumerate}
     \end{multicols}
 	\item Find all values of $\lambda$ such that $x,y,z\neq\brak{0,0,0}$ and $$\brak{\hat{i}+\hat{j}+3\hat{k}}x+\brak{3\hat{i}-3\hat{j}+\hat{k}}y+\brak{-4\hat{i}+5\hat{j}}z=\lambda\brak{x\hat{i}+y\hat{j}+z\hat{k}}$$ where $\hat{i}, \hat{j}, \hat{k}$ are unit vectors along the coordinate axes. \hfill{\brak{1982}}
+		\\
+		\solution 
+		The given vector equation 
+		\iffalse
+\begin{align}
+(\hat{i} + \hat{j} + 3\hat{k})x + (3\hat{i} - 3\hat{j} + \hat{k})y + (-4\hat{i} + 5\hat{j})z = \lambda(x\hat{i} + y\hat{j} + z\hat{k})
+\end{align}\\
+\fi
+ can be expressed as,
+\begin{align}
+	x\myvec{1\\1\\3} + y\myvec{3\\-3\\1} + z\myvec{-4\\5\\0} &= \lambda\myvec{x\\y\\z}
+	\\
+\implies \myvec{1 & 3 & -4 \\ 1 & -3 & 5 \\ 3 & 1 & 0}\myvec{x \\ y \\ z} &= \lambda\myvec{x \\ y \\ z}
+\end{align}
+which can be expressed as the eigen equation
+\begin{align}
+	\label{eq:2-10-62-eig}
+\vec{A}\vec{v} = \lambda\vec{v}.
+\end{align}
+with $\lambda$ as the eigenvalues and $\vec{v}$ the eigenvector.
+yielding
+\begin{align}
+	\label{eq:2-10-62-eigvec}
+	(\vec{A} - \lambda \vec{I})\vec{v} &= 0
+	\\
+	\implies \mydet{\vec{A} - \lambda \vec{I}} &= 0
+	\\
+	\therefore
+\mydet{
+1-\lambda & 3 & -4 \\
+1 & -3-\lambda & 5 \\
+3 & 1 & -\lambda
+}&= 0
+\\
+\text{or, }\lambda(\lambda + 1)^2 = 0
+\end{align}
+Thus, the required values of $\lambda$ are 0 and -1.  The corresponding eigenvectors can be obtained from 
+	\eqref{eq:2-10-62-eigvec}
+as
+\begin{align}
+	\vec{v}=\myvec{-1 \\3\\ 2},
+	\myvec{-1 \\2\\ 1}
+\end{align}
 	\item A vector $\vec{A}$ has components $A_1,A_2,A_3$ in a right-handed rectangular Cartesian coordinate system oxyz. The coordinate system is rotated about the x-axis through an angle $\frac{\pi}{2}$. Find the components of $\vec{A}$ in the new coordinate system in terms of $A_1,A_2,A_3$. \hfill{\brak{1983}}
 	\item The position vectors of the points $\vec{A, B, C}$ and $\vec{D}$ are $\brak{3\hat{i}-2\hat{j}-\hat{k}}$, $\brak{2\hat{i}+3\hat{j}-4\hat{k}}$, $\brak{-\hat{i}+\hat{j}+2\hat{k}}$ and $\brak{4\hat{i}+5\hat{j}+\lambda\hat{k}}$ respectively. If the points $\vec{A,B,C}$ and $\vec{D}$ lie on a plane, find the value of $\lambda$. \hfill{\brak{1986}}
 	\item Let OACB be a parallelogram with $\vec{O}$ at the origin and OC a diagonal. Let $\vec{D}$ be the midpoint of OA. Using vector methods prove that BD and CO intersect in the same ratio. Determine this ratio. \hfill{\brak{1988}}

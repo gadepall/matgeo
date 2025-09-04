@@ -24,7 +24,6 @@
     and
         $\overrightarrow{c} = 2\hat{i} - \hat{j} + 4\hat{k}$.
     \hfill (12, 2023)
-
     \item If
       $  \overrightarrow{a} = 2\hat{i} - \hat{j} + \hat{k} $,
       $  \overrightarrow{b} = \hat{i} + \hat{j} - 2\hat{k} $,
@@ -83,6 +82,82 @@ are perpendicular
 \hfill (12, 2018)
  \item Let $\overrightarrow{a}$, $\overrightarrow{b} $ and $\overrightarrow{c}$ be three vectors such that $\abs{\overrightarrow{a}}=1$, $\abs {\overrightarrow{b}}=2 $ and $\abs{\overrightarrow{c}}=3$. If the projection of $\overrightarrow{b}$ along $\overrightarrow{a}$ is equal to the projection of $\overrightarrow{c}$ along $\overrightarrow{a}$ ; and $\overrightarrow{b}$, $\overrightarrow{c}$ are perpendicular to each other, then find $\abs{3\overrightarrow{a}- 2\overrightarrow{b} +2\overrightarrow{c}}$.
 \hfill (12, 2018)
+    \\
+    \solution 
+\begin{align}
+	\norm{3\vec a-2\vec b+2\vec c}^2
+&= 
+\brak{3\vec a-2\vec b+2\vec c}^{\top}
+	\brak{3\vec a-2\vec b+2\vec c}
+	\\
+&= 
+\sbrak{\myvec{\vec a & \vec b & \vec c}
+\myvec{3 \\ -2 \\2}}^{\top}
+\sbrak{\myvec{\vec a & \vec b & \vec c}
+\myvec{3 \\ -2 \\2}}
+\\
+&= 
+	\myvec{3 & -2 & 2}\brak{\myvec{\vec a & \vec b & \vec c}
+}^{\top}
+\brak{\myvec{\vec a & \vec b & \vec c}
+\myvec{3 \\ -2 \\2}}
+\\
+&= 
+	\vec{y}^{\top}\vec{G}\vec{y}
+	\label{eq:Gram-quad}
+\end{align}
+where $\vec{G}$ is 
+the Gram  matrix of $\myvec{\vec a & \vec b & \vec c}$ defined as
+\begin{align}
+	\label{eq:Gram}
+G=\myvec
+{ \norm{\vec a}^2& \vec a^{\top}\vec b & \vec a^{\top}\vec c\\
+\vec b^{\top}\vec a & \norm{\vec b}^2 & \vec b^{\top}\vec c\\
+\vec c^{\top}\vec a & \vec c^{\top}\vec b & \norm{\vec c}^{2}}
+\end{align}
+    From the given information,  since the projections are equal,
+\begin{align}
+	\frac{\vec a^{\top}\vec b}{\lVert\vec a\rVert}&=\frac{\vec a^{\top}\vec c}{\lVert\vec a\rVert}
+	\\  
+	\implies 
+	{\vec a^{\top}\vec b}&={\vec a^{\top}\vec c} = x
+	\label{eq:Gram-proj},
+\end{align}
+Also, 
+\begin{align}
+\vec b\perp\vec c \implies
+\vec b^{\top} \vec c  = 0.
+\end{align}
+and 
+\begin{align}
+	\label{eq:Gram-norm}
+	\norm{\vec{a}} = 1,\norm{\vec{b}}=2,\norm{\vec{c}}=3.
+\end{align}
+Therefore,
+from 
+	\eqref{eq:Gram},
+	\eqref{eq:Gram-proj} and
+	\eqref{eq:Gram-norm},
+the Gram matrix can be expressed as 
+\begin{align}
+	\vec{G}
+=
+\myvec
+{1 & x & x\\
+x & 4 & 0\\
+x & 0 & 9}
+\end{align}
+Substituting the above in 
+	\eqref{eq:Gram-quad}
+	yields
+\begin{align}
+	\myvec{3 & -2 & 2}
+\myvec
+{1 & x & x\\
+x & 4 & 0\\
+x & 0 & 9}
+\myvec{3 \\ -2 \\2} =61
+\end{align}
 \item Find the value of $P$ for which the lines 
 $ \frac{1-x}{3}=\frac{2y-14}{2p}=\frac{z-3}{2}$ and $\frac{1-x}{3p}=\frac{y-5}{1}=\frac{6-z}{5}$
 are perpendicular.
