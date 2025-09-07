@@ -1,0 +1,35 @@
+\frametitle{Python: plot.py}
+\begin{lstlisting}[language=Python]
+
+# diagonals as precise lines from vertex to vertex (no arrowheads)
+ax.plot([P1[0], P1[0]+D1[0]],[P1[1], P1[1]+D1[1]],[P1[2], P1[2]+D1[2]],
+        color='blue', linewidth=2, label='Body diagonal (0,0,1)→(1,1,0)')
+ax.plot([P2[0], P2[0]+D2[0]],[P2[1], P2[1]+D2[1]],[P2[2], P2[2]+D2[2]],
+        color='red', linewidth=2, label='Face diagonal (0,0,0)→(1,0,1)')
+
+# exact perpendicular segment
+ax.plot([closest1[0], closest2[0]],
+        [closest1[1], closest2[1]],
+        [closest1[2], closest2[2]],
+        color='green', linewidth=2, label=f'Perpendicular (dist={distance:.4f})')
+
+# markers for vertices and closest points
+ax.scatter(*P1, color='black', s=30)
+ax.scatter(*(P1 + D1), color='black', s=30)
+ax.scatter(*P2, color='black', s=30)
+ax.scatter(*(P2 + D2), color='black', s=30)
+ax.scatter(*closest1, color='blue', s=50)
+ax.scatter(*closest2, color='red', s=50)
+
+ax.set_xlabel('X'); ax.set_ylabel('Y'); ax.set_zlabel('Z')
+ax.set_title('Cube — body & face diagonals')
+ax.legend(loc='upper left')
+set_axes_equal(ax)
+
+plt.tight_layout()
+plt.savefig("cube_lines.png", dpi=300, bbox_inches='tight')
+plt.show()
+
+
+
+\end{lstlisting}

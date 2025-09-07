@@ -1119,6 +1119,14 @@ INPUT cbse/vectors/misc.tex
 INPUT ./JEE/vector.tex
 INPUT ./JEE/vector.tex
 INPUT JEE/vector.tex
+INPUT ./JEE/chapters/2.10.84/main.tex
+INPUT ./JEE/chapters/2.10.84/main.tex
+INPUT JEE/chapters/2.10.84/main.tex
+INPUT ./JEE/chapters/2.10.84/figs/cube_lines.png
+INPUT ./JEE/chapters/2.10.84/figs/cube_lines.png
+INPUT ./JEE/chapters/2.10.84/figs/cube_lines.png
+INPUT ./JEE/chapters/2.10.84/figs/cube_lines.png
+INPUT ./JEE/chapters/2.10.84/figs/cube_lines.png
 INPUT ./chapters/formulae/const.tex
 INPUT ./chapters/formulae/const.tex
 INPUT chapters/formulae/const.tex
