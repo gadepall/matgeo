@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  7 SEP 2025 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  7 SEP 2025 20:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11563,7 +11563,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  69266 strings out of 473197
  1576616 string characters out of 5701897
- 1995798 words of memory out of 5000000
+ 1995797 words of memory out of 5000000
  82041 multiletter control sequences out of 15000+600000
  650571 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191

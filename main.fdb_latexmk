@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1757256686.31781 0
-  "main.idx" 1757256665 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1757257963.49562 0
+  "main.idx" 1757257943 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1757256661.61049 "main.tex" "main.pdf" "main" 1757256686.3196 0
+["pdflatex"] 1757257939.76545 "main.tex" "main.pdf" "main" 1757257963.49711 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -883,7 +883,7 @@
   "chapters/formulae/perp.tex" 1756374384 5791 252b3b687a03914b61368dfe4a59c557 ""
   "chapters/formulae/vectors/alg.tex" 1756374384 595 f2f77156544890529a56b2555c1f66e1 ""
   "chapters/formulae/vectors/mat.tex" 1756374384 618 b17678ec5baa1fe18f67d3d12f2664f1 ""
-  "chapters/formulae/vectors/product.tex" 1756374384 5136 f169d1af8a7b64f43173f3072bd81b7f ""
+  "chapters/formulae/vectors/product.tex" 1757257937 5134 ac28cb3f5b1ff49cacc5d56e3551ad69 ""
   "chapters/formulae/vectors/two.tex" 1756374384 3418 f8d582846350f434128c4f221a54f9d4 ""
   "chapters/inter/examples/chord.tex" 1756374385 5323 69be2c832b97a6be2631768498be90eb ""
   "chapters/inter/examples/curves.tex" 1756374385 727 400966ea250d15a7829e11c8cf310c34 ""
@@ -916,7 +916,7 @@
   "chapters/vectors/direction.tex" 1756374385 5730 dfc393c9290ab0a00af44a4039dba05d ""
   "chapters/vectors/examples.tex" 1756374385 10914 41e38c69cbd5ba8d2aa671c517f7d207 ""
   "chapters/vectors/length.tex" 1756374385 4309 7d115045398be0522680ded2cf86c52b ""
-  "chapters/vectors/misc.tex" 1757256658 9102 95aac8361b27706e9b25a734a965c0a7 ""
+  "chapters/vectors/misc.tex" 1757256810 9102 95aac8361b27706e9b25a734a965c0a7 ""
   "chapters/vectors/ortho.tex" 1756374385 9405 31e9f44f323dd3d800092a19d510ef52 ""
   "chapters/vectors/rank.tex" 1756374385 3841 940c06861498fdf768e24f04048454ed ""
   "chapters/vectors/scalar.tex" 1756374385 7285 84138524f667b0db46b8689fcffd3420 ""
@@ -939,11 +939,11 @@
   "figs/triangle/vector.pdf" 1756374387 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1757256685 90070 3a9c850b982e625a3693b849199bd255 "pdflatex"
+  "main.aux" 1757257962 90070 3a9c850b982e625a3693b849199bd255 "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1757256685 11221 3f6888d6033ba383b97fef63a6e33c8b "pdflatex"
+  "main.out" 1757257962 11221 3f6888d6033ba383b97fef63a6e33c8b "pdflatex"
   "main.tex" 1757155029 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1757256685 8307 0ff9db53f5a436c2391f6bae9c16c036 "pdflatex"
+  "main.toc" 1757257962 8307 0ff9db53f5a436c2391f6bae9c16c036 "pdflatex"
   "solutions/1/2/1/main.tex" 1756374388 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1756374388 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1756374388 982 f173de01e8a4c9d6e53675687c8d90b7 ""
