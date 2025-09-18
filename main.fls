@@ -2730,9 +2730,6 @@ INPUT GATE/2018/CE/main.tex
 INPUT ./GATE/2018/CH/main.tex
 INPUT ./GATE/2018/CH/main.tex
 INPUT GATE/2018/CH/main.tex
-INPUT ./GATE/2018/EC/main.tex
-INPUT ./GATE/2018/EC/main.tex
-INPUT GATE/2018/EC/main.tex
 INPUT ./GATE/2018/EE/main.tex
 INPUT ./GATE/2018/EE/main.tex
 INPUT GATE/2018/EE/main.tex
@@ -2826,6 +2823,9 @@ INPUT GATE/2016/CS/main.tex
 INPUT ./GATE/2018/CS/main.tex
 INPUT ./GATE/2018/CS/main.tex
 INPUT GATE/2018/CS/main.tex
+INPUT ./GATE/2018/EC/main.tex
+INPUT ./GATE/2018/EC/main.tex
+INPUT GATE/2018/EC/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
