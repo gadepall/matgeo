@@ -91,7 +91,7 @@
 \contentsline {subsection}{\numberline {11.2}Examples}{311}{subsection.11.2}%
 \contentsline {subsection}{\numberline {11.3}JEE}{316}{subsection.11.3}%
 \contentsline {section}{\numberline {12}GATE}{318}{section.12}%
-\contentsline {section}{Appendix\nobreakspace A: Triangle}{423}{section*.141}%
+\contentsline {section}{Appendix\nobreakspace A: Triangle}{423}{section*.142}%
 \contentsline {subsection}{\numberline {A.1}Sides}{423}{subsection.Appendix.A.1}%
 \contentsline {subsection}{\numberline {A.2}Formulae}{428}{subsection.Appendix.A.2}%
 \contentsline {subsection}{\numberline {A.3}Median}{429}{subsection.Appendix.A.3}%
@@ -101,7 +101,7 @@
 \contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{442}{subsection.Appendix.A.7}%
 \contentsline {subsection}{\numberline {A.8}Formulae}{443}{subsection.Appendix.A.8}%
 \contentsline {subsection}{\numberline {A.9}Matrices}{444}{subsection.Appendix.A.9}%
-\contentsline {section}{Appendix\nobreakspace B: Conic Section}{446}{section*.148}%
+\contentsline {section}{Appendix\nobreakspace B: Conic Section}{446}{section*.149}%
 \contentsline {subsection}{\numberline {B.1}Equation}{446}{subsection.Appendix.B.1}%
 \contentsline {subsection}{\numberline {B.2}Standard Conic}{450}{subsection.Appendix.B.2}%
 \contentsline {subsection}{\numberline {B.3}Conic Lines}{452}{subsection.Appendix.B.3}%
