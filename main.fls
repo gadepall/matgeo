@@ -2892,6 +2892,12 @@ INPUT GATE/2020/PE/main.tex
 INPUT ./GATE/2020/PH/main.tex
 INPUT ./GATE/2020/PH/main.tex
 INPUT GATE/2020/PH/main.tex
+INPUT ./GATE/2020/ST/main.tex
+INPUT ./GATE/2020/ST/main.tex
+INPUT GATE/2020/ST/main.tex
+INPUT ./GATE/2020/XE/main.tex
+INPUT ./GATE/2020/XE/main.tex
+INPUT GATE/2020/XE/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
