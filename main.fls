@@ -2843,6 +2843,12 @@ INPUT GATE/2019/ST/main.tex
 INPUT ./GATE/2019/XE/main.tex
 INPUT ./GATE/2019/XE/main.tex
 INPUT GATE/2019/XE/main.tex
+INPUT ./GATE/2020/AE/main.tex
+INPUT ./GATE/2020/AE/main.tex
+INPUT GATE/2020/AE/main.tex
+INPUT ./GATE/2020/AG/main.tex
+INPUT ./GATE/2020/AG/main.tex
+INPUT GATE/2020/AG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
