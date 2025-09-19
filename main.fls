@@ -2866,6 +2866,9 @@ INPUT ./GATE/2020/EC/figs/Q30.png
 INPUT ./GATE/2020/EE/main.tex
 INPUT ./GATE/2020/EE/main.tex
 INPUT GATE/2020/EE/main.tex
+INPUT ./GATE/2020/GG/main.tex
+INPUT ./GATE/2020/GG/main.tex
+INPUT GATE/2020/GG/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
