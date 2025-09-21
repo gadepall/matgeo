@@ -2910,6 +2910,9 @@ INPUT GATE/2021/BT/main.tex
 INPUT ./GATE/2021/CE/main.tex
 INPUT ./GATE/2021/CE/main.tex
 INPUT GATE/2021/CE/main.tex
+INPUT ./GATE/2021/CH/main.tex
+INPUT ./GATE/2021/CH/main.tex
+INPUT GATE/2021/CH/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
