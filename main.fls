@@ -2951,6 +2951,9 @@ INPUT ./GATE/2022/BM/figs/q15.png
 INPUT ./GATE/2022/BT/main.tex
 INPUT ./GATE/2022/BT/main.tex
 INPUT GATE/2022/BT/main.tex
+INPUT ./GATE/2022/CS/main.tex
+INPUT ./GATE/2022/CS/main.tex
+INPUT GATE/2022/CS/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
