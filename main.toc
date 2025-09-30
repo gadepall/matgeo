@@ -91,18 +91,18 @@
 \contentsline {subsection}{\numberline {11.2}Examples}{311}{subsection.11.2}%
 \contentsline {subsection}{\numberline {11.3}JEE}{316}{subsection.11.3}%
 \contentsline {section}{\numberline {12}GATE}{318}{section.12}%
-\contentsline {section}{Appendix\nobreakspace A: Triangle}{443}{section*.146}%
-\contentsline {subsection}{\numberline {A.1}Sides}{443}{subsection.Appendix.A.1}%
-\contentsline {subsection}{\numberline {A.2}Formulae}{448}{subsection.Appendix.A.2}%
-\contentsline {subsection}{\numberline {A.3}Median}{449}{subsection.Appendix.A.3}%
-\contentsline {subsection}{\numberline {A.4}Altitude}{453}{subsection.Appendix.A.4}%
-\contentsline {subsection}{\numberline {A.5}Perpendicular Bisector}{456}{subsection.Appendix.A.5}%
-\contentsline {subsection}{\numberline {A.6}Angle Bisector}{460}{subsection.Appendix.A.6}%
-\contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{462}{subsection.Appendix.A.7}%
-\contentsline {subsection}{\numberline {A.8}Formulae}{463}{subsection.Appendix.A.8}%
-\contentsline {subsection}{\numberline {A.9}Matrices}{464}{subsection.Appendix.A.9}%
-\contentsline {section}{Appendix\nobreakspace B: Conic Section}{466}{section*.153}%
-\contentsline {subsection}{\numberline {B.1}Equation}{466}{subsection.Appendix.B.1}%
-\contentsline {subsection}{\numberline {B.2}Standard Conic}{470}{subsection.Appendix.B.2}%
-\contentsline {subsection}{\numberline {B.3}Conic Lines}{472}{subsection.Appendix.B.3}%
-\contentsline {subsection}{\numberline {B.4}Tangent and Normal}{475}{subsection.Appendix.B.4}%
+\contentsline {section}{Appendix\nobreakspace A: Triangle}{444}{section*.146}%
+\contentsline {subsection}{\numberline {A.1}Sides}{444}{subsection.Appendix.A.1}%
+\contentsline {subsection}{\numberline {A.2}Formulae}{449}{subsection.Appendix.A.2}%
+\contentsline {subsection}{\numberline {A.3}Median}{450}{subsection.Appendix.A.3}%
+\contentsline {subsection}{\numberline {A.4}Altitude}{454}{subsection.Appendix.A.4}%
+\contentsline {subsection}{\numberline {A.5}Perpendicular Bisector}{457}{subsection.Appendix.A.5}%
+\contentsline {subsection}{\numberline {A.6}Angle Bisector}{461}{subsection.Appendix.A.6}%
+\contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{463}{subsection.Appendix.A.7}%
+\contentsline {subsection}{\numberline {A.8}Formulae}{464}{subsection.Appendix.A.8}%
+\contentsline {subsection}{\numberline {A.9}Matrices}{465}{subsection.Appendix.A.9}%
+\contentsline {section}{Appendix\nobreakspace B: Conic Section}{467}{section*.153}%
+\contentsline {subsection}{\numberline {B.1}Equation}{467}{subsection.Appendix.B.1}%
+\contentsline {subsection}{\numberline {B.2}Standard Conic}{471}{subsection.Appendix.B.2}%
+\contentsline {subsection}{\numberline {B.3}Conic Lines}{473}{subsection.Appendix.B.3}%
+\contentsline {subsection}{\numberline {B.4}Tangent and Normal}{476}{subsection.Appendix.B.4}%
