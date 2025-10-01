@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  1 OCT 2025 09:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  1 OCT 2025 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9065,9 +9065,11 @@ File: GATE/2023/CS/figs/screenshot009.png Graphic file (type png)
 Package pdftex.def Info: GATE/2023/CS/figs/screenshot009.png  used on input lin
 e 20.
 (pdftex.def)             Requested size: 109.25969pt x 140.69481pt.
-))
+) (./GATE/2023/EC/main.tex
 
-[448 <./GATE/2023/CS/figs/screenshot009.png>] (./chapters/triangle/vector.tex
+[448 <./GATE/2023/CS/figs/screenshot009.png>]))
+
+[449] (./chapters/triangle/vector.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9147,7 +9149,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.9}
 l.68 \end{align}
                 
 
-[449]
+[450]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.10
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -9184,7 +9186,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.141 \end{align}
                  
-<figs/triangle/vector.pdf, id=13499, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=13513, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -9194,7 +9196,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[450]
+[451]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9247,7 +9249,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[451 <./figs/triangle/vector.pdf>]
+[452 <./figs/triangle/vector.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.5.4}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9330,7 +9332,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[452]
+[453]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.6.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9407,7 +9409,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[453]) (./chapters/formulae/line.tex
+[454]) (./chapters/formulae/line.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9475,7 +9477,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.5}
 l.41 ...\begin{align} k = \frac{p}{q}. \end{align}
                                                   
 
-[454]
+[455]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9558,7 +9560,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[455]) (./solutions/1/2/2/main.tex
+[456]) (./solutions/1/2/2/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--3
 
  []
@@ -9640,7 +9642,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[456]
+[457]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9741,7 +9743,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[457]) (./solutions/1/2/5/main.tex
+[458]) (./solutions/1/2/5/main.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -9760,7 +9762,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
                    \relax 
 l.43 \end{align}
                 
-<figs/triangle/median.pdf, id=13644, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=13658, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -9829,8 +9831,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[458]
-<figs/triangle/pgm.pdf, id=13659, 462.52798pt x 346.89601pt>
+[459]
+<figs/triangle/pgm.pdf, id=13673, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -9861,7 +9863,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}
 l.7 \end{align}
                
 
-[459 <./figs/triangle/median.pdf>]) (./solutions/1/3/3/main.tex
+[460 <./figs/triangle/median.pdf>]) (./solutions/1/3/3/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 15--3
 
  []
@@ -9919,7 +9921,7 @@ Underfull \vbox (badness 6893) has occurred while \output is active []
 
 
 
-[460 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
+[461 <./figs/triangle/pgm.pdf>]) (./solutions/1/3/4/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--10
 
  []
@@ -9955,7 +9957,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
                    \relax 
 l.31 \end{align}
                 
-<figs/triangle/altitude.pdf, id=13742, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=13756, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -9971,7 +9973,7 @@ Underfull \vbox (badness 1127) has occurred while \output is active []
 
 
 
-[461 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex
+[462 <./figs/triangle/altitude.pdf>] (./solutions/1/3/5/Q_1.3.5.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.5.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10045,7 +10047,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 l.8 		\end{align}
                   (./solutions/1/4/1/q1.4.1.tex
 
-[462]
+[463]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10128,7 +10130,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[463])
+[464])
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10141,7 +10143,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.25 		\end{align}
                    (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=13817, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=13831, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -10175,7 +10177,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[464 <./figs/triangle/perp-bisect.pdf>]
+[465 <./figs/triangle/perp-bisect.pdf>]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.6.5}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10225,7 +10227,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.7.3}
 l.44 		\end{align}
                   
 
-[465]) (./chapters/triangle/angle-bisect.tex
+[466]) (./chapters/triangle/angle-bisect.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10302,14 +10304,14 @@ Underfull \vbox (badness 1648) has occurred while \output is active []
 
 
 
-[466])
+[467])
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.17 		\end{align}
                    (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=13889, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=13904, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -10322,7 +10324,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
 l.27 		\end{align}
                   
 
-[467 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex
+[468 <./figs/triangle/ang-bisect.pdf>]) (./chapters/triangle/eigen.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10393,7 +10395,7 @@ Underfull \vbox (badness 1796) has occurred while \output is active []
 
 
 
-[468]
+[469]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.9.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10470,7 +10472,7 @@ Underfull \vbox (badness 4582) has occurred while \output is active []
 
 
 
-[469]) (./chapters/triangle/matrix.tex
+[470]) (./chapters/triangle/matrix.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10529,7 +10531,7 @@ Underfull \vbox (badness 1107) has occurred while \output is active []
 
 
 
-[470]
+[471]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.7.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10579,7 +10581,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.15.1
 l.124 		\end{align}
                    )
 
-[471] (./chapters/formulae/conics/app.tex
+[472] (./chapters/formulae/conics/app.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10662,7 +10664,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[472]
+[473]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10727,7 +10729,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[473]
+[474]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10756,7 +10758,7 @@ Underfull \vbox (badness 1292) has occurred while \output is active []
 
 
 
-[474]
+[475]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10845,7 +10847,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[475]
+[476]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.6.3}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10901,7 +10903,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.2}
 l.401 		\end{align}
                    
 
-[476]
+[477]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.6.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -10984,7 +10986,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[477]
+[478]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.7.11
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -11040,7 +11042,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.6}
 l.586 \end{align}
                  
 
-[478]
+[479]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -11123,7 +11125,7 @@ Underfull \vbox (badness 2269) has occurred while \output is active []
 
 
 
-[479]
+[480]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.7}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -11188,7 +11190,7 @@ Underfull \vbox (badness 2073) has occurred while \output is active []
 
 
 
-[480]
+[481]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.6.6}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -11256,7 +11258,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.1.3}
 l.902   \end{align}
                    
 
-[481]
+[482]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -11333,7 +11335,7 @@ Underfull \vbox (badness 1960) has occurred while \output is active []
 
 
 
-[482]
+[483]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -11428,7 +11430,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[483]
+[484]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.8.2}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -11511,7 +11513,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[484]
+[485]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.12.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -11582,7 +11584,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[485]
+[486]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.14.4
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -11649,7 +11651,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.17.1
 l.1387   \end{align}
                     
 
-[486]
+[487]
 pdfTeX warning (ext4): destination with the same identifier (name{equation.18.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -11663,7 +11665,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.19.1
 l.1404 \end{align}
                   )
 
-[487] (./main.aux)
+[488] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -11672,13 +11674,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 931516B12327B3858E729E9C6AD8DAB5;11221.
  ) 
 Here is how much of TeX's memory you used:
- 70477 strings out of 473197
- 1594969 string characters out of 5701897
+ 70494 strings out of 473197
+ 1595212 string characters out of 5701897
  1996178 words of memory out of 5000000
- 82306 multiletter control sequences out of 15000+600000
+ 82309 multiletter control sequences out of 15000+600000
  650571 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,27n,109p,1194b,2258s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,27n,109p,1194b,2266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/pu
 blic/txfonts/rtcxr.pfb></data/data/com.termux/files/usr/share/texlive/2025/texm
 f-dist/fonts/type1/public/txfonts/rtxb.pfb></data/data/com.termux/files/usr/sha
@@ -11698,10 +11700,10 @@ m.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (487 pages, 9856476 bytes).
+Output written on main.pdf (488 pages, 9858634 bytes).
 PDF statistics:
- 16218 PDF objects out of 18468 (max. 8388607)
- 13622 compressed objects within 137 object streams
- 8861 named destinations out of 8907 (max. 500000)
+ 16234 PDF objects out of 18468 (max. 8388607)
+ 13637 compressed objects within 137 object streams
+ 8872 named destinations out of 8907 (max. 500000)
  1593 words of extra memory for PDF output out of 10000 (max. 10000000)
 
