@@ -3066,6 +3066,9 @@ INPUT GATE/2023/PE/main.tex
 INPUT ./GATE/2023/PI/main.tex
 INPUT ./GATE/2023/PI/main.tex
 INPUT GATE/2023/PI/main.tex
+INPUT ./GATE/2023/ST/main.tex
+INPUT ./GATE/2023/ST/main.tex
+INPUT GATE/2023/ST/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
