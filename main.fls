@@ -3092,6 +3092,9 @@ INPUT GATE/2024/BT/main.tex
 INPUT ./GATE/2024/CE/main.tex
 INPUT ./GATE/2024/CE/main.tex
 INPUT GATE/2024/CE/main.tex
+INPUT ./GATE/2024/CH/main.tex
+INPUT ./GATE/2024/CH/main.tex
+INPUT GATE/2024/CH/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
