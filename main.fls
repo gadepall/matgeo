@@ -3117,6 +3117,9 @@ INPUT ./GATE/2024/EC/figs/q31.png
 INPUT ./GATE/2024/IN/main.tex
 INPUT ./GATE/2024/IN/main.tex
 INPUT GATE/2024/IN/main.tex
+INPUT ./GATE/2024/MA/main.tex
+INPUT ./GATE/2024/MA/main.tex
+INPUT GATE/2024/MA/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
