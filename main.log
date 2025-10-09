@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  9 OCT 2025 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  9 OCT 2025 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -147,11 +147,13 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen171
 \Gm@layoutvoffset=\dimen172
 \Gm@dimlist=\toks19
-) (/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty
+)
+(/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty
 Package: tfrupee 2010/12/15 LaTeX Support for the TechFat Rupee symbols by Tech
 Fat (http://techfat.blogspot.com/2010/07/new-open-source-india-rupee-font.html)
 . Adapted for use with TeX by Palle Jorgensen, hamselv(a)pallej.dk
-) (./gvv-book.sty
+)
+(./gvv-book.sty
 (/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/float/
 float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -173,6 +175,7 @@ Package: gensymb 2022/10/17 v1.0.2 (KJH)
 h/amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip52
+
 For additional information on amsmath, use the `?' option.
 
 (/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/amsmat
@@ -1342,6 +1345,7 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \tkz@dx=\dimen378
 \tkz@dy=\dimen379
 \tkz@cntmk=\count372
+
 Local configuration file tkz-euclide.cfg found and used
 
 (/data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/tex/latex/tkz-eu
@@ -1626,6 +1630,7 @@ Package chngcntr Info: \counterwithout already defined.
 \@indexfile=\write4
 \openout4 = `main.idx'.
 
+
 Writing index file main.idx
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 20.
@@ -1724,6 +1729,7 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <24> not available
 (Font)              Font shape `OT1/txr/bx/it' tried instead on input line 20.
+
 -- Lines per column: 45 (approximate, difference = 0.60239pt).
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1817,7 +1823,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 20.
-(./main.out) (./main.out)
+ (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -2007,8 +2013,8 @@ Package pdftex.def Info: chapters/12/10/5/3/figs/fig.pdf  used on input line 22
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
 
-[11 <./chapters/12/10/5/3/figs/fig.pdf>]) (./cbse/vectors/direction.tex) (./cha
-pters/vectors/section.tex (./chapters/10/7/2/1/section.tex
+[11 <./chapters/12/10/5/3/figs/fig.pdf>]) (./cbse/vectors/direction.tex)
+(./chapters/vectors/section.tex (./chapters/10/7/2/1/section.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2501,8 +2507,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.17.1
 <to be read again> 
                    \relax 
 l.146 \end{align}
-                 ) (./chapters/vectors/scalar.tex (./chapters/12/10/3/1/inner.t
-ex
+                 ) (./chapters/vectors/scalar.tex
+(./chapters/12/10/3/1/inner.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2677,8 +2683,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 <to be read again> 
                    \relax 
 l.11     \end{align}
-                    ) (./chapters/vectors/ortho.tex (./chapters/12/10/3/4/inner
-.tex
+                    ) (./chapters/vectors/ortho.tex
+(./chapters/12/10/3/4/inner.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -2885,8 +2891,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[46 <./chapters/10/7/1/6/figs/fig2.pdf> <./chapters/10/7/1/6/figs/fig3.pdf>] (.
-/chapters/12/10/3/10/inner.tex)
+[46 <./chapters/10/7/1/6/figs/fig2.pdf> <./chapters/10/7/1/6/figs/fig3.pdf>]
+(./chapters/12/10/3/10/inner.tex)
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 81.
 
@@ -3238,7 +3244,8 @@ File: chapters/11/10/1/1/figs/fig.pdf Graphic file (type pdf)
 Package pdftex.def Info: chapters/11/10/1/1/figs/fig.pdf  used on input line 11
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./cbse/vectors/cross.tex
+))
+(./cbse/vectors/cross.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -3512,8 +3519,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.30.2
 <to be read again> 
                    \relax 
 l.5 \end{align}
-               ) (./chapters/12/10/5/15/inner.tex) (./chapters/12/11/4/2/inner.
-tex) (./chapters/12/11/4/3/vec4.tex)
+               ) (./chapters/12/10/5/15/inner.tex)
+(./chapters/12/11/4/2/inner.tex) (./chapters/12/11/4/3/vec4.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -4614,8 +4621,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.30.2
 <to be read again> 
                    \relax 
 l.117 \end{align}
-                  (./chapters/12/11/4/20/line.tex) (./chapters/11/10/3/15/vecto
-r.tex
+                  (./chapters/12/11/4/20/line.tex)
+(./chapters/11/10/3/15/vector.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.31.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -4632,8 +4639,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.31.2
 <to be read again> 
                    \relax 
 l.9 \end{align}
-               ) (./chapters/11/10/2/11/line.tex) (./chapters/12/11/3/2/norm.te
-x
+               ) (./chapters/11/10/2/11/line.tex)
+(./chapters/12/11/3/2/norm.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.33.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -4860,8 +4867,8 @@ Package pdftex.def Info: chapters/11/10/4/6/figs/fig.pdf  used on input line 40
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
 
-[131 <./chapters/11/10/4/6/figs/fig.pdf>] (./chapters/11/10/4/12/straightline.t
-ex
+[131 <./chapters/11/10/4/6/figs/fig.pdf>]
+(./chapters/11/10/4/12/straightline.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.11.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -5285,8 +5292,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.35.1
 <to be read again> 
                    \relax 
 l.5 \end{align}
-               ) (./chapters/11/10/4/23/dist.tex) (./chapters/11/10/4/8/line.te
-x
+               ) (./chapters/11/10/4/23/dist.tex)
+(./chapters/11/10/4/8/line.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5680,8 +5687,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[186])) (./chapters/matrix/phy.tex (./figs/ckts/ckt1/main.tex) (./figs/ckts/ckt
-2/main.tex)
+[186])) (./chapters/matrix/phy.tex (./figs/ckts/ckt1/main.tex)
+(./figs/ckts/ckt2/main.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -6111,8 +6118,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[211 <./chapters/12/11/2/16/lsq/figs/skew.png>] (./chapters/12/11/2/e11/lsq/mai
-n.tex
+[211 <./chapters/12/11/2/16/lsq/figs/skew.png>]
+(./chapters/12/11/2/e11/lsq/main.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -6461,8 +6468,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}
 <to be read again> 
                    \relax 
 l.77                      \end{align}
-                                     ) (./chapters/circles/examples/equation.te
-x (./chapters/10/7/2/7/section.tex
+                                     )
+(./chapters/circles/examples/equation.tex (./chapters/10/7/2/7/section.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -6620,8 +6627,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.7.4}
 <to be read again> 
                    \relax 
 l.11 \end{align}
-                ) (./chapters/11/11/1/15/circle.tex (./chapters/11/11/1/15/tabl
-es/table_1.tex)
+                ) (./chapters/11/11/1/15/circle.tex
+(./chapters/11/11/1/15/tables/table_1.tex)
 pdfTeX warning (ext4): destination with the same identifier (name{equation.10.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -6811,8 +6818,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.29.3
 <to be read again> 
                    \relax 
 l.14 \end{align}
-                )) (./chapters/circles/examples/misc.tex (./chapters/11/11/1/5/
-circle.tex
+                )) (./chapters/circles/examples/misc.tex
+(./chapters/11/11/1/5/circle.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -7169,13 +7176,14 @@ File: chapters/11/11/4/1/figs/fig.pdf Graphic file (type pdf)
 Package pdftex.def Info: chapters/11/11/4/1/figs/fig.pdf  used on input line 7.
 
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-) (./chapters/conics/tables/std.tex)
+)
+(./chapters/conics/tables/std.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[242 <./chapters/11/11/3/1/figs/fig.pdf> <./chapters/11/11/4/1/figs/fig.pdf>] (
-./chapters/11/11/3/2/ellipse.tex
+[242 <./chapters/11/11/3/1/figs/fig.pdf> <./chapters/11/11/4/1/figs/fig.pdf>]
+(./chapters/11/11/3/2/ellipse.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.10.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -7214,8 +7222,8 @@ Package pdftex.def Info: chapters/11/11/2/4/figs/fig.pdf  used on input line 6.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
 )
 
-[245 <./chapters/11/11/4/5/figs/fig.pdf> <./chapters/11/11/2/4/figs/fig.pdf>] (
-./chapters/11/11/4/13/hyper.tex
+[245 <./chapters/11/11/4/5/figs/fig.pdf> <./chapters/11/11/2/4/figs/fig.pdf>]
+(./chapters/11/11/4/13/hyper.tex
 pdfTeX warning (ext4): destination with the same identifier (name{equation.30.1
 }) has been already used, duplicate ignored
 <to be read again> 
@@ -7251,7 +7259,7 @@ File: chapters/11/11/4/13/figs/fig.pdf Graphic file (type pdf)
 Package pdftex.def Info: chapters/11/11/4/13/figs/fig.pdf  used on input line 9
 8.
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-(./chapters/11/11/4/13/tables/table1.tex))
+ (./chapters/11/11/4/13/tables/table1.tex))
 Underfull \vbox (badness 7344) has occurred while \output is active []
 
 
@@ -7362,7 +7370,8 @@ File: chapters/11/11/4/9/figs/fig.pdf Graphic file (type pdf)
 Package pdftex.def Info: chapters/11/11/4/9/figs/fig.pdf  used on input line 52
 .
 (pdftex.def)             Requested size: 273.14647pt x 204.86801pt.
-)) (./chapters/conics/examples/misc.tex
+))
+(./chapters/conics/examples/misc.tex
 
 [255 <./chapters/11/11/4/9/figs/fig.pdf>]) (./JEE/conic.tex
 
@@ -7390,6 +7399,7 @@ File: omltxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OML/txr/m/n' in size <10> not available
 (Font)              Font shape `OML/txmi/m/it' tried instead on input line 209.
+
 
 
 LaTeX Warning: Command \textless invalid in math mode on input line 209.
@@ -8187,8 +8197,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.25.1
 <to be read again> 
                    \relax 
 l.107 \end{align}
-                 ) (./cbse/tangent/conic.tex) (./chapters/tangent/examples/cons
-t.tex
+                 ) (./cbse/tangent/conic.tex)
+(./chapters/tangent/examples/const.tex
 Underfull \vbox (badness 3386) has occurred while \output is active []
 
 
@@ -8283,8 +8293,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.3}
 <to be read again> 
                    \relax 
 l.17   \end{align}
-                  ) (./chapters/vectors/examples.tex (./figs/triangle/tri_alt_h
-.tex)
+                  ) (./chapters/vectors/examples.tex
+(./figs/triangle/tri_alt_h.tex)
 pdfTeX warning (ext4): destination with the same identifier (name{equation.1.1}
 ) has been already used, duplicate ignored
 <to be read again> 
@@ -8503,11 +8513,11 @@ Package pdftex.def Info: GATE/2009/EC/figs/fig_11.jpg  used on input line 23.
 (pdftex.def)             Requested size: 254.9356pt x 166.66966pt.
 
 
-[318 <./GATE/2009/EC/figs/fig_6.jpg>]) (./GATE/2009/GG/main.tex) (./GATE/2009/P
-I/main.tex
+[318 <./GATE/2009/EC/figs/fig_6.jpg>]) (./GATE/2009/GG/main.tex)
+(./GATE/2009/PI/main.tex
 
-[319 <./GATE/2009/EC/figs/fig_11.jpg>]) (./GATE/2010/IN/main.tex) (./GATE/2013/
-GG/main.tex
+[319 <./GATE/2009/EC/figs/fig_11.jpg>]) (./GATE/2010/IN/main.tex)
+(./GATE/2013/GG/main.tex
 
 [320]) (./GATE/2014/IN/main.tex) (./GATE/2017/PE/main.tex
 
@@ -8534,23 +8544,23 @@ Package pdftex.def Info: GATE/2022/IN/figs/q54.png  used on input line 28.
 
 [324]) (./GATE/2022/PE/main.tex) (./GATE/2008/CE/main.tex
 
-[325 <./GATE/2022/IN/figs/q54.png>]) (./GATE/2009/MT/main.tex) (./GATE/2009/XE/
-main.tex) (./GATE/2021/ES/main.tex
+[325 <./GATE/2022/IN/figs/q54.png>]) (./GATE/2009/MT/main.tex)
+(./GATE/2009/XE/main.tex) (./GATE/2021/ES/main.tex
 
-[326]) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex) (./GATE/2021/PE/main
-.tex) (./GATE/2009/CE/main.tex
+[326]) (./GATE/2009/ME/main.tex) (./GATE/2010/GG/main.tex)
+(./GATE/2021/PE/main.tex) (./GATE/2009/CE/main.tex
 
 [327]) (./GATE/2010/PH/main.tex) (./GATE/2014/PH/main.tex
 
-[328]) (./GATE/2017/GG/main.tex) (./GATE/2018/PH/main.tex) (./GATE/2021/GG/main
-.tex
+[328]) (./GATE/2017/GG/main.tex) (./GATE/2018/PH/main.tex)
+(./GATE/2021/GG/main.tex
 
 [329]) (./GATE/2022/PH/main.tex) (./GATE/2022/ST/main.tex
 
 [330]) (./GATE/2009/CH/main.tex) (./GATE/2009/IN/main.tex
 
-[331]) (./GATE/2013/PI/main.tex) (./GATE/2017/PI/main.tex) (./GATE/2024/PI/main
-.tex) (./GATE/2024/ST/main.tex
+[331]) (./GATE/2013/PI/main.tex) (./GATE/2017/PI/main.tex)
+(./GATE/2024/PI/main.tex) (./GATE/2024/ST/main.tex
 
 [332]
 
@@ -8604,8 +8614,8 @@ Overfull \hbox (8.15138pt too wide) in paragraph at lines 84--85
 
 [343]) (./GATE/2007/ME/main.tex) (./GATE/2007/MN/main.tex
 
-[344]) (./GATE/2007/GG/main.tex) (./GATE/2007/MT/main.tex) (./GATE/2007/PH/main
-.tex
+[344]) (./GATE/2007/GG/main.tex) (./GATE/2007/MT/main.tex)
+(./GATE/2007/PH/main.tex
 
 [345]) (./GATE/2007/PI/main.tex
 
@@ -8613,8 +8623,8 @@ Overfull \hbox (8.15138pt too wide) in paragraph at lines 84--85
 
 [347]
 
-[348]) (./GATE/2008/AG/main.tex) (./GATE/2008/CS/main.tex) (./GATE/2008/EC/main
-.tex
+[348]) (./GATE/2008/AG/main.tex) (./GATE/2008/CS/main.tex)
+(./GATE/2008/EC/main.tex
 
 [349]
 <GATE/2008/EC/figs/q40.png, id=10454, 821.0675pt x 397.485pt>
@@ -8642,24 +8652,24 @@ Package pdftex.def Info: GATE/2008/EC/figs/q40.png  used on input line 51.
 
 [358]) (./GATE/2009/EE/main.tex) (./GATE/2009/MA/main.tex
 
-[359]) (./GATE/2009/PH/main.tex) (./GATE/2010/AG/main.tex) (./GATE/2010/CE/main
-.tex
+[359]) (./GATE/2009/PH/main.tex) (./GATE/2010/AG/main.tex)
+(./GATE/2010/CE/main.tex
 
-[360]) (./GATE/2010/CH/main.tex) (./GATE/2010/ME/main.tex) (./GATE/2010/MN/main
-.tex) (./GATE/2010/XE/main.tex
+[360]) (./GATE/2010/CH/main.tex) (./GATE/2010/ME/main.tex)
+(./GATE/2010/MN/main.tex) (./GATE/2010/XE/main.tex
 
-[361]) (./GATE/2011/AE/main.tex) (./GATE/2011/AG/main.tex) (./GATE/2011/BT/main
-.tex) (./GATE/2011/CS/main.tex
+[361]) (./GATE/2011/AE/main.tex) (./GATE/2011/AG/main.tex)
+(./GATE/2011/BT/main.tex) (./GATE/2011/CS/main.tex
 
-[362]) (./GATE/2011/EE/main.tex) (./GATE/2011/GG/main.tex) (./GATE/2011/MA/main
-.tex
+[362]) (./GATE/2011/EE/main.tex) (./GATE/2011/GG/main.tex)
+(./GATE/2011/MA/main.tex
 
 [363]
 
 [364]) (./GATE/2011/ME/main.tex
 
-[365]) (./GATE/2011/MN/main.tex) (./GATE/2011/PH/main.tex) (./GATE/2011/PI/main
-.tex
+[365]) (./GATE/2011/MN/main.tex) (./GATE/2011/PH/main.tex)
+(./GATE/2011/PI/main.tex
 
 [366]) (./GATE/2011/XE/main.tex
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
@@ -8676,7 +8686,8 @@ File: GATE/2012/CE/figs/Q29.png Graphic file (type png)
 <use GATE/2012/CE/figs/Q29.png>
 Package pdftex.def Info: GATE/2012/CE/figs/Q29.png  used on input line 17.
 (pdftex.def)             Requested size: 109.25969pt x 56.60355pt.
-) (./GATE/2012/EC/main.tex) (./GATE/2012/MT/main.tex) (./GATE/2012/MA/main.tex
+) (./GATE/2012/EC/main.tex) (./GATE/2012/MT/main.tex)
+(./GATE/2012/MA/main.tex
 
 [368 <./GATE/2012/CE/figs/Q29.png>]
 
@@ -8693,8 +8704,8 @@ ine 50.
 
 [371]) (./GATE/2012/XE/main.tex) (./GATE/2013/AG/main.tex
 
-[372 <./GATE/2012/PI/figs/39-GATE-PI-2012.png>]) (./GATE/2013/BT/main.tex) (./G
-ATE/2013/CE/main.tex) (./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex
+[372 <./GATE/2012/PI/figs/39-GATE-PI-2012.png>]) (./GATE/2013/BT/main.tex)
+(./GATE/2013/CE/main.tex) (./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex
 
 [373]
 <GATE/2013/EC/figs/fig_23.png, id=11254, 527.9725pt x 128.48pt>
@@ -8724,11 +8735,11 @@ Underfull \vbox (badness 2635) has occurred while \output is active []
 
 
 
-[377 <./GATE/2024/PE/figs/LQ_53.png>]) (./GATE/2013/MT/main.tex) (./GATE/2013/X
-E/main.tex
+[377 <./GATE/2024/PE/figs/LQ_53.png>]) (./GATE/2013/MT/main.tex)
+(./GATE/2013/XE/main.tex
 
-[378]) (./GATE/2014/AE/main.tex) (./GATE/2014/CE/main.tex) (./GATE/2014/EY/main
-.tex
+[378]) (./GATE/2014/AE/main.tex) (./GATE/2014/CE/main.tex)
+(./GATE/2014/EY/main.tex
 
 [379]) (./GATE/2014/MA/main.tex) (./GATE/2014/ME/main.tex
 
@@ -8736,14 +8747,14 @@ E/main.tex
 
 [381]) (./GATE/2014/XE/main.tex) (./GATE/2007/CE/main.tex
 
-[382]) (./GATE/2007/GE/main.tex) (./GATE/2008/CH/main.tex) (./GATE/2009/CH/main
-.tex
+[382]) (./GATE/2007/GE/main.tex) (./GATE/2008/CH/main.tex)
+(./GATE/2009/CH/main.tex
 
-[383]) (./GATE/2009/AG/main.tex) (./GATE/2010/AE/main.tex) (./GATE/2010/MA/main
-.tex
+[383]) (./GATE/2009/AG/main.tex) (./GATE/2010/AE/main.tex)
+(./GATE/2010/MA/main.tex
 
-[384]) (./GATE/2011/CE/main.tex) (./GATE/2011/IN/main.tex) (./GATE/2012/AG/main
-.tex
+[384]) (./GATE/2011/CE/main.tex) (./GATE/2011/IN/main.tex)
+(./GATE/2012/AG/main.tex
 
 [385]) (./GATE/2012/CH/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
@@ -8769,21 +8780,22 @@ File: GATE/2014/MN/figs/diagram.png Graphic file (type png)
 <use GATE/2014/MN/figs/diagram.png>
 Package pdftex.def Info: GATE/2014/MN/figs/diagram.png  used on input line 5.
 (pdftex.def)             Requested size: 145.67589pt x 102.32219pt.
-) (./GATE/2015/AE/main.tex
+)
+(./GATE/2015/AE/main.tex
 
-[390 <./GATE/2014/MN/figs/diagram.png>]) (./GATE/2015/AG/main.tex) (./GATE/2015
-/BT/main.tex) (./GATE/2015/CH/main.tex
+[390 <./GATE/2014/MN/figs/diagram.png>]) (./GATE/2015/AG/main.tex)
+(./GATE/2015/BT/main.tex) (./GATE/2015/CH/main.tex
 
-[391]) (./GATE/2015/EE/main.tex) (./GATE/2015/EY/main.tex) (./GATE/2015/GG/main
-.tex) (./GATE/2015/IN/main.tex
+[391]) (./GATE/2015/EE/main.tex) (./GATE/2015/EY/main.tex)
+(./GATE/2015/GG/main.tex) (./GATE/2015/IN/main.tex
 
 [392]) (./GATE/2015/MA/main.tex
 
-[393]) (./GATE/2015/ME/main.tex) (./GATE/2015/MN/main.tex) (./GATE/2015/PI/main
-.tex) (./GATE/2015/XE/main.tex
+[393]) (./GATE/2015/ME/main.tex) (./GATE/2015/MN/main.tex)
+(./GATE/2015/PI/main.tex) (./GATE/2015/XE/main.tex
 
-[394]) (./GATE/2016/AE/main.tex) (./GATE/2016/AG/main.tex) (./GATE/2016/BT/main
-.tex) (./GATE/2016/CH/main.tex
+[394]) (./GATE/2016/AE/main.tex) (./GATE/2016/AG/main.tex)
+(./GATE/2016/BT/main.tex) (./GATE/2016/CH/main.tex
 
 [395]) (./GATE/2016/EC/main.tex) (./GATE/2016/EE/main.tex
 
@@ -8815,11 +8827,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[400 <./GATE/2016/ME/figs/q6.png>]) (./GATE/2016/MN/main.tex) (./GATE/2016/MT/m
-ain.tex
+[400 <./GATE/2016/ME/figs/q6.png>]) (./GATE/2016/MN/main.tex)
+(./GATE/2016/MT/main.tex
 
-[401 <./GATE/2016/ME/figs/q30.png>]) (./GATE/2016/PE/main.tex) (./GATE/2016/PI/
-main.tex) (./GATE/2016/XE/main.tex
+[401 <./GATE/2016/ME/figs/q30.png>]) (./GATE/2016/PE/main.tex)
+(./GATE/2016/PI/main.tex) (./GATE/2016/XE/main.tex
 <GATE/2016/XE/figs/ass3_d_q3.png, id=12118, 158.09062pt x 82.80937pt>
 File: GATE/2016/XE/figs/ass3_d_q3.png Graphic file (type png)
 <use GATE/2016/XE/figs/ass3_d_q3.png>
@@ -8836,8 +8848,8 @@ Package pdftex.def Info: GATE/2016/XE/figs/ass3_d_q11.png  used on input line 2
 
 [402 <./GATE/2016/XE/figs/ass3_d_q3.png>]) (./GATE/2017/AE/main.tex
 
-[403 <./GATE/2016/XE/figs/ass3_d_q11.png>]) (./GATE/2017/AG/main.tex) (./GATE/2
-017/BT/main.tex) (./GATE/2017/CE/main.tex
+[403 <./GATE/2016/XE/figs/ass3_d_q11.png>]) (./GATE/2017/AG/main.tex)
+(./GATE/2017/BT/main.tex) (./GATE/2017/CE/main.tex
 
 [404]) (./GATE/2017/CS/main.tex) (./GATE/2017/EC/main.tex
 
@@ -8862,21 +8874,22 @@ File: GATE/2017/IN/figs/Q-8.png Graphic file (type png)
 <use GATE/2017/IN/figs/Q-8.png>
 Package pdftex.def Info: GATE/2017/IN/figs/Q-8.png  used on input line 54.
 (pdftex.def)             Requested size: 218.5194pt x 97.17892pt.
-) (./GATE/2017/ME/main.tex) (./GATE/2017/MT/main.tex
+)
+(./GATE/2017/ME/main.tex) (./GATE/2017/MT/main.tex
 
-[408 <./GATE/2017/IN/figs/Q-8.png>]) (./GATE/2017/PH/main.tex) (./GATE/2017/XE/
-main.tex) (./GATE/2018/AE/main.tex) (./GATE/2017/MA/main.tex
+[408 <./GATE/2017/IN/figs/Q-8.png>]) (./GATE/2017/PH/main.tex)
+(./GATE/2017/XE/main.tex) (./GATE/2018/AE/main.tex) (./GATE/2017/MA/main.tex
 
-[409]) (./GATE/2018/XH/main.tex) (./GATE/2018/BT/main.tex) (./GATE/2018/CE/main
-.tex
+[409]) (./GATE/2018/XH/main.tex) (./GATE/2018/BT/main.tex)
+(./GATE/2018/CE/main.tex
 
-[410]) (./GATE/2018/CH/main.tex) (./GATE/2018/EE/main.tex) (./GATE/2018/GG/main
-.tex) (./GATE/2018/MA/main.tex
+[410]) (./GATE/2018/CH/main.tex) (./GATE/2018/EE/main.tex)
+(./GATE/2018/GG/main.tex) (./GATE/2018/MA/main.tex
 
 [411]) (./GATE/2018/ME/main.tex
 
-[412]) (./GATE/2018/MN/main.tex) (./GATE/2018/PI/main.tex) (./GATE/2018/XE/main
-.tex
+[412]) (./GATE/2018/MN/main.tex) (./GATE/2018/PI/main.tex)
+(./GATE/2018/XE/main.tex
 <GATE/2018/XE/figs/q11_solid.png, id=12438, 92.345pt x 61.73062pt>
 File: GATE/2018/XE/figs/q11_solid.png Graphic file (type png)
 <use GATE/2018/XE/figs/q11_solid.png>
@@ -8885,12 +8898,12 @@ Package pdftex.def Info: GATE/2018/XE/figs/q11_solid.png  used on input line 13
 (pdftex.def)             Requested size: 145.67589pt x 97.38162pt.
 
 
-[413 <./GATE/2018/XE/figs/q11_solid.png>]) (./GATE/2019/AE/main.tex) (./GATE/20
-19/AG/main.tex) (./GATE/2019/BT/main.tex) (./GATE/2019/CH/main.tex) (./GATE/201
-9/CS/main.tex
+[413 <./GATE/2018/XE/figs/q11_solid.png>]) (./GATE/2019/AE/main.tex)
+(./GATE/2019/AG/main.tex) (./GATE/2019/BT/main.tex) (./GATE/2019/CH/main.tex)
+(./GATE/2019/CS/main.tex
 
-[414]) (./GATE/2019/EE/main.tex) (./GATE/2019/EY/main.tex) (./GATE/2019/IN/main
-.tex) (./GATE/2019/MA/main.tex
+[414]) (./GATE/2019/EE/main.tex) (./GATE/2019/EY/main.tex)
+(./GATE/2019/IN/main.tex) (./GATE/2019/MA/main.tex
 Underfull \vbox (badness 1142) has occurred while \output is active []
 
 
@@ -8914,9 +8927,9 @@ Package pdftex.def Info: GATE/2019/ME/figs/Fig 5.png  used on input line 19.
 (pdftex.def)             Requested size: 182.09764pt x 142.01405pt.
 
 
-[417 <./GATE/2019/ME/figs/Fig 5.png>]) (./GATE/2019/MN/main.tex) (./GATE/2019/P
-E/main.tex) (./GATE/2019/PH/main.tex) (./GATE/2010/CS/main.tex) (./GATE/2011/EC
-/main.tex
+[417 <./GATE/2019/ME/figs/Fig 5.png>]) (./GATE/2019/MN/main.tex)
+(./GATE/2019/PE/main.tex) (./GATE/2019/PH/main.tex) (./GATE/2010/CS/main.tex)
+(./GATE/2011/EC/main.tex
 
 [418]) (./GATE/2015/CS/main.tex) (./GATE/2015/EC/main.tex
 
@@ -8928,8 +8941,8 @@ Package pdftex.def Info: GATE/2015/EC/figs/q18.png  used on input line 16.
 (pdftex.def)             Requested size: 182.09764pt x 74.89717pt.
 ) (./GATE/2016/CS/main.tex
 
-[420 <./GATE/2015/EC/figs/q18.png>]) (./GATE/2018/CS/main.tex) (./GATE/2018/EC/
-main.tex
+[420 <./GATE/2015/EC/figs/q18.png>]) (./GATE/2018/CS/main.tex)
+(./GATE/2018/EC/main.tex
 
 [421]) (./GATE/2019/EC/main.tex
 <GATE/2019/EC/figs/q28.png, id=12700, 447.6725pt x 307.1475pt>
@@ -8943,8 +8956,8 @@ Package pdftex.def Info: GATE/2019/EC/figs/q28.png  used on input line 21.
 
 [423]) (./GATE/2019/XE/main.tex
 
-[424]) (./GATE/2020/AE/main.tex) (./GATE/2020/AG/main.tex) (./GATE/2020/BM/main
-.tex
+[424]) (./GATE/2020/AE/main.tex) (./GATE/2020/AG/main.tex)
+(./GATE/2020/BM/main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
@@ -8959,8 +8972,8 @@ Package pdftex.def Info: GATE/2020/EC/figs/Q30.png  used on input line 31.
 (pdftex.def)             Requested size: 218.5194pt x 111.96605pt.
 
 
-[426 <./GATE/2020/EC/figs/Q30.png>]) (./GATE/2020/EE/main.tex) (./GATE/2020/GG/
-main.tex) (./GATE/2020/IN/main.tex
+[426 <./GATE/2020/EC/figs/Q30.png>]) (./GATE/2020/EE/main.tex)
+(./GATE/2020/GG/main.tex) (./GATE/2020/IN/main.tex
 
 [427]
 <GATE/2020/IN/figs/q13.jpg, id=12883, 190.91325pt x 133.6995pt>
@@ -8974,13 +8987,13 @@ Package pdftex.def Info: GATE/2020/IN/figs/q13.jpg  used on input line 52.
 
 [429]) (./GATE/2020/ME/main.tex
 
-[430]) (./GATE/2020/MT/main.tex) (./GATE/2020/PE/main.tex) (./GATE/2020/PH/main
-.tex
+[430]) (./GATE/2020/MT/main.tex) (./GATE/2020/PE/main.tex)
+(./GATE/2020/PH/main.tex
 
 [431]) (./GATE/2020/ST/main.tex
 
-[432]) (./GATE/2020/XE/main.tex) (./GATE/2021/AE/main.tex) (./GATE/2021/AG/main
-.tex) (./GATE/2021/BT/main.tex) (./GATE/2021/CE/main.tex
+[432]) (./GATE/2020/XE/main.tex) (./GATE/2021/AE/main.tex)
+(./GATE/2021/AG/main.tex) (./GATE/2021/BT/main.tex) (./GATE/2021/CE/main.tex
 
 [433]
 Underfull \hbox (badness 10000) in paragraph at lines 57--58
@@ -8994,13 +9007,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
 ) (./GATE/2021/CH/main.tex
 
-[434]) (./GATE/2021/CS/main.tex) (./GATE/2021/EC/main.tex) (./GATE/2021/EE/main
-.tex
+[434]) (./GATE/2021/CS/main.tex) (./GATE/2021/EC/main.tex)
+(./GATE/2021/EE/main.tex
 
 [435]) (./GATE/2021/IN/main.tex) (./GATE/2021/MA/main.tex
 
-[436]) (./GATE/2021/MT/main.tex) (./GATE/2021/PH/main.tex) (./GATE/2021/PI/main
-.tex
+[436]) (./GATE/2021/MT/main.tex) (./GATE/2021/PH/main.tex)
+(./GATE/2021/PI/main.tex
 
 [437]) (./GATE/2021/XE/main.tex) (./GATE/2022/BM/main.tex
 <GATE/2022/BM/figs/q15.png, id=13167, 512.66531pt x 263.48438pt>
@@ -9015,8 +9028,8 @@ Underfull \vbox (badness 5756) has occurred while \output is active []
 
 [438]) (./GATE/2022/BT/main.tex) (./GATE/2022/CS/main.tex
 
-[439 <./GATE/2022/BM/figs/q15.png>]) (./GATE/2022/CY/main.tex) (./GATE/2022/EC/
-main.tex
+[439 <./GATE/2022/BM/figs/q15.png>]) (./GATE/2022/CY/main.tex)
+(./GATE/2022/EC/main.tex
 <GATE/2022/EC/figs/m3.jpg, id=13224, 82.50826pt x 78.89474pt>
 File: GATE/2022/EC/figs/m3.jpg Graphic file (type jpg)
 <use GATE/2022/EC/figs/m3.jpg>
@@ -9030,11 +9043,11 @@ tion
 
 
 
-[440 <./GATE/2022/EC/figs/m3.jpg>]) (./GATE/2022/ES/main.tex) (./GATE/2022/EY/m
-ain.tex
+[440 <./GATE/2022/EC/figs/m3.jpg>]) (./GATE/2022/ES/main.tex)
+(./GATE/2022/EY/main.tex
 
-[441]) (./GATE/2022/GE/main.tex) (./GATE/2022/GG/main.tex) (./GATE/2022/MA/main
-.tex
+[441]) (./GATE/2022/GE/main.tex) (./GATE/2022/GG/main.tex)
+(./GATE/2022/MA/main.tex
 
 [442]) (./GATE/2022/ME/main.tex
 
@@ -9044,15 +9057,16 @@ File: GATE/2022/MN/figs/vec.png Graphic file (type png)
 <use GATE/2022/MN/figs/vec.png>
 Package pdftex.def Info: GATE/2022/MN/figs/vec.png  used on input line 4.
 (pdftex.def)             Requested size: 145.67589pt x 104.05334pt.
-) (./GATE/2022/NM/main.tex) (./GATE/2022/PI/main.tex) (./GATE/2022/XE/main.tex
+) (./GATE/2022/NM/main.tex)
+(./GATE/2022/PI/main.tex) (./GATE/2022/XE/main.tex
 
-[444 <./GATE/2022/MN/figs/vec.png>]) (./GATE/2022/XH/main.tex) (./GATE/2023/AE/
-main.tex
+[444 <./GATE/2022/MN/figs/vec.png>]) (./GATE/2022/XH/main.tex)
+(./GATE/2023/AE/main.tex
 
 [445]) (./GATE/2023/AG/main.tex
 
-[446]) (./GATE/2023/BM/main.tex) (./GATE/2023/BT/main.tex) (./GATE/2023/CE/main
-.tex) (./GATE/2023/CH/main.tex
+[446]) (./GATE/2023/BM/main.tex) (./GATE/2023/BT/main.tex)
+(./GATE/2023/CE/main.tex) (./GATE/2023/CH/main.tex
 
 [447]) (./GATE/2023/CS/main.tex
 
@@ -9075,16 +9089,16 @@ Package pdftex.def Info: GATE/2023/EE/figs/Q 24.png  used on input line 13.
 (pdftex.def)             Requested size: 182.09764pt x 117.09671pt.
 
 
-[449 <./GATE/2023/EE/figs/Q 24.png (PNG copy)>]) (./GATE/2023/ES/main.tex) (./G
-ATE/2023/GE/main.tex) (./GATE/2023/IN/main.tex) (./GATE/2023/MA/main.tex
+[449 <./GATE/2023/EE/figs/Q 24.png (PNG copy)>]) (./GATE/2023/ES/main.tex)
+(./GATE/2023/GE/main.tex) (./GATE/2023/IN/main.tex) (./GATE/2023/MA/main.tex
 
 [450]
 
-[451]) (./GATE/2023/ME/main.tex) (./GATE/2023/MN/main.tex) (./GATE/2023/NM/main
-.tex
+[451]) (./GATE/2023/ME/main.tex) (./GATE/2023/MN/main.tex)
+(./GATE/2023/NM/main.tex
 
-[452]) (./GATE/2023/PE/main.tex) (./GATE/2023/PI/main.tex) (./GATE/2023/ST/main
-.tex
+[452]) (./GATE/2023/PE/main.tex) (./GATE/2023/PI/main.tex)
+(./GATE/2023/ST/main.tex
 
 [453]
 
@@ -9099,12 +9113,12 @@ Underfull \vbox (badness 1122) has occurred while \output is active []
 
 
 
-[455]) (./GATE/2024/AE/main.tex) (./GATE/2024/AG/main.tex) (./GATE/2024/BM/main
-.tex
+[455]) (./GATE/2024/AE/main.tex) (./GATE/2024/AG/main.tex)
+(./GATE/2024/BM/main.tex
 
-[456 <./GATE/2023/XE/figs/fig14.png>]) (./GATE/2024/BT/main.tex) (./GATE/2024/C
-E/main.tex) (./GATE/2024/CH/main.tex) (./GATE/2024/CS/main.tex) (./GATE/2024/DA
-/main.tex
+[456 <./GATE/2023/XE/figs/fig14.png>]) (./GATE/2024/BT/main.tex)
+(./GATE/2024/CE/main.tex) (./GATE/2024/CH/main.tex) (./GATE/2024/CS/main.tex)
+(./GATE/2024/DA/main.tex
 
 [457]
 
@@ -9133,8 +9147,8 @@ Underfull \vbox (badness 2573) has occurred while \output is active []
 
 [462]) (./GATE/2024/MT/main.tex) (./GATE/2024/NM/main.tex
 
-[463]) (./GATE/2024/PH/main.tex) (./GATE/2024/XE/main.tex) (./GATE/2025/AG/main
-.tex) (./GATE/2025/ST/main.tex
+[463]) (./GATE/2024/PH/main.tex) (./GATE/2024/XE/main.tex)
+(./GATE/2025/AG/main.tex) (./GATE/2025/ST/main.tex
 
 [464]) (./GATE/2025/MA/main.tex
 
@@ -9147,11 +9161,11 @@ Underfull \vbox (badness 1796) has occurred while \output is active []
 
 [465]
 
-[466]) (./GATE/2025/CE/main.tex) (./GATE/2025/CH/main.tex) (./GATE/2025/CS/main
-.tex
+[466]) (./GATE/2025/CE/main.tex) (./GATE/2025/CH/main.tex)
+(./GATE/2025/CS/main.tex
 
-[467]) (./GATE/2025/EC/main.tex) (./GATE/2025/ES/main.tex) (./GATE/2025/GE/main
-.tex
+[467]) (./GATE/2025/EC/main.tex) (./GATE/2025/ES/main.tex)
+(./GATE/2025/GE/main.tex
 <GATE/2025/GE/figs/fig12.png, id=13992, 202.7575pt x 94.3525pt>
 File: GATE/2025/GE/figs/fig12.png Graphic file (type png)
 <use GATE/2025/GE/figs/fig12.png>
@@ -9186,13 +9200,14 @@ File: GATE/2025/GG1/figs/fig12.png Graphic file (type png)
 <use GATE/2025/GG1/figs/fig12.png>
 Package pdftex.def Info: GATE/2025/GG1/figs/fig12.png  used on input line 5.
 (pdftex.def)             Requested size: 254.9356pt x 86.1617pt.
-) (./GATE/2025/GG2/main.tex) (./GATE/2025/IN/main.tex
+) (./GATE/2025/GG2/main.tex)
+(./GATE/2025/IN/main.tex
 
 [469 <./GATE/2025/GE/figs/fig12.png> <./GATE/2025/GE/figs/fig15.png> <./GATE/20
 25/GE/figs/fig16.png> <./GATE/2025/GE/figs/fig17.png> <./GATE/2025/GE/figs/fig1
-8.png> <./GATE/2025/GG1/figs/fig12.png>]) (./GATE/2025/ME/main.tex) (./GATE/202
-5/MT/main.tex) (./GATE/2025/NM/main.tex) (./GATE/2025/PE/main.tex) (./GATE/2025
-/PH/main.tex) (./GATE/2025/PI/main.tex
+8.png> <./GATE/2025/GG1/figs/fig12.png>]) (./GATE/2025/ME/main.tex)
+(./GATE/2025/MT/main.tex) (./GATE/2025/NM/main.tex) (./GATE/2025/PE/main.tex)
+(./GATE/2025/PH/main.tex) (./GATE/2025/PI/main.tex
 
 [470]) (./GATE/2025/XE/main.tex) (./GATE/2025/XH/main.tex))
 
@@ -11803,7 +11818,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  71387 strings out of 473197
  1609545 string characters out of 5701897
- 1996504 words of memory out of 5000000
+ 1996502 words of memory out of 5000000
  82536 multiletter control sequences out of 15000+600000
  650571 words of font info for 231 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
