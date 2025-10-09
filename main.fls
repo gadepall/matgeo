@@ -3204,6 +3204,12 @@ INPUT GATE/2025/GG2/main.tex
 INPUT ./GATE/2025/IN/main.tex
 INPUT ./GATE/2025/IN/main.tex
 INPUT GATE/2025/IN/main.tex
+INPUT ./GATE/2025/ME/main.tex
+INPUT ./GATE/2025/ME/main.tex
+INPUT GATE/2025/ME/main.tex
+INPUT ./GATE/2025/MT/main.tex
+INPUT ./GATE/2025/MT/main.tex
+INPUT GATE/2025/MT/main.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
 INPUT ./chapters/triangle/vector.tex
