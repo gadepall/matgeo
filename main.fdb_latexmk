@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760006931.73951 0
-  "main.idx" 1760006912 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760017434.83816 0
+  "main.idx" 1760017414 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1760006910.10063 "main.tex" "main.pdf" "main" 1760006931.74026 0
+["pdflatex"] 1760017410.23637 "main.tex" "main.pdf" "main" 1760017434.83913 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -676,7 +676,9 @@
   "GATE/2025/PH/main.tex" 1760004949 400 52475f4fd7d6de12ce980c36bdd8b210 ""
   "GATE/2025/PI/main.tex" 1760006878 583 d3aa8397b06138c69d1a6ba1e703e73b ""
   "GATE/2025/ST/main.tex" 1759863613 2235 daa043859fbbdb12a3bc086e8dd20663 ""
-  "GATE/matrix.tex" 1760006885 9824 9da0e0476b1b1994d8478734529a47d2 ""
+  "GATE/2025/XE/main.tex" 1760016853 609 6b974dfd6227875098507c9281d3bf7b ""
+  "GATE/2025/XH/main.tex" 1760017408 356 8c67f5326056c813c5451067567b001f ""
+  "GATE/matrix.tex" 1760008088 9886 5c64467fbcc874555fd55151ff4e0ee5 ""
   "JEE/alg.tex" 1756374366 2020 ebea0919e111e73ca70fe6c3feee6526 ""
   "JEE/chapters/2.10.84/figs/cube_lines.png" 1757154523 579429 651ffa2ef984f599540e7be0b201110c ""
   "JEE/chapters/2.10.84/main.tex" 1757156087 2406 3955214aa616b2c9d34d35a732447cfb ""
@@ -1069,11 +1071,11 @@
   "figs/triangle/vector.pdf" 1756374387 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1760006930 93020 38d025c13d164048ef1df7620c039c74 "pdflatex"
+  "main.aux" 1760017433 93020 b6d68f1d80a62188ede6eb45b79fbcc4 "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1760006930 11221 50595ac7dfd8d3ab394f3a099f610090 "pdflatex"
+  "main.out" 1760017433 11221 50595ac7dfd8d3ab394f3a099f610090 "pdflatex"
   "main.tex" 1757155029 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1760006930 8307 519a3eb5a89d98e7779565370b25214e "pdflatex"
+  "main.toc" 1760017433 8307 519a3eb5a89d98e7779565370b25214e "pdflatex"
   "solutions/1/2/1/main.tex" 1756374388 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1756374388 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1756374388 982 f173de01e8a4c9d6e53675687c8d90b7 ""
