@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760075306.54847 0
-  "main.idx" 1760075287 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760078778.66834 0
+  "main.idx" 1760078758 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1760075284.00032 "main.tex" "main.pdf" "main" 1760075306.54939 0
+["pdflatex"] 1760078754.92644 "main.tex" "main.pdf" "main" 1760078778.66911 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -1021,7 +1021,7 @@
   "chapters/inter/examples/curves.tex" 1756374385 727 400966ea250d15a7829e11c8cf310c34 ""
   "chapters/linear/angle.tex" 1756374385 1165 b940b0033e8427ab14c6bd124c20b062 ""
   "chapters/linear/equation.tex" 1756374385 9208 6bc632d8faec8511ed0b73f8e7727826 ""
-  "chapters/linear/intersect.tex" 1756374385 4931 7754c1549d4b51879edff1a4b8cdbd50 ""
+  "chapters/linear/intersect.tex" 1760078752 4943 85a229fc4fd8860b8d6e1976a729e68b ""
   "chapters/linear/misc.tex" 1756374385 10889 5574ee3bbc015ff123ef7b3d2fb9fd75 ""
   "chapters/linear/parallel.tex" 1756374385 2595 7083901f56d41ec153b27f772c964530 ""
   "chapters/linear/param.tex" 1756374385 776 e8e9db9edbb7085b05035b2015ddb6e1 ""
@@ -1071,11 +1071,11 @@
   "figs/triangle/vector.pdf" 1756374387 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1760075305 93020 b6d68f1d80a62188ede6eb45b79fbcc4 "pdflatex"
+  "main.aux" 1760078777 93020 b6d68f1d80a62188ede6eb45b79fbcc4 "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1760075305 11221 50595ac7dfd8d3ab394f3a099f610090 "pdflatex"
+  "main.out" 1760078777 11221 50595ac7dfd8d3ab394f3a099f610090 "pdflatex"
   "main.tex" 1760063786 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1760075305 8307 519a3eb5a89d98e7779565370b25214e "pdflatex"
+  "main.toc" 1760078777 8307 519a3eb5a89d98e7779565370b25214e "pdflatex"
   "solutions/1/2/1/main.tex" 1756374388 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1756374388 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1756374388 982 f173de01e8a4c9d6e53675687c8d90b7 ""
