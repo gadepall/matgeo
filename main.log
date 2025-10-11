@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  11 OCT 2025 10:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Termux) (preloaded format=pdflatex 2025.4.4)  11 OCT 2025 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8673,21 +8673,25 @@ Package pdftex.def Info: GATE/2012/CE/figs/Q29.png  used on input line 17.
 
 [368 <./GATE/2012/CE/figs/Q29.png>]
 
-[369]
+[369]) (./GATE/2012/PH/main.tex
 
-[370]) (./GATE/2012/PH/main.tex) (./GATE/2012/PI/main.tex
-<GATE/2012/PI/figs/39-GATE-PI-2012.png, id=11148, 345.54094pt x 201.00093pt>
+[370]) (./GATE/2012/PI/main.tex
+<GATE/2012/PI/figs/39-GATE-PI-2012.png, id=11145, 345.54094pt x 201.00093pt>
 File: GATE/2012/PI/figs/39-GATE-PI-2012.png Graphic file (type png)
 <use GATE/2012/PI/figs/39-GATE-PI-2012.png>
 Package pdftex.def Info: GATE/2012/PI/figs/39-GATE-PI-2012.png  used on input l
 ine 50.
 (pdftex.def)             Requested size: 127.47057pt x 74.14835pt.
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[371]) (./GATE/2012/XE/main.tex) (./GATE/2013/AG/main.tex
 
-[372 <./GATE/2012/PI/figs/39-GATE-PI-2012.png>]) (./GATE/2013/BT/main.tex) (./G
-ATE/2013/CE/main.tex) (./GATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex
+
+[371]) (./GATE/2012/XE/main.tex) (./GATE/2013/AG/main.tex) (./GATE/2013/BT/main
+.tex
+
+[372 <./GATE/2012/PI/figs/39-GATE-PI-2012.png>]) (./GATE/2013/CE/main.tex) (./G
+ATE/2013/CH/main.tex) (./GATE/2013/EC/main.tex
 
 [373]
 <GATE/2013/EC/figs/fig_23.png, id=11255, 527.9725pt x 128.48pt>
@@ -8702,7 +8706,7 @@ Package pdftex.def Info: GATE/2013/EC/figs/fig_23.png  used on input line 53.
 [375]) (./GATE/2010/PI/main.tex) (./GATE/2024/ES/main.tex
 
 [376]) (./GATE/2024/PE/main.tex
-<GATE/2024/PE/figs/LQ_53.png, id=11339, 418.56375pt x 280.04625pt>
+<GATE/2024/PE/figs/LQ_53.png, id=11335, 418.56375pt x 280.04625pt>
 File: GATE/2024/PE/figs/LQ_53.png Graphic file (type png)
 <use GATE/2024/PE/figs/LQ_53.png>
 Package pdftex.def Info: GATE/2024/PE/figs/LQ_53.png  used on input line 21.
@@ -8757,7 +8761,7 @@ Package multicol Warning: Using `1' columns doesn't seem a good idea.
 [388]) (./GATE/2013/PH/main.tex) (./GATE/2013/BT/main.tex
 
 [389]) (./GATE/2014/AG/main.tex) (./GATE/2014/MN/main.tex
-<GATE/2014/MN/figs/diagram.png, id=11756, 129.48375pt x 90.93974pt>
+<GATE/2014/MN/figs/diagram.png, id=11752, 129.48375pt x 90.93974pt>
 File: GATE/2014/MN/figs/diagram.png Graphic file (type png)
 <use GATE/2014/MN/figs/diagram.png>
 Package pdftex.def Info: GATE/2014/MN/figs/diagram.png  used on input line 5.
@@ -8783,7 +8787,7 @@ Package pdftex.def Info: GATE/2014/MN/figs/diagram.png  used on input line 5.
 [396]) (./GATE/2016/GG/main.tex
 
 [397]) (./GATE/2016/IN/main.tex
-<GATE/2016/IN/figs/z4.jpg, id=12018, 131.2905pt x 70.46326pt>
+<GATE/2016/IN/figs/z4.jpg, id=12014, 131.2905pt x 70.46326pt>
 File: GATE/2016/IN/figs/z4.jpg Graphic file (type jpg)
 <use GATE/2016/IN/figs/z4.jpg>
 Package pdftex.def Info: GATE/2016/IN/figs/z4.jpg  used on input line 28.
@@ -8793,12 +8797,12 @@ Package pdftex.def Info: GATE/2016/IN/figs/z4.jpg  used on input line 28.
 [398 <./GATE/2016/IN/figs/z4.jpg>]) (./GATE/2016/ME/main.tex
 
 [399]
-<GATE/2016/ME/figs/q6.png, id=12080, 529.98pt x 624.3325pt>
+<GATE/2016/ME/figs/q6.png, id=12076, 529.98pt x 624.3325pt>
 File: GATE/2016/ME/figs/q6.png Graphic file (type png)
 <use GATE/2016/ME/figs/q6.png>
 Package pdftex.def Info: GATE/2016/ME/figs/q6.png  used on input line 20.
 (pdftex.def)             Requested size: 158.99521pt x 187.3012pt.
-<GATE/2016/ME/figs/q30.png, id=12081, 654.445pt x 518.93875pt>
+<GATE/2016/ME/figs/q30.png, id=12077, 654.445pt x 518.93875pt>
 File: GATE/2016/ME/figs/q30.png Graphic file (type png)
 <use GATE/2016/ME/figs/q30.png>
 Package pdftex.def Info: GATE/2016/ME/figs/q30.png  used on input line 38.
@@ -8813,13 +8817,13 @@ ain.tex
 
 [401 <./GATE/2016/ME/figs/q30.png>]) (./GATE/2016/PE/main.tex) (./GATE/2016/PI/
 main.tex) (./GATE/2016/XE/main.tex
-<GATE/2016/XE/figs/ass3_d_q3.png, id=12119, 158.09062pt x 82.80937pt>
+<GATE/2016/XE/figs/ass3_d_q3.png, id=12115, 158.09062pt x 82.80937pt>
 File: GATE/2016/XE/figs/ass3_d_q3.png Graphic file (type png)
 <use GATE/2016/XE/figs/ass3_d_q3.png>
 Package pdftex.def Info: GATE/2016/XE/figs/ass3_d_q3.png  used on input line 13
 .
 (pdftex.def)             Requested size: 182.09764pt x 95.39175pt.
-<GATE/2016/XE/figs/ass3_d_q11.png, id=12120, 188.705pt x 132.99687pt>
+<GATE/2016/XE/figs/ass3_d_q11.png, id=12116, 188.705pt x 132.99687pt>
 File: GATE/2016/XE/figs/ass3_d_q11.png Graphic file (type png)
 <use GATE/2016/XE/figs/ass3_d_q11.png>
 Package pdftex.def Info: GATE/2016/XE/figs/ass3_d_q11.png  used on input line 2
@@ -8837,12 +8841,12 @@ Package pdftex.def Info: GATE/2016/XE/figs/ass3_d_q11.png  used on input line 2
 [405]) (./GATE/2017/EE/main.tex
 
 [406]) (./GATE/2017/IN/main.tex
-<GATE/2017/IN/figs/Q-2.png, id=12271, 336.0555pt x 208.98074pt>
+<GATE/2017/IN/figs/Q-2.png, id=12267, 336.0555pt x 208.98074pt>
 File: GATE/2017/IN/figs/Q-2.png Graphic file (type png)
 <use GATE/2017/IN/figs/Q-2.png>
 Package pdftex.def Info: GATE/2017/IN/figs/Q-2.png  used on input line 10.
 (pdftex.def)             Requested size: 182.09764pt x 113.24013pt.
-<GATE/2017/IN/figs/Q-7.png, id=12273, 337.86224pt x 102.98476pt>
+<GATE/2017/IN/figs/Q-7.png, id=12269, 337.86224pt x 102.98476pt>
 File: GATE/2017/IN/figs/Q-7.png Graphic file (type png)
 <use GATE/2017/IN/figs/Q-7.png>
 Package pdftex.def Info: GATE/2017/IN/figs/Q-7.png  used on input line 37.
@@ -8850,7 +8854,7 @@ Package pdftex.def Info: GATE/2017/IN/figs/Q-7.png  used on input line 37.
 
 
 [407 <./GATE/2017/IN/figs/Q-2.png> <./GATE/2017/IN/figs/Q-7.png>]
-<GATE/2017/IN/figs/Q-8.png, id=12296, 473.97075pt x 210.7875pt>
+<GATE/2017/IN/figs/Q-8.png, id=12292, 473.97075pt x 210.7875pt>
 File: GATE/2017/IN/figs/Q-8.png Graphic file (type png)
 <use GATE/2017/IN/figs/Q-8.png>
 Package pdftex.def Info: GATE/2017/IN/figs/Q-8.png  used on input line 54.
@@ -8870,7 +8874,7 @@ main.tex) (./GATE/2018/AE/main.tex) (./GATE/2017/MA/main.tex
 
 [412]) (./GATE/2018/MN/main.tex) (./GATE/2018/PI/main.tex) (./GATE/2018/XE/main
 .tex
-<GATE/2018/XE/figs/q11_solid.png, id=12439, 92.345pt x 61.73062pt>
+<GATE/2018/XE/figs/q11_solid.png, id=12435, 92.345pt x 61.73062pt>
 File: GATE/2018/XE/figs/q11_solid.png Graphic file (type png)
 <use GATE/2018/XE/figs/q11_solid.png>
 Package pdftex.def Info: GATE/2018/XE/figs/q11_solid.png  used on input line 13
@@ -8900,7 +8904,7 @@ Underfull \vbox (badness 1067) has occurred while \output is active []
 
 
 [416]) (./GATE/2019/ME/main.tex
-<GATE/2019/ME/figs/Fig 5.png, id=12567, 239.39438pt x 186.6975pt>
+<GATE/2019/ME/figs/Fig 5.png, id=12563, 239.39438pt x 186.6975pt>
 File: GATE/2019/ME/figs/Fig 5.png Graphic file (type png)
 <use GATE/2019/ME/figs/Fig 5.png>
 Package pdftex.def Info: GATE/2019/ME/figs/Fig 5.png  used on input line 19.
@@ -8914,7 +8918,7 @@ E/main.tex) (./GATE/2019/PH/main.tex) (./GATE/2010/CS/main.tex) (./GATE/2011/EC
 [418]) (./GATE/2015/CS/main.tex) (./GATE/2015/EC/main.tex
 
 [419]
-<GATE/2015/EC/figs/q18.png, id=12650, 514.92375pt x 211.79124pt>
+<GATE/2015/EC/figs/q18.png, id=12646, 514.92375pt x 211.79124pt>
 File: GATE/2015/EC/figs/q18.png Graphic file (type png)
 <use GATE/2015/EC/figs/q18.png>
 Package pdftex.def Info: GATE/2015/EC/figs/q18.png  used on input line 16.
@@ -8925,7 +8929,7 @@ Package pdftex.def Info: GATE/2015/EC/figs/q18.png  used on input line 16.
 main.tex
 
 [421]) (./GATE/2019/EC/main.tex
-<GATE/2019/EC/figs/q28.png, id=12701, 447.6725pt x 307.1475pt>
+<GATE/2019/EC/figs/q28.png, id=12697, 447.6725pt x 307.1475pt>
 File: GATE/2019/EC/figs/q28.png Graphic file (type png)
 <use GATE/2019/EC/figs/q28.png>
 Package pdftex.def Info: GATE/2019/EC/figs/q28.png  used on input line 21.
@@ -8945,7 +8949,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 ) (./GATE/2020/CS/main.tex
 
 [425]) (./GATE/2020/EC/main.tex
-<GATE/2020/EC/figs/Q30.png, id=12823, 405.515pt x 207.77625pt>
+<GATE/2020/EC/figs/Q30.png, id=12818, 405.515pt x 207.77625pt>
 File: GATE/2020/EC/figs/Q30.png Graphic file (type png)
 <use GATE/2020/EC/figs/Q30.png>
 Package pdftex.def Info: GATE/2020/EC/figs/Q30.png  used on input line 31.
@@ -8956,7 +8960,7 @@ Package pdftex.def Info: GATE/2020/EC/figs/Q30.png  used on input line 31.
 main.tex) (./GATE/2020/IN/main.tex
 
 [427]
-<GATE/2020/IN/figs/q13.jpg, id=12884, 190.91325pt x 133.6995pt>
+<GATE/2020/IN/figs/q13.jpg, id=12880, 190.91325pt x 133.6995pt>
 File: GATE/2020/IN/figs/q13.jpg Graphic file (type jpg)
 <use GATE/2020/IN/figs/q13.jpg>
 Package pdftex.def Info: GATE/2020/IN/figs/q13.jpg  used on input line 52.
@@ -8996,7 +9000,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 .tex
 
 [437]) (./GATE/2021/XE/main.tex) (./GATE/2022/BM/main.tex
-<GATE/2022/BM/figs/q15.png, id=13168, 512.66531pt x 263.48438pt>
+<GATE/2022/BM/figs/q15.png, id=13164, 512.66531pt x 263.48438pt>
 File: GATE/2022/BM/figs/q15.png Graphic file (type png)
 <use GATE/2022/BM/figs/q15.png>
 Package pdftex.def Info: GATE/2022/BM/figs/q15.png  used on input line 25.
@@ -9010,7 +9014,7 @@ Underfull \vbox (badness 5756) has occurred while \output is active []
 
 [439 <./GATE/2022/BM/figs/q15.png>]) (./GATE/2022/CY/main.tex) (./GATE/2022/EC/
 main.tex
-<GATE/2022/EC/figs/m3.jpg, id=13225, 82.50826pt x 78.89474pt>
+<GATE/2022/EC/figs/m3.jpg, id=13221, 82.50826pt x 78.89474pt>
 File: GATE/2022/EC/figs/m3.jpg Graphic file (type jpg)
 <use GATE/2022/EC/figs/m3.jpg>
 Package pdftex.def Info: GATE/2022/EC/figs/m3.jpg  used on input line 15.
@@ -9032,7 +9036,7 @@ ain.tex
 [442]) (./GATE/2022/ME/main.tex
 
 [443]) (./GATE/2022/MN/main.tex
-<GATE/2022/MN/figs/vec.png, id=13341, 172.84575pt x 123.46124pt>
+<GATE/2022/MN/figs/vec.png, id=13337, 172.84575pt x 123.46124pt>
 File: GATE/2022/MN/figs/vec.png Graphic file (type png)
 <use GATE/2022/MN/figs/vec.png>
 Package pdftex.def Info: GATE/2022/MN/figs/vec.png  used on input line 4.
@@ -9052,7 +9056,7 @@ main.tex
 Package multicol Warning: Using `1' columns doesn't seem a good idea.
  I therefore use two columns instead on input line 10.
 
-<GATE/2023/CS/figs/screenshot009.png, id=13462, 109.91063pt x 141.52875pt>
+<GATE/2023/CS/figs/screenshot009.png, id=13457, 109.91063pt x 141.52875pt>
 File: GATE/2023/CS/figs/screenshot009.png Graphic file (type png)
 <use GATE/2023/CS/figs/screenshot009.png>
 Package pdftex.def Info: GATE/2023/CS/figs/screenshot009.png  used on input lin
@@ -9061,7 +9065,7 @@ e 20.
 ) (./GATE/2023/EC/main.tex
 
 [448 <./GATE/2023/CS/figs/screenshot009.png>]) (./GATE/2023/EE/main.tex
-<GATE/2023/EE/figs/Q 24.png, id=13481, 396.48125pt x 254.9525pt>
+<GATE/2023/EE/figs/Q 24.png, id=13477, 396.48125pt x 254.9525pt>
 File: GATE/2023/EE/figs/Q 24.png Graphic file (type png)
 <use GATE/2023/EE/figs/Q 24.png>
 Package pdftex.def Info: GATE/2023/EE/figs/Q 24.png  used on input line 13.
@@ -9082,7 +9086,7 @@ ATE/2023/GE/main.tex) (./GATE/2023/IN/main.tex) (./GATE/2023/MA/main.tex
 [453]
 
 [454]) (./GATE/2023/XE/main.tex
-<GATE/2023/XE/figs/fig14.png, id=13640, 430.60875pt x 193.47281pt>
+<GATE/2023/XE/figs/fig14.png, id=13636, 430.60875pt x 193.47281pt>
 File: GATE/2023/XE/figs/fig14.png Graphic file (type png)
 <use GATE/2023/XE/figs/fig14.png>
 Package pdftex.def Info: GATE/2023/XE/figs/fig14.png  used on input line 46.
@@ -9102,13 +9106,13 @@ E/main.tex) (./GATE/2024/CH/main.tex) (./GATE/2024/CS/main.tex) (./GATE/2024/DA
 [457]
 
 [458]
-<GATE/2024/DA/figs/63.png, id=13744, 335.75438pt x 278.54062pt>
+<GATE/2024/DA/figs/63.png, id=13740, 335.75438pt x 278.54062pt>
 File: GATE/2024/DA/figs/63.png Graphic file (type png)
 <use GATE/2024/DA/figs/63.png>
 Package pdftex.def Info: GATE/2024/DA/figs/63.png  used on input line 76.
 (pdftex.def)             Requested size: 163.88676pt x 135.95906pt.
 ) (./GATE/2024/EC/main.tex
-<GATE/2024/EC/figs/q31.png, id=13745, 465.74pt x 258.9675pt>
+<GATE/2024/EC/figs/q31.png, id=13741, 465.74pt x 258.9675pt>
 File: GATE/2024/EC/figs/q31.png Graphic file (type png)
 <use GATE/2024/EC/figs/q31.png>
 Package pdftex.def Info: GATE/2024/EC/figs/q31.png  used on input line 10.
@@ -9145,7 +9149,7 @@ Underfull \vbox (badness 1796) has occurred while \output is active []
 
 [467]) (./GATE/2025/EC/main.tex) (./GATE/2025/ES/main.tex) (./GATE/2025/GE/main
 .tex
-<GATE/2025/GE/figs/fig12.png, id=13993, 202.7575pt x 94.3525pt>
+<GATE/2025/GE/figs/fig12.png, id=13989, 202.7575pt x 94.3525pt>
 File: GATE/2025/GE/figs/fig12.png Graphic file (type png)
 <use GATE/2025/GE/figs/fig12.png>
 Package pdftex.def Info: GATE/2025/GE/figs/fig12.png  used on input line 6.
@@ -9153,28 +9157,28 @@ Package pdftex.def Info: GATE/2025/GE/figs/fig12.png  used on input line 6.
 
 
 [468]
-<GATE/2025/GE/figs/fig15.png, id=14021, 199.74625pt x 45.16875pt>
+<GATE/2025/GE/figs/fig15.png, id=14017, 199.74625pt x 45.16875pt>
 File: GATE/2025/GE/figs/fig15.png Graphic file (type png)
 <use GATE/2025/GE/figs/fig15.png>
 Package pdftex.def Info: GATE/2025/GE/figs/fig15.png  used on input line 12.
 (pdftex.def)             Requested size: 132.87862pt x 30.04922pt.
-<GATE/2025/GE/figs/fig16.png, id=14022, 199.74625pt x 45.16875pt>
+<GATE/2025/GE/figs/fig16.png, id=14018, 199.74625pt x 45.16875pt>
 File: GATE/2025/GE/figs/fig16.png Graphic file (type png)
 <use GATE/2025/GE/figs/fig16.png>
 Package pdftex.def Info: GATE/2025/GE/figs/fig16.png  used on input line 13.
 (pdftex.def)             Requested size: 132.87862pt x 30.04922pt.
-<GATE/2025/GE/figs/fig17.png, id=14023, 199.74625pt x 45.16875pt>
+<GATE/2025/GE/figs/fig17.png, id=14019, 199.74625pt x 45.16875pt>
 File: GATE/2025/GE/figs/fig17.png Graphic file (type png)
 <use GATE/2025/GE/figs/fig17.png>
 Package pdftex.def Info: GATE/2025/GE/figs/fig17.png  used on input line 14.
 (pdftex.def)             Requested size: 132.87862pt x 30.04922pt.
-<GATE/2025/GE/figs/fig18.png, id=14024, 204.765pt x 45.16875pt>
+<GATE/2025/GE/figs/fig18.png, id=14020, 204.765pt x 45.16875pt>
 File: GATE/2025/GE/figs/fig18.png Graphic file (type png)
 <use GATE/2025/GE/figs/fig18.png>
 Package pdftex.def Info: GATE/2025/GE/figs/fig18.png  used on input line 15.
 (pdftex.def)             Requested size: 132.87862pt x 29.31314pt.
 ) (./GATE/2025/GG1/main.tex
-<GATE/2025/GG1/figs/fig12.png, id=14025, 432.11438pt x 146.04562pt>
+<GATE/2025/GG1/figs/fig12.png, id=14021, 432.11438pt x 146.04562pt>
 File: GATE/2025/GG1/figs/fig12.png Graphic file (type png)
 <use GATE/2025/GG1/figs/fig12.png>
 Package pdftex.def Info: GATE/2025/GG1/figs/fig12.png  used on input line 5.
@@ -9306,7 +9310,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}
                    \relax 
 l.141 \end{align}
                  
-<figs/triangle/vector.pdf, id=14128, 462.52798pt x 346.89601pt>
+<figs/triangle/vector.pdf, id=14124, 462.52798pt x 346.89601pt>
 File: figs/triangle/vector.pdf Graphic file (type pdf)
 <use figs/triangle/vector.pdf>
 Package pdftex.def Info: figs/triangle/vector.pdf  used on input line 147.
@@ -9882,7 +9886,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.3}
                    \relax 
 l.43 \end{align}
                 
-<figs/triangle/median.pdf, id=14272, 462.52798pt x 346.89601pt>
+<figs/triangle/median.pdf, id=14268, 462.52798pt x 346.89601pt>
 File: figs/triangle/median.pdf Graphic file (type pdf)
 <use figs/triangle/median.pdf>
 Package pdftex.def Info: figs/triangle/median.pdf  used on input line 51.
@@ -9952,7 +9956,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [481]
-<figs/triangle/pgm.pdf, id=14288, 462.52798pt x 346.89601pt>
+<figs/triangle/pgm.pdf, id=14284, 462.52798pt x 346.89601pt>
 File: figs/triangle/pgm.pdf Graphic file (type pdf)
 <use figs/triangle/pgm.pdf>
 Package pdftex.def Info: figs/triangle/pgm.pdf  used on input line 14.
@@ -10077,7 +10081,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.4.4}
                    \relax 
 l.31 \end{align}
                 
-<figs/triangle/altitude.pdf, id=14370, 462.52798pt x 346.89601pt>
+<figs/triangle/altitude.pdf, id=14366, 462.52798pt x 346.89601pt>
 File: figs/triangle/altitude.pdf Graphic file (type pdf)
 <use figs/triangle/altitude.pdf>
 Package pdftex.def Info: figs/triangle/altitude.pdf  used on input line 37.
@@ -10263,7 +10267,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.5.1}
                    \relax 
 l.25 		\end{align}
                    (./solutions/1/4/5/assignment2.tex
-<figs/triangle/perp-bisect.pdf, id=14445, 462.52798pt x 346.89601pt>
+<figs/triangle/perp-bisect.pdf, id=14441, 462.52798pt x 346.89601pt>
 File: figs/triangle/perp-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/perp-bisect.pdf>
 Package pdftex.def Info: figs/triangle/perp-bisect.pdf  used on input line 6.
@@ -10431,7 +10435,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.17 		\end{align}
                    (./solutions/1/5/4/main.tex
-<figs/triangle/ang-bisect.pdf, id=14518, 462.52798pt x 346.89601pt>
+<figs/triangle/ang-bisect.pdf, id=14514, 462.52798pt x 346.89601pt>
 File: figs/triangle/ang-bisect.pdf Graphic file (type pdf)
 <use figs/triangle/ang-bisect.pdf>
 Package pdftex.def Info: figs/triangle/ang-bisect.pdf  used on input line 6.
@@ -11794,8 +11798,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0BA97792632E2B96EF2011C2C87DFFEB;11221.
  ) 
 Here is how much of TeX's memory you used:
- 71390 strings out of 473197
- 1609618 string characters out of 5701897
+ 71386 strings out of 473197
+ 1609582 string characters out of 5701897
  1996505 words of memory out of 5000000
  82538 multiletter control sequences out of 15000+600000
  650571 words of font info for 231 fonts, out of 8000000 for 9000
@@ -11820,10 +11824,10 @@ m.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.p
 fb></data/data/com.termux/files/usr/share/texlive/2025/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></data/data/com.termux/files/usr/share/texlive/2025/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (510 pages, 10036754 bytes).
+Output written on main.pdf (510 pages, 10036424 bytes).
 PDF statistics:
- 16954 PDF objects out of 18468 (max. 8388607)
- 14309 compressed objects within 144 object streams
- 9392 named destinations out of 10688 (max. 500000)
+ 16949 PDF objects out of 18468 (max. 8388607)
+ 14304 compressed objects within 144 object streams
+ 9388 named destinations out of 10688 (max. 500000)
  1643 words of extra memory for PDF output out of 10000 (max. 10000000)
 
