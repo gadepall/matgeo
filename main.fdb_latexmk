@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760157818.13775 0
-  "main.idx" 1760157796 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760158198.29725 0
+  "main.idx" 1760158180 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1760157792.35844 "main.tex" "main.pdf" "main" 1760157818.14025 0
+["pdflatex"] 1760158177.59783 "main.tex" "main.pdf" "main" 1760158198.29816 0
   "/data/data/com.termux/files/home/texmf/fonts/tfm/tfrupee/tfrupee.tfm" 1280886116 1808 84ce1a0b8437905ec1ae8e351716b66c ""
   "/data/data/com.termux/files/home/texmf/fonts/type1/tfrupee/tfrupee.pfb" 1280886116 577586 052e80b1605a6cd710ee6806b090bc76 ""
   "/data/data/com.termux/files/home/texmf/tex/latex/tfrupee/tfrupee.sty" 1292385308 424 a47f1b52cb407ee9e00dd6837919bbbd ""
@@ -1005,7 +1005,7 @@
   "chapters/eigen/solutions/4.tex" 1756374384 384 a82c75f32bf04af1921c6b313e3a6905 ""
   "chapters/formulae/circle/equation.tex" 1756374384 5797 59525c6f0a090649ce1425f8c3f53771 ""
   "chapters/formulae/circle/tangent.tex" 1756374384 2415 d8a462603b31b26132b757e4b96cdcea ""
-  "chapters/formulae/conics/app.tex" 1756374384 44287 bda371b3cb2fd8c12f548a65a06feab5 ""
+  "chapters/formulae/conics/app.tex" 1760158175 44293 36d5cb5134de680edcb9867347b15422 ""
   "chapters/formulae/conics/equation.tex" 1756374384 6327 aa6c6ccd341b4c08831c4906efda542c ""
   "chapters/formulae/const.tex" 1756374384 1235 4f24bd50999a6d836cc591c3fbbad2d2 ""
   "chapters/formulae/inter/curves.tex" 1756374384 1903 d95a9eb5dd0cb1aa877b136d1d3deb99 ""
@@ -1071,11 +1071,11 @@
   "figs/triangle/vector.pdf" 1756374387 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1756374387 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1756374387 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1760157816 93022 2070c791255b7e1a0330c6e74b59a757 "pdflatex"
+  "main.aux" 1760158197 93022 2070c791255b7e1a0330c6e74b59a757 "pdflatex"
   "main.ind" 1756374388 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1760157816 11221 0ba97792632e2b96ef2011c2c87dffeb "pdflatex"
+  "main.out" 1760158197 11221 0ba97792632e2b96ef2011c2c87dffeb "pdflatex"
   "main.tex" 1760063786 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1760157816 8307 6c53f81a950ea9372aaef790e92539f1 "pdflatex"
+  "main.toc" 1760158197 8307 6c53f81a950ea9372aaef790e92539f1 "pdflatex"
   "solutions/1/2/1/main.tex" 1756374388 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1756374388 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1756374388 982 f173de01e8a4c9d6e53675687c8d90b7 ""
