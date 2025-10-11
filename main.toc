@@ -54,11 +54,11 @@
 \contentsline {subsection}{\numberline {5.11}Physics}{187}{subsection.5.11}%
 \contentsline {subsection}{\numberline {5.12}CBSE}{189}{subsection.5.12}%
 \contentsline {subsection}{\numberline {5.13}JEE}{190}{subsection.5.13}%
-\contentsline {section}{\numberline {6}Skew Lines}{207}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Formulae}{207}{subsection.6.1}%
+\contentsline {section}{\numberline {6}Skew Lines}{206}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Formulae}{206}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Least Squares}{208}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Singular Value Decomposition}{214}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}CBSE}{219}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.3}Singular Value Decomposition}{213}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}CBSE}{218}{subsection.6.4}%
 \contentsline {section}{\numberline {7}Circle}{221}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Formulae}{221}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Equation}{221}{subsection.7.2}%
@@ -91,7 +91,7 @@
 \contentsline {subsection}{\numberline {11.2}Examples}{311}{subsection.11.2}%
 \contentsline {subsection}{\numberline {11.3}JEE}{316}{subsection.11.3}%
 \contentsline {section}{\numberline {12}GATE}{318}{section.12}%
-\contentsline {section}{Appendix\nobreakspace A: Triangle}{472}{section*.155}%
+\contentsline {section}{Appendix\nobreakspace A: Triangle}{472}{section*.156}%
 \contentsline {subsection}{\numberline {A.1}Sides}{472}{subsection.Appendix.A.1}%
 \contentsline {subsection}{\numberline {A.2}Formulae}{477}{subsection.Appendix.A.2}%
 \contentsline {subsection}{\numberline {A.3}Median}{478}{subsection.Appendix.A.3}%
@@ -101,7 +101,7 @@
 \contentsline {subsection}{\numberline {A.7}Eigenvalues and Eigenvectors}{491}{subsection.Appendix.A.7}%
 \contentsline {subsection}{\numberline {A.8}Formulae}{492}{subsection.Appendix.A.8}%
 \contentsline {subsection}{\numberline {A.9}Matrices}{493}{subsection.Appendix.A.9}%
-\contentsline {section}{Appendix\nobreakspace B: Conic Section}{495}{section*.162}%
+\contentsline {section}{Appendix\nobreakspace B: Conic Section}{495}{section*.163}%
 \contentsline {subsection}{\numberline {B.1}Equation}{495}{subsection.Appendix.B.1}%
 \contentsline {subsection}{\numberline {B.2}Standard Conic}{499}{subsection.Appendix.B.2}%
 \contentsline {subsection}{\numberline {B.3}Conic Lines}{501}{subsection.Appendix.B.3}%
