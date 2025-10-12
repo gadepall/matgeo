@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760269562.93814 0
-  "main.idx" 1760269549.01926 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1755779844.29723 "main.idx" "main.ind" "main" 1760270160.49408 0
+  "main.idx" 1760270145.09622 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1760269547.68403 "main.tex" "main.pdf" "main" 1760269562.93838 0
+["pdflatex"] 1760270143.61538 "main.tex" "main.pdf" "main" 1760270160.4945 0
   "/etc/texmf/web2c/texmf.cnf" 1733921903.49767 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -910,7 +910,7 @@
   "chapters/12/10/3/7/inner.tex" 1755698452.18698 249 1bfa7a311f2285b15d584d80bc258831 ""
   "chapters/12/10/3/8/inner.tex" 1755698452.18698 319 e91412daa9c4a13ae7b53968515eaf29 ""
   "chapters/12/10/3/9/norm.tex" 1755698452.18798 244 dddc3c758034e3a8a5621978a04590bd ""
-  "chapters/12/10/4/1/cross.tex" 1755698452.18798 470 b72c835e5dabe14d109fac562c390646 ""
+  "chapters/12/10/4/1/cross.tex" 1760270137.25281 468 8797fe808648966fac7ee5ae5759d40e ""
   "chapters/12/10/4/10/cross.tex" 1755698452.18798 189 cbd1f03e661869344786747ac7f39d0b ""
   "chapters/12/10/4/11/cross.tex" 1755698452.18798 288 86d5cce08ef08a605467780687e0dfab ""
   "chapters/12/10/4/12/cross.tex" 1755698452.18798 481 51932bd5dfd93abdadec71c510438f99 ""
@@ -1071,11 +1071,11 @@
   "figs/triangle/vector.pdf" 1755698452.443 10899 d95ef74df8f3c7a30a82d39ce56a572c ""
   "gvv-book.sty" 1755698452.443 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1755698452.443 4374 e0265f3cc8fb087d2434efb730c546e4 ""
-  "main.aux" 1760269562.179 94182 83429c8012feb412d3fd63a9a39231d1 "pdflatex"
+  "main.aux" 1760270159.51483 94182 83429c8012feb412d3fd63a9a39231d1 "pdflatex"
   "main.ind" 1755779844.47374 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1760269562.188 11221 0ba97792632e2b96ef2011c2c87dffeb "pdflatex"
+  "main.out" 1760270159.52083 11221 0ba97792632e2b96ef2011c2c87dffeb "pdflatex"
   "main.tex" 1755780155.25409 8233 ec50f739f19350dc79224dd2b2fbc1be ""
-  "main.toc" 1760269562.188 8307 19f46b57ee10dd5d11c2a30a6977caa7 "pdflatex"
+  "main.toc" 1760270159.52083 8307 19f46b57ee10dd5d11c2a30a6977caa7 "pdflatex"
   "solutions/1/2/1/main.tex" 1755698452.528 386 6efce257eff0ec0dbd6d76bc22d578b3 ""
   "solutions/1/2/2/main.tex" 1755698452.528 1532 2fd70cfe64a0b75311bd0e25748c5fbc ""
   "solutions/1/2/3/main.tex" 1755698452.529 982 f173de01e8a4c9d6e53675687c8d90b7 ""
