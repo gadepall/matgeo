@@ -96,7 +96,7 @@ which can be expressed as
 		\label{prop:lin-eq-unit-mat},
 	\\
 	\implies 
-	\myvec{ 1 & 1 &1 \\ \vec{A} & \vec{B} & \vec{C}}^{\top}\myvec{\vec{n} \\ -1} &= \vec{0}
+	\myvec{ \vec{A} & \vec{B} & \vec{C} \\ 1 & 1 &1 }^{\top}\myvec{\vec{n} \\ -1} &= \vec{0}
 		\label{prop:lin-dep-rank}
 \end{align}
 \iffalse
@@ -168,8 +168,9 @@ is given by
 The reflection of point $\vec{Q}$ w.r.t a line is given by
 \begin{align}
 	\label{eq:11/10/4/22}
-\vec{R} = \vec{Q} -\frac{2\brak{\vec{n}^{\top}\vec{Q}-c}}{\norm{\vec{n}}}\vec{n}
+\vec{R} = \vec{Q} -\frac{2\brak{\vec{n}^{\top}\vec{Q}-c}}{\norm{\vec{n}}^2}\vec{n}
 \end{align}
+The above formula can also be used to obtain the reflection about a plane.
 	\item The lines
 \begin{align}
 \begin{split}
