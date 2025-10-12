@@ -83,7 +83,7 @@
 \contentsline {subsection}{\numberline {10.2}Circle}{282}{subsection.10.2}%
 \contentsline {subsection}{\numberline {10.3}Conic}{283}{subsection.10.3}%
 \contentsline {subsection}{\numberline {10.4}CBSE}{292}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}Construction}{293}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.5}Construction}{292}{subsection.10.5}%
 \contentsline {subsection}{\numberline {10.6}CBSE}{293}{subsection.10.6}%
 \contentsline {subsection}{\numberline {10.7}JEE}{294}{subsection.10.7}%
 \contentsline {section}{\numberline {11}Vector Algebra}{309}{section.11}%
